@@ -1,4 +1,3 @@
-
 import os
 import sys
 import re
@@ -10,9 +9,6 @@ import textwrap
 from collections import Counter, defaultdict
 
 
-# =============================================================================
-# BUILDER: Cry Meter
-# =============================================================================
 def build_cry_meter(all_text_items: list[str]) -> dict:
     complaint_keywords = [
         "worst", "robbed", "cheat", "unfair", "terrible", "rigged", "disgrace",
@@ -104,9 +100,6 @@ def build_cry_meter(all_text_items: list[str]) -> dict:
     }
 
 
-# =============================================================================
-# BUILDER: Villain
-# =============================================================================
 def build_villain(all_text_items: list[str]) -> dict:
     villain_keywords = [
         "cheat", "dive", "theatrical", "dirty", "red card",
@@ -219,9 +212,6 @@ def build_villain(all_text_items: list[str]) -> dict:
     }
 
 
-# =============================================================================
-# BUILDER: Tragic Hero
-# =============================================================================
 def build_tragic_hero(all_text_items: list[str]) -> dict:
     hero_keywords = [
         "injury", "heartbreak", "missed", "eliminated", "last chance",
@@ -310,9 +300,6 @@ def build_tragic_hero(all_text_items: list[str]) -> dict:
     }
 
 
-# =============================================================================
-# BUILDER: Tribunal
-# =============================================================================
 def build_tribunal(all_text_items: list[str], trends_data: list[str]) -> dict:
     debate_patterns = [
         "vs", " or ", "better", "debate", "unpopular opinion",
@@ -379,9 +366,6 @@ def build_tribunal(all_text_items: list[str], trends_data: list[str]) -> dict:
     }
 
 
-# =============================================================================
-# MAIN
-# =============================================================================
 def main():
     print(f"🚀 fetch_data.py started at {datetime.datetime.utcnow().isoformat()}Z")
 
