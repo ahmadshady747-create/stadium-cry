@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mundial Drama Pulse</title>
+    <meta name="description" content="Track the hottest World Cup 2026 drama, villains, and controversies as seen from the US & Canada.">
+    
+    <meta property="og:title" content="Mundial Drama Pulse">
+    <meta property="og:description" content="Track the hottest World Cup 2026 drama, villains, and controversies as seen from the US & Canada.">
+    <meta property="og:image" content="https://mundialdramapulse.com/images/og/cry_meter_today.jpg">
+    <meta property="og:url" content="https://mundialdramapulse.com">
+    <meta property="og:type" content="website">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Mundial Drama Pulse">
+    <meta name="twitter:description" content="Track the hottest World Cup 2026 drama, villains, and controversies as seen from the US & Canada.">
+    <meta name="twitter:image" content="https://mundialdramapulse.com/images/og/cry_meter_today.jpg">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <style>
+        body { font-family: 'Inter', system-ui, -apple-system, sans-serif; background-color: #0B0F19; color: #e5e7eb; }
+        #app { min-height: 60vh; }
+        
+        @keyframes pulse-skeleton {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.4; }
+        }
+        
+        .skeleton-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; padding: 2rem; max-width: 1400px; margin: 0 auto; }
+        .skeleton-card { background: #111827; border-radius: 0.75rem; padding: 1.5rem; border: 1px solid #1f2937; }
+        .skeleton-block { background: #1f2937; border-radius: 0.375rem; animation: pulse-skeleton 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+        .skeleton-title { height: 1.5rem; width: 60%; margin-bottom: 1rem; }
+        .skeleton-text { height: 1rem; width: 100%; margin-bottom: 0.75rem; }
+        .skeleton-text.short { width: 40%; }
+        .skeleton-bar { height: 0.75rem; width: 80%; margin-top: 1rem; }
+        
+        .error-state { text-align: center; padding: 4rem 2rem; }
+        .error-icon { font-size: 4rem; margin-bottom: 1rem; }
+        .btn { display: inline-flex; align-items: center; justify-content: center; padding: 0.75rem 1.5rem; border-radius: 0.5rem; font-weight: 700; cursor: pointer; transition: all 0.2s ease; border: none; font-size: 0.875rem; }
+        .btn-primary { background: #E63946; color: white; }
+        .btn-primary:hover { background: #dc2626; transform: translateY(-1px); }
+        
+        .site-header { text-align: center; padding: 3rem 1rem 2rem; }
+        .header-eyebrow { color: #9ca3af; font-size: 0.875rem; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 0.5rem; font-weight: 600; }
+        .site-title { font-size: 2.5rem; font-weight: 900; color: white; letter-spacing: -0.02em; line-height: 1.1; }
+        .accent { color: #E63946; }
+        .site-subtitle { color: #6b7280; margin-top: 0.5rem; font-size: 1rem; }
+        .last-updated { color: #4b5563; font-size: 0.875rem; margin-top: 0.25rem; }
+        
+        .cards-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem; padding: 0 2rem 2rem; max-width: 1400px; margin: 0 auto; }
+        .drama-card { background: #111827; border: 1px solid #1f2937; border-radius: 1rem; padding: 1.5rem; cursor: pointer; transition: transform 0.2s ease, box-shadow 0.2s ease; position: relative; overflow: hidden; display: flex; flex-direction: column; }
+        .drama-card:hover { transform: translateY(-4px); box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5); }
+        .drama-card:focus-visible { outline: 2px solid #00B4D8; outline-offset: 2px; }
+        .card-cry { border-left: 4px solid #FF6B35; }
+        .card-villain { border-left: 4px solid #E63946; }
+        .card-hero { border-left: 4px solid #00B4D8; }
+        .card-tribunal { border-left: 4px solid #F59E0B; cursor: default; }
+        
+        .card-label { font-size: 0.75rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; color: #9ca3af; margin-bottom: 1rem; }
+        .card-score-display { display: flex; align-items: baseline; gap: 0.5rem; margin-bottom: 0.75rem; }
+        .score-number { font-size: 3rem; font-weight: 900; color: #FF6B35; line-height: 1; }
+        .score-unit { color: #6b7280; font-size: 1.25rem; font-weight: 600; }
+        .card-headline { color: #d1d5db; font-size: 1rem; line-height: 1.5; margin-bottom: 1rem; }
+        .trending-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem; }
+        .pill { display: inline-block; padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.75rem; font-weight: 700; border: 1px solid; }
+        .pill-cyan { color: #FF6B35; border-color: #FF6B35; background: rgba(255, 107, 53, 0.1); }
+        .pill-lg { font-size: 0.875rem; padding: 0.375rem 1rem; }
+        .card-cta { color: #9ca3af; font-size: 0.875rem; font-weight: 700; margin-top: auto; display: flex; align-items: center; gap: 0.25rem; transition: color 0.2s; }
+        .drama-card:hover .card-cta { color: white; }
+        
+        .villain-name { font-size: 1.5rem; font-weight: 800; color: white; margin-bottom: 0.5rem; line-height: 1.2; }
+        .role-badge { display: inline-block; padding: 0.25rem 0.75rem; border-radius: 0.375rem; font-size: 0.75rem; font-weight: 800; text-transform: uppercase; background: #1f2937; color: #E63946; border: 1px solid #E63946; margin-bottom: 1rem; }
+        .heat-section { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; }
+        .heat-label { color: #E63946; font-size: 0.875rem; font-weight: 800; }
+        .progress-track { flex: 1; height: 0.5rem; background: #1f2937; border-radius: 9999px; overflow: hidden; }
+        .progress-fill { height: 100%; border-radius: 9999px; transition: width 1s ease-out; }
+        .fill-red { background: #E63946; }
+        .heat-value { color: white; font-weight: 800; font-size: 0.875rem; min-width: 2rem; text-align: right; }
+        .card-reason { color: #9ca3af; font-size: 0.875rem; line-height: 1.5; margin-bottom: 1rem; }
+        
+        .hero-name { font-size: 1.5rem; font-weight: 800; color: white; margin-bottom: 0.25rem; line-height: 1.2; }
+        .team-name { color: #00B4D8; font-size: 1rem; font-weight: 700; margin-bottom: 1rem; }
+        .hearts-row { display: flex; gap: 0.25rem; margin-bottom: 0.5rem; }
+        .heart { font-size: 1.25rem; line-height: 1; }
+        .heart-filled { color: #00B4D8; }
+        .heart-empty { color: #374151; }
+        .sympathy-score { color: #9ca3af; font-size: 0.875rem; margin-bottom: 1rem; font-weight: 600; }
+        
+        .tribunal-question { color: white; font-size: 1.125rem; font-weight: 800; margin-bottom: 1rem; line-height: 1.4; }
+        .vote-section { display: grid; grid-template-columns: 1fr auto 1fr; gap: 1rem; align-items: center; margin-bottom: 1rem; }
+        .vote-side { text-align: center; }
+        .vote-label { font-size: 0.875rem; font-weight: 800; color: #d1d5db; margin-bottom: 0.5rem; }
+        .vote-bar-wrap { height: 0.5rem; background: #1f2937; border-radius: 9999px; overflow: hidden; margin-bottom: 0.5rem; }
+        .vote-bar { height: 100%; border-radius: 9999px; transition: width 1s ease-out; }
+        .bar-a { background: #F59E0B; }
+        .bar-b { background: #E63946; }
+        .vote-pct { font-size: 0.875rem; font-weight: 800; color: white; margin-bottom: 0.5rem; }
+        .vote-btn { padding: 0.5rem 1rem; border-radius: 0.375rem; font-size: 0.875rem; font-weight: 800; cursor: pointer; border: none; transition: all 0.2s; }
+        .btn-a { background: #F59E0B; color: #0B0F19; }
+        .btn-a:hover { background: #d97706; transform: scale(1.05); }
+        .btn-b { background: #E63946; color: white; }
+        .btn-b:hover { background: #dc2626; transform: scale(1.05); }
+        .voted-badge { font-size: 0.75rem; font-weight: 800; color: #10B981; }
+        .vote-vs { font-size: 0.875rem; font-weight: 900; color: #4b5563; }
+        .total-votes { color: #6b7280; font-size: 0.875rem; text-align: center; margin-bottom: 1rem; font-weight: 600; }
+        
+        .detail-view { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
+        .back-btn { display: inline-flex; align-items: center; gap: 0.5rem; margin-bottom: 2rem; color: #9ca3af; background: none; border: none; cursor: pointer; font-size: 0.875rem; font-weight: 700; transition: color 0.2s; padding: 0; }
+        .back-btn:hover { color: white; }
+        .detail-header { margin-bottom: 2rem; }
+        .detail-label { font-size: 0.75rem; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase; color: #6b7280; margin-bottom: 0.5rem; }
+        .detail-title { font-size: 2rem; font-weight: 900; color: white; line-height: 1.2; margin-bottom: 0.5rem; }
+        .villain-title { color: #E63946; }
+        .hero-title { color: #00B4D8; }
+        .tribunal-title { color: #F59E0B; }
+        .detail-meta { color: #4b5563; font-size: 0.875rem; }
+        
+        .score-hero { display: flex; align-items: center; gap: 1.5rem; margin-bottom: 3rem; padding: 2rem; background: #111827; border-radius: 1rem; border: 1px solid #1f2937; }
+        .score-huge { font-size: 5rem; font-weight: 900; color: #FF6B35; line-height: 1; }
+        .score-label { font-size: 1rem; font-weight: 700; color: #d1d5db; }
+        .score-sub { font-size: 0.875rem; color: #6b7280; font-weight: 400; display: block; margin-top: 0.25rem; }
+        
+        .detail-section { margin-bottom: 2.5rem; }
+        .section-title { font-size: 1.25rem; font-weight: 800; color: white; margin-bottom: 1rem; }
+        
+        .cryers-list { display: flex; flex-direction: column; gap: 1rem; }
+        .cryer-item { display: grid; grid-template-columns: auto 1fr auto; gap: 1rem; align-items: center; padding: 1rem; background: #111827; border-radius: 0.75rem; border: 1px solid #1f2937; }
+        .cryer-rank { font-size: 1.25rem; font-weight: 900; color: #4b5563; }
+        .cryer-name { font-size: 1.125rem; font-weight: 800; color: white; margin-bottom: 0.25rem; }
+        .cryer-complaint { font-size: 0.875rem; color: #9ca3af; margin-bottom: 0.5rem; }
+        .cryer-bar-wrap { height: 0.5rem; background: #1f2937; border-radius: 9999px; overflow: hidden; }
+        .cryer-bar { height: 100%; background: #FF6B35; border-radius: 9999px; transition: width 1s ease-out; }
+        .cyan-text { color: #FF6B35; font-weight: 800; }
+        .cryer-score { font-size: 1.25rem; font-weight: 900; }
+        
+        .pills-container { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+        
+        .og-preview { margin-top: 3rem; padding: 1.5rem; background: #111827; border-radius: 1rem; border: 1px solid #1f2937; text-align: center; }
+        .og-preview h3 { color: white; font-size: 1.125rem; font-weight: 800; margin-bottom: 1rem; }
+        .og-image-preview { width: 100%; max-width: 600px; border-radius: 0.5rem; margin-bottom: 1rem; border: 1px solid #1f2937; }
+        .btn-secondary { background: #1f2937; color: white; border: 1px solid #374151; }
+        .btn-secondary:hover { background: #374151; }
+        .btn-danger { background: #E63946; color: white; }
+        .btn-danger:hover { background: #dc2626; }
+        .btn-gold { background: #00B4D8; color: #0B0F19; }
+        .btn-gold:hover { background: #0ea5e9; }
+        
+        .heat-hero { margin-bottom: 2rem; }
+        .heat-hero-label { font-size: 1rem; font-weight: 800; color: #E63946; margin-bottom: 0.75rem; }
+        .heat-bar-large-wrap { height: 1rem; background: #1f2937; border-radius: 9999px; overflow: hidden; margin-bottom: 0.75rem; }
+        .heat-bar-large { height: 100%; background: #E63946; border-radius: 9999px; transition: width 1.2s ease-out; }
+        .heat-score-display { font-size: 1.5rem; font-weight: 800; color: white; }
+        .heat-max { color: #6b7280; font-size: 1rem; font-weight: 400; }
+        .source-count { color: #9ca3af; font-size: 0.875rem; margin-top: 1rem; }
+        .slander-quote { border-left: 4px solid #E63946; padding-left: 1rem; font-size: 1.125rem; color: #d1d5db; font-style: italic; line-height: 1.5; }
+        .quote-mark { color: #E63946; font-weight: 900; }
+        .action-buttons { display: flex; gap: 1rem; margin-top: 2rem; flex-wrap: wrap; }
+        
+        .sympathy-hero { margin-bottom: 2rem; }
+        .hearts-large { display: flex; gap: 0.5rem; margin-bottom: 0.75rem; }
+        .heart-lg { font-size: 2rem; line-height: 1; }
+        .heart-gold { color: #00B4D8; }
+        .heart-dim { color: #374151; }
+        .sympathy-label { color: #9ca3af; font-size: 1rem; margin-bottom: 2rem; font-weight: 600; }
+        .hero-story { font-size: 1.125rem; line-height: 1.7; color: #d1d5db; margin-bottom: 2rem; }
+        .hero-quote { display: flex; gap: 1rem; margin-bottom: 2rem; }
+        .quote-border-left { width: 4px; background: #00B4D8; border-radius: 2px; flex-shrink: 0; }
+        #hero-quote-text { font-size: 1.25rem; font-style: italic; color: white; line-height: 1.5; }
+        
+        .tribunal-arena { display: grid; grid-template-columns: 1fr auto 1fr; gap: 1.5rem; align-items: stretch; margin-bottom: 2rem; }
+        @media (max-width: 640px) {
+            .tribunal-arena { grid-template-columns: 1fr; }
+            .tribunal-divider { display: none; }
+            .vote-section { grid-template-columns: 1fr; }
+            .score-hero { flex-direction: column; align-items: flex-start; }
+        }
+        .tribunal-side { padding: 1.5rem; background: #111827; border-radius: 1rem; border: 1px solid #1f2937; display: flex; flex-direction: column; }
+        .tribunal-side.voted-side { border-color: #F59E0B; box-shadow: 0 0 20px rgba(245, 158, 11, 0.15); }
+        .side-label { font-size: 1.5rem; font-weight: 900; margin-bottom: 0.75rem; line-height: 1.2; }
+        .orange-text { color: #F59E0B; }
+        .red-text { color: #E63946; }
+        .side-desc { color: #9ca3af; font-size: 1rem; line-height: 1.5; margin-bottom: 1.5rem; }
+        .side-pct { font-size: 3rem; font-weight: 900; color: white; margin-bottom: 0.5rem; line-height: 1; }
+        .side-bar-wrap { height: 0.75rem; background: #1f2937; border-radius: 9999px; overflow: hidden; margin-bottom: 1rem; }
+        .bar-a-detail { background: #F59E0B; }
+        .bar-b-detail { background: #E63946; }
+        .vote-btn-lg { width: 100%; padding: 0.75rem; border-radius: 0.5rem; font-size: 1rem; font-weight: 800; cursor: pointer; border: none; transition: all 0.2s; margin-top: auto; }
+        .btn-a-lg { background: #F59E0B; color: #0B0F19; }
+        .btn-a-lg:hover { background: #d97706; transform: scale(1.02); }
+        .btn-b-lg { background: #E63946; color: white; }
+        .btn-b-lg:hover { background: #dc2626; transform: scale(1.02); }
+        .my-vote-badge { text-align: center; color: #10B981; font-weight: 800; font-size: 0.875rem; margin-top: auto; padding: 0.75rem 0; }
+        .tribunal-divider { display: flex; align-items: center; justify-content: center; }
+        .vs-circle { width: 3rem; height: 3rem; display: flex; align-items: center; justify-content: center; border-radius: 50%; background: #1f2937; color: #6b7280; font-weight: 900; font-size: 0.875rem; border: 1px solid #374151; }
+        .tribunal-footer { display: flex; flex-direction: column; align-items: center; gap: 1rem; margin-top: 2rem; }
+        .total-votes-display { text-align: center; }
+        .total-votes-num { font-size: 1.5rem; font-weight: 900; color: white; }
+        .total-votes-label { color: #6b7280; font-size: 0.875rem; }
+        
+        .site-footer { text-align: center; padding: 2rem; color: #4b5563; font-size: 0.875rem; border-top: 1px solid #1f2937; margin-top: 2rem; }
+        
+        @keyframes flash-red-green {
+            0%, 100% { background-color: #10B981; box-shadow: 0 0 12px rgba(16, 185, 129, 0.6); }
+            50% { background-color: #EF4444; box-shadow: 0 0 12px rgba(239, 68, 68, 0.6); }
+        }
+        @keyframes blink-dot {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.4; transform: scale(0.8); }
+        }
+        .live-badge {
+            animation: flash-red-green 2s infinite;
+            color: white;
+            font-weight: 800;
+            font-size: 0.75rem;
+            padding: 0.375rem 0.875rem;
+            border-radius: 9999px;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            white-space: nowrap;
+        }
+        .live-dot {
+            width: 6px;
+            height: 6px;
+            background: white;
+            border-radius: 50%;
+            animation: blink-dot 1.2s infinite;
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col">
+
+    <nav class="w-full border-b border-gray-800 bg-[#0B0F19]/95 backdrop-blur sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
+            <a href="/" class="flex items-center gap-3 group" onclick="event.preventDefault(); navigate('/');">
+                <span class="text-2xl group-hover:scale-110 transition-transform">⚽</span>
+                <span class="font-black text-white tracking-tight text-lg">MUNDIAL <span class="text-[#E63946]">DRAMA</span> PULSE</span>
+            </a>
+            <div class="live-badge" id="live-badge" aria-label="Live voting status">
+                <span class="live-dot"></span>
+                <span>Stadium Pulse: <span id="fan-count">0</span> fans voting now</span>
+            </div>
+        </div>
+    </nav>
+
+    <main class="flex-grow w-full">
+        <div id="app"></div>
+        
+        <div class="ad-space-728x90 mx-auto my-4 bg-[#111827] border border-gray-800 flex items-center justify-center text-gray-500 h-[90px] max-w-[728px] rounded-md">
+            Ad Space - 728x90
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <p>Mundial Drama Pulse · Data refreshes every 6 hours · Targeting US & Canada fans</p>
+    </footer>
+
+    <script src="/assets/js/app.js"></script>
+    <script>
+        (function() {
+            const countEl = document.getElementById('fan-count');
+            function updateCount() {
+                const base = 12400 + Math.floor(Math.random() * 28000);
+                countEl.textContent = base.toLocaleString('en-US');
+            }
+            updateCount();
+            setInterval(updateCount, 4000);
+        })();
+    </script>
+</body>
+</html>
