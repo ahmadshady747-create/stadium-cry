@@ -1,0 +1,51 @@
+[build]
+  publish = "public"
+
+# SPA Redirects — all routes serve index.html for client-side routing
+[[redirects]]
+  from = "/villain"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/hero"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/cry-meter"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/tribunal"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/card/*"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Cache drama data for max 10 minutes to keep content fresh
+[[headers]]
+  for = "/data/data.json"
+  [headers.values]
+    Cache-Control = "public, max-age=600, must-revalidate"
+
+# Cache generated OG images aggressively to optimize bandwidth
+[[headers]]
+  for = "/images/og/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800, immutable"
+
+# Cache legacy OG image path if used
+[[headers]]
+  for = "/og-images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800, immutable"
