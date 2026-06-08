@@ -1,0 +1,9 @@
+# Mundial Drama Pulse — SPA Fallback Rules
+# Ensure direct links to drama cards serve index.html with 200 status
+
+/villain      /index.html   200
+/hero         /index.html   200
+/cry-meter    /index.html   200
+/tribunal     /index.html   200
+/card/*       /index.html   200
+/*            /index.html   200
