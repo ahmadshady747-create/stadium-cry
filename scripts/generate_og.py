@@ -1,4 +1,3 @@
-
 from PIL import Image, ImageDraw, ImageFont
 import json
 import pathlib
@@ -321,12 +320,14 @@ def generate_tribunal(data, output_path):
     total_bbox = draw.textbbox((0, 0), total_text, font=total_font)
     draw.text((600 - (total_bbox[2] - total_bbox[0]) // 2, 585), total_text, font=total_font, fill=hex_to_rgb(DIM))
 
-    tiny_text = "VOTE NOW AT MUNDIALDRAMPULSE.COM"
+    # Draw footer background BEFORE any footer text so text renders on top
+    draw.rectangle([(0, 600), (1200, 630)], fill=hex_to_rgb("#111122"))
+
+    tiny_text = "VOTE NOW AT MUNDIALDRAMAPULSE.COM"
     tiny_font = load_font(14)
     tiny_bbox = draw.textbbox((0, 0), tiny_text, font=tiny_font)
     draw.text((600 - (tiny_bbox[2] - tiny_bbox[0]) // 2, 612), tiny_text, font=tiny_font, fill=(50, 50, 50))
 
-    draw.rectangle([(0, 600), (1200, 630)], fill=hex_to_rgb("#111122"))
     updated_text = f"Updated: {data['meta']['lastUpdated'][:16].replace('T', ' ')} UTC"
     draw.text((20, 607), updated_text, font=load_font(16), fill=hex_to_rgb(DIM))
     domain_text = "mundialdraMApulse.com"
