@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-08T23:03:47Z",
+    "lastUpdated": "2026-06-09T11:45:36Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -51,10 +51,10 @@
   },
   "tragicHero": {
     "name": "Football Weekly",
-    "team": "Brazil",
+    "team": "Germany",
     "story": "Football Daily | It’s World Cup week – will the hope, memes and dreams be as good as it gets? <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "World Cup 2026 preview: Groups A-D – Football Weekly <p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max...",
+    "quote": "World Cup 2026 preview: Groups E-H | Football Weekly – video <p>Max Rushden is joined by Barry Glendenning, Jonathan...",
     "image": null
   },
   "tribunal": {
@@ -62,15 +62,15 @@
     "sideA": {
       "label": "Griping about Tuchel’s handbra",
       "description": "Advocating for Griping about Tuchel’s handbra in this heated debate.",
-      "mockVotes": 64102,
-      "percentage": 60.7
+      "mockVotes": 35812,
+      "percentage": 55.5
     },
     "sideB": {
       "label": "Arteta’s bus makes the banters",
       "description": "Standing firm with Arteta’s bus makes the banters on this issue.",
-      "mockVotes": 41445,
-      "percentage": 39.3
+      "mockVotes": 28716,
+      "percentage": 44.5
     },
-    "totalMockVotes": 105547
+    "totalMockVotes": 64528
   }
 }
