@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-09T11:45:36Z",
+    "lastUpdated": "2026-06-09T19:36:37Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -41,7 +41,7 @@
     "source": "Fallback aggregated drama signals"
   },
   "villain": {
-    "name": "Champions League",
+    "name": "Manchester City",
     "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
@@ -50,9 +50,9 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Football Weekly",
+    "name": "Max Rushden",
     "team": "Germany",
-    "story": "Football Daily | It’s World Cup week – will the hope, memes and dreams be as good as it gets? <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "story": "World Cup 2026 preview: Groups E-H | Football Weekly – video <p>Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Groups E-H.</p><p></p><p>Subscribe to The Guardian Football Weekly ►...",
     "sympathyScore": 95,
     "quote": "World Cup 2026 preview: Groups E-H | Football Weekly – video <p>Max Rushden is joined by Barry Glendenning, Jonathan...",
     "image": null
