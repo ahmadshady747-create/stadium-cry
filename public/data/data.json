@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-10T11:10:50Z",
+    "lastUpdated": "2026-06-10T21:25:03Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -41,33 +41,33 @@
     "source": "Fallback aggregated drama signals"
   },
   "villain": {
-    "name": "Real Madrid",
+    "name": "Champions League",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 7,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "Champions League",
+    "name": "Max Rushden",
     "team": "England",
-    "story": "PSG now stand alongside some of Europe’s best-ever, but with caveats | Jonathan Wilson <p>The origin of PSG’s largesse and the effect it’s had on their domestic game can’t be ignored, even as we appreciate the team’s stunning...",
+    "story": "PSG break Arsenal’s hearts and Arne Slot out at Liverpool – Football Weekly <p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry...",
     "sympathyScore": 95,
-    "quote": "Bukayo Saka is playing through pain barrier, says Tuchel, as World Cup looms <ul><li><p>Arsenal forward still...",
+    "quote": "World Cup 2026 preview: Groups I-L – Football Weekly <p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max...",
     "image": null
   },
   "tribunal": {
-    "question": "Real Madrid Keep or Dump: With Mourinho in charge,... After another disappointin",
+    "question": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | M",
     "sideA": {
-      "label": "Real Madrid Keep",
-      "description": "Advocating for Real Madrid Keep in this heated debate.",
+      "label": "Griping about Tuchel’s handbra",
+      "description": "Advocating for Griping about Tuchel’s handbra in this heated debate.",
       "mockVotes": 62415,
       "percentage": 49.6
     },
     "sideB": {
-      "label": "Dump: With Mourinho in charge,",
-      "description": "Standing firm with Dump: With Mourinho in charge, on this issue.",
+      "label": "Arteta’s bus makes the banters",
+      "description": "Standing firm with Arteta’s bus makes the banters on this issue.",
       "mockVotes": 63324,
       "percentage": 50.4
     },
