@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-11T13:07:00Z",
+    "lastUpdated": "2026-06-11T22:21:44Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,26 +9,26 @@
     ]
   },
   "cryMeter": {
-    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "USA",
-        "complaint": "scandal",
-        "score": 95,
-        "flag": "🇺🇸"
-      },
       {
         "name": "Mexico",
         "complaint": "traffic",
         "score": 95,
         "flag": "🇲🇽"
+      },
+      {
+        "name": "USA",
+        "complaint": "scandal",
+        "score": 95,
+        "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 6,
+    "overallWhineScore": 4,
     "trending": [
-      "scandal",
       "traffic",
       "worst",
+      "scandal",
       "terrible"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
@@ -36,31 +36,31 @@
   "villain": {
     "name": "Champions League",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
-    "name": "Max Rushden",
+    "name": "Champions League",
     "team": "England",
-    "story": "PSG break Arsenal’s hearts and Arne Slot out at Liverpool – Football Weekly <p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry...",
+    "story": "PSG now stand alongside some of Europe’s best-ever, but with caveats | Jonathan Wilson <p>The origin of PSG’s largesse and the effect it’s had on their domestic game can’t be ignored, even as we appreciate the team’s stunning...",
     "sympathyScore": 95,
-    "quote": "World Cup 2026 preview: Groups I-L – Football Weekly <p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max...",
+    "quote": "Real Madrid confirm José Mourinho’s return as manager after 13 years away <ul><li><p>63-year-old leaves Benfica to move.",
     "image": null
   },
   "tribunal": {
-    "question": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | M",
+    "question": "Real Madrid Keep or Dump: With Mourinho in charge,... null",
     "sideA": {
-      "label": "Griping about Tuchel’s handbra",
-      "description": "Advocating for Griping about Tuchel’s handbra in this heated debate.",
+      "label": "Real Madrid Keep",
+      "description": "Advocating for Real Madrid Keep in this heated debate.",
       "mockVotes": 73689,
       "percentage": 58.0
     },
     "sideB": {
-      "label": "Arteta’s bus makes the banters",
-      "description": "Standing firm with Arteta’s bus makes the banters on this issue.",
+      "label": "Dump: With Mourinho in charge,",
+      "description": "Standing firm with Dump: With Mourinho in charge, on this issue.",
       "mockVotes": 53266,
       "percentage": 42.0
     },
