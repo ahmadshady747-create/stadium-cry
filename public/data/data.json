@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-10T21:25:03Z",
+    "lastUpdated": "2026-06-11T13:07:00Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,36 +9,29 @@
     ]
   },
   "cryMeter": {
-    "headline": "The Refereeing Drama Is Sending Everyone Into Meltdown Mode",
+    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
         "name": "USA",
-        "complaint": "VAR is rigged",
-        "score": 85,
+        "complaint": "scandal",
+        "score": 95,
         "flag": "🇺🇸"
       },
       {
         "name": "Mexico",
-        "complaint": "offside by a pixel",
-        "score": 72,
+        "complaint": "traffic",
+        "score": 95,
         "flag": "🇲🇽"
-      },
-      {
-        "name": "Argentina",
-        "complaint": "stadium tickets scalped",
-        "score": 68,
-        "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 67,
+    "overallWhineScore": 6,
     "trending": [
-      "VAR is rigged",
-      "offside by a pixel",
-      "stadium tickets scalped",
-      "traffic nightmare in host cities",
-      "refs hate us"
+      "scandal",
+      "traffic",
+      "worst",
+      "terrible"
     ],
-    "source": "Fallback aggregated drama signals"
+    "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Champions League",
@@ -62,15 +55,15 @@
     "sideA": {
       "label": "Griping about Tuchel’s handbra",
       "description": "Advocating for Griping about Tuchel’s handbra in this heated debate.",
-      "mockVotes": 62415,
-      "percentage": 49.6
+      "mockVotes": 73689,
+      "percentage": 58.0
     },
     "sideB": {
       "label": "Arteta’s bus makes the banters",
       "description": "Standing firm with Arteta’s bus makes the banters on this issue.",
-      "mockVotes": 63324,
-      "percentage": 50.4
+      "mockVotes": 53266,
+      "percentage": 42.0
     },
-    "totalMockVotes": 125739
+    "totalMockVotes": 126955
   }
 }
