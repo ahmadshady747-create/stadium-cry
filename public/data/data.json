@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-11T22:21:44Z",
+    "lastUpdated": "2026-06-12T12:40:52Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,14 +9,8 @@
     ]
   },
   "cryMeter": {
-    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "Mexico",
-        "complaint": "traffic",
-        "score": 95,
-        "flag": "🇲🇽"
-      },
       {
         "name": "USA",
         "complaint": "scandal",
@@ -24,11 +18,11 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 4,
+    "overallWhineScore": 3,
     "trending": [
-      "traffic",
       "worst",
       "scandal",
+      "traffic",
       "terrible"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
@@ -43,27 +37,27 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Champions League",
-    "team": "England",
+    "name": "Jonathan Wilson",
+    "team": "USA",
     "story": "PSG now stand alongside some of Europe’s best-ever, but with caveats | Jonathan Wilson <p>The origin of PSG’s largesse and the effect it’s had on their domestic game can’t be ignored, even as we appreciate the team’s stunning...",
     "sympathyScore": 95,
-    "quote": "Real Madrid confirm José Mourinho’s return as manager after 13 years away <ul><li><p>63-year-old leaves Benfica to move.",
+    "quote": "World Cup 2026: Mexico’s winning start; empty seats; USA and Canada enter fray; Endo’s Japan retirement – live <p>⚽️ <a.",
     "image": null
   },
   "tribunal": {
-    "question": "Real Madrid Keep or Dump: With Mourinho in charge,... null",
+    "question": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | M",
     "sideA": {
-      "label": "Real Madrid Keep",
-      "description": "Advocating for Real Madrid Keep in this heated debate.",
-      "mockVotes": 73689,
-      "percentage": 58.0
+      "label": "Griping about Tuchel’s handbra",
+      "description": "Advocating for Griping about Tuchel’s handbra in this heated debate.",
+      "mockVotes": 25256,
+      "percentage": 37.7
     },
     "sideB": {
-      "label": "Dump: With Mourinho in charge,",
-      "description": "Standing firm with Dump: With Mourinho in charge, on this issue.",
-      "mockVotes": 53266,
-      "percentage": 42.0
+      "label": "Arteta’s bus makes the banters",
+      "description": "Standing firm with Arteta’s bus makes the banters on this issue.",
+      "mockVotes": 41790,
+      "percentage": 62.3
     },
-    "totalMockVotes": 126955
+    "totalMockVotes": 67046
   }
 }
