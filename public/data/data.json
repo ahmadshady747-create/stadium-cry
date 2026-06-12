@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-12T12:40:52Z",
+    "lastUpdated": "2026-06-12T21:19:31Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,14 @@
     ]
   },
   "cryMeter": {
-    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "Mexico",
+        "complaint": "expensive",
+        "score": 95,
+        "flag": "🇲🇽"
+      },
       {
         "name": "USA",
         "complaint": "scandal",
@@ -18,9 +24,10 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 3,
+    "overallWhineScore": 6,
     "trending": [
       "worst",
+      "expensive",
       "scandal",
       "traffic",
       "terrible"
@@ -37,24 +44,24 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Jonathan Wilson",
-    "team": "USA",
+    "name": "Champions League",
+    "team": "England",
     "story": "PSG now stand alongside some of Europe’s best-ever, but with caveats | Jonathan Wilson <p>The origin of PSG’s largesse and the effect it’s had on their domestic game can’t be ignored, even as we appreciate the team’s stunning...",
     "sympathyScore": 95,
-    "quote": "World Cup 2026: Mexico’s winning start; empty seats; USA and Canada enter fray; Endo’s Japan retirement – live <p>⚽️ <a.",
+    "quote": "Real Madrid confirm José Mourinho’s return as manager after 13 years away <ul><li><p>63-year-old leaves Benfica to move.",
     "image": null
   },
   "tribunal": {
-    "question": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | M",
+    "question": "Scotland become faithfuls or traitors before World Cup opener against Haiti <ul>",
     "sideA": {
-      "label": "Griping about Tuchel’s handbra",
-      "description": "Advocating for Griping about Tuchel’s handbra in this heated debate.",
+      "label": "Scotland become faithfuls",
+      "description": "Advocating for Scotland become faithfuls in this heated debate.",
       "mockVotes": 25256,
       "percentage": 37.7
     },
     "sideB": {
-      "label": "Arteta’s bus makes the banters",
-      "description": "Standing firm with Arteta’s bus makes the banters on this issue.",
+      "label": "traitors before World Cup open",
+      "description": "Standing firm with traitors before World Cup open on this issue.",
       "mockVotes": 41790,
       "percentage": 62.3
     },
