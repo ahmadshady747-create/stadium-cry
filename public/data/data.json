@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-12T21:19:31Z",
+    "lastUpdated": "2026-06-13T10:15:06Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,14 +9,8 @@
     ]
   },
   "cryMeter": {
-    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "Mexico",
-        "complaint": "expensive",
-        "score": 95,
-        "flag": "🇲🇽"
-      },
       {
         "name": "USA",
         "complaint": "scandal",
@@ -24,47 +18,45 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 6,
+    "overallWhineScore": 2,
     "trending": [
       "worst",
-      "expensive",
       "scandal",
-      "traffic",
       "terrible"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Champions League",
+    "name": "South Africa",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 6,
+    "topSlander": "Joy for Jiménez and Mexico as co-hosts make ideal start: World Cup Daily – podcast <p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max...",
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "Champions League",
-    "team": "England",
-    "story": "PSG now stand alongside some of Europe’s best-ever, but with caveats | Jonathan Wilson <p>The origin of PSG’s largesse and the effect it’s had on their domestic game can’t be ignored, even as we appreciate the team’s stunning...",
+    "name": "Carlo Ancelotti",
+    "team": "Brazil",
+    "story": "Injury deprived me of chance to play so I am going to the World Cup to support Brazil | Rodrygo <p>Watching the squad presentation knowing I wasn’t in it was tough, but I have high hopes with Carlo Ancelotti in charge</p><p>I am travelling to the...",
     "sympathyScore": 95,
-    "quote": "Real Madrid confirm José Mourinho’s return as manager after 13 years away <ul><li><p>63-year-old leaves Benfica to move.",
+    "quote": "Ancelotti: 'Beautiful moment' to lead Brazil at WC... Carlo Ancelotti has said he is ready for a \"beautiful moment\" in..",
     "image": null
   },
   "tribunal": {
-    "question": "Scotland become faithfuls or traitors before World Cup opener against Haiti <ul>",
+    "question": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | M",
     "sideA": {
-      "label": "Scotland become faithfuls",
-      "description": "Advocating for Scotland become faithfuls in this heated debate.",
-      "mockVotes": 25256,
-      "percentage": 37.7
+      "label": "Griping about Tuchel’s handbra",
+      "description": "Advocating for Griping about Tuchel’s handbra in this heated debate.",
+      "mockVotes": 67872,
+      "percentage": 73.2
     },
     "sideB": {
-      "label": "traitors before World Cup open",
-      "description": "Standing firm with traitors before World Cup open on this issue.",
-      "mockVotes": 41790,
-      "percentage": 62.3
+      "label": "Arteta’s bus makes the banters",
+      "description": "Standing firm with Arteta’s bus makes the banters on this issue.",
+      "mockVotes": 24840,
+      "percentage": 26.8
     },
-    "totalMockVotes": 67046
+    "totalMockVotes": 92712
   }
 }
