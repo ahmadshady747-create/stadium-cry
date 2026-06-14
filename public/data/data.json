@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-14T17:02:07Z",
+    "lastUpdated": "2026-06-14T22:21:12Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,44 +9,52 @@
     ]
   },
   "cryMeter": {
-    "headline": "England Fans Are the Loudest Crybabies at WC2026",
+    "headline": "The Refereeing Drama Is Sending Everyone Into Meltdown Mode",
     "topCryers": [
       {
-        "name": "England",
-        "complaint": "scandal",
-        "score": 95,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+        "name": "USA",
+        "complaint": "VAR is rigged",
+        "score": 85,
+        "flag": "🇺🇸"
       },
       {
-        "name": "USA",
-        "complaint": "scandal",
-        "score": 95,
-        "flag": "🇺🇸"
+        "name": "Mexico",
+        "complaint": "offside by a pixel",
+        "score": 72,
+        "flag": "🇲🇽"
+      },
+      {
+        "name": "Argentina",
+        "complaint": "stadium tickets scalped",
+        "score": 68,
+        "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 4,
+    "overallWhineScore": 67,
     "trending": [
-      "scandal",
-      "worst",
-      "terrible"
+      "VAR is rigged",
+      "offside by a pixel",
+      "stadium tickets scalped",
+      "traffic nightmare in host cities",
+      "refs hate us"
     ],
-    "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
+    "source": "Fallback aggregated drama signals"
   },
   "villain": {
-    "name": "Paris Saint",
-    "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Real Madrid",
+    "role": "coach",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 4,
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
-    "name": "Jonathan Wilson",
-    "team": "Mexico",
+    "name": "Real Madrid",
+    "team": "Spain",
     "story": "PSG now stand alongside some of Europe’s best-ever, but with caveats | Jonathan Wilson <p>The origin of PSG’s largesse and the effect it’s had on their domestic game can’t be ignored, even as we appreciate the team’s stunning...",
     "sympathyScore": 95,
-    "quote": "Being the best in Asia is no longer enough for Japan seeking World Cup breakthrough | Jonathan Wilson <p>Despite...",
+    "quote": "Real Madrid agree to sign Chelsea defender Marc Cucurella in £52m deal <ul><li><p>Spain left-back will complete...",
     "image": null
   },
   "tribunal": {
