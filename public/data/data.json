@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-13T21:54:35Z",
+    "lastUpdated": "2026-06-14T10:54:55Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,13 +9,13 @@
     ]
   },
   "cryMeter": {
-    "headline": "Canada Fans Are the Loudest Crybabies at WC2026",
+    "headline": "England Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
-        "name": "Canada",
-        "complaint": "unfair",
+        "name": "England",
+        "complaint": "scandal",
         "score": 95,
-        "flag": "🇨🇦"
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
         "name": "USA",
@@ -24,21 +24,20 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 6,
+    "overallWhineScore": 4,
     "trending": [
-      "worst",
-      "unfair",
       "scandal",
+      "worst",
       "terrible"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Gianni Infantino",
+    "name": "Paris Saint",
     "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "I read Gianni Infantino’s name-dropping, despot-fluffing book so you don’t have to | Barney Ronay <p>The Fifa president’s biography talks about magic.",
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
     "sourceCount": 4,
     "image": null
   },
@@ -55,15 +54,15 @@
     "sideA": {
       "label": "Griping about Tuchel’s handbra",
       "description": "Advocating for Griping about Tuchel’s handbra in this heated debate.",
-      "mockVotes": 67872,
-      "percentage": 73.2
+      "mockVotes": 68263,
+      "percentage": 70.6
     },
     "sideB": {
       "label": "Arteta’s bus makes the banters",
       "description": "Standing firm with Arteta’s bus makes the banters on this issue.",
-      "mockVotes": 24840,
-      "percentage": 26.8
+      "mockVotes": 28482,
+      "percentage": 29.4
     },
-    "totalMockVotes": 92712
+    "totalMockVotes": 96745
   }
 }
