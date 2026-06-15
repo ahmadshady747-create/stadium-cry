@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-14T22:21:12Z",
+    "lastUpdated": "2026-06-15T18:11:51Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -43,18 +43,18 @@
   "villain": {
     "name": "Real Madrid",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 6,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "Real Madrid",
-    "team": "Spain",
+    "name": "Jonathan Wilson",
+    "team": "Mexico",
     "story": "PSG now stand alongside some of Europe’s best-ever, but with caveats | Jonathan Wilson <p>The origin of PSG’s largesse and the effect it’s had on their domestic game can’t be ignored, even as we appreciate the team’s stunning...",
     "sympathyScore": 95,
-    "quote": "Real Madrid agree to sign Chelsea defender Marc Cucurella in £52m deal <ul><li><p>Spain left-back will complete...",
+    "quote": "Could Asian teams be catching up to Europe at this World Cup? | Jonathan Wilson <p>If there were a shift in world...",
     "image": null
   },
   "tribunal": {
@@ -62,15 +62,15 @@
     "sideA": {
       "label": "Griping about Tuchel’s handbra",
       "description": "Advocating for Griping about Tuchel’s handbra in this heated debate.",
-      "mockVotes": 68263,
-      "percentage": 70.6
+      "mockVotes": 48190,
+      "percentage": 39.8
     },
     "sideB": {
       "label": "Arteta’s bus makes the banters",
       "description": "Standing firm with Arteta’s bus makes the banters on this issue.",
-      "mockVotes": 28482,
-      "percentage": 29.4
+      "mockVotes": 72825,
+      "percentage": 60.2
     },
-    "totalMockVotes": 96745
+    "totalMockVotes": 121015
   }
 }
