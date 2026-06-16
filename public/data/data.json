@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-16T16:03:28Z",
+    "lastUpdated": "2026-06-16T23:14:34Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -33,32 +33,32 @@
   },
   "villain": {
     "name": "Cape Verde",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
+    "role": "player",
+    "reason": "Widely criticized for controversy. Mentioned in 10 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 7,
+    "sourceCount": 10,
     "image": null
   },
   "tragicHero": {
-    "name": "Real Madrid",
-    "team": "Brazil",
-    "story": "PSG now stand alongside some of Europe’s best-ever, but with caveats | Jonathan Wilson <p>The origin of PSG’s largesse and the effect it’s had on their domestic game can’t be ignored, even as we appreciate the team’s stunning...",
+    "name": "Cape Verde",
+    "team": "Spain",
+    "story": "From Shamrock Rovers to defying Spain: ‘rusty’ Roberto Lopes savours Cape Verde’s finest hour <p>Dublin-born defender’s display against Spain drew comparisons with Paul McGrath’s against Italy in 1994 but he says there is still room to...",
     "sympathyScore": 95,
-    "quote": "Rüdiger signs one-year extension at Real Madrid Defender Antonio Rüdiger has extended his contract with Real Madrid...",
+    "quote": "Football Daily | ‘Pico’ Lopes and Cape Verde give Spain’s boys one hell of a neutralising <p><a...",
     "image": null
   },
   "tribunal": {
-    "question": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | M",
+    "question": "Are World Cup hydration breaks important? Or do they stop teams' momentum? The W",
     "sideA": {
-      "label": "Griping about Tuchel’s handbra",
-      "description": "Advocating for Griping about Tuchel’s handbra in this heated debate.",
+      "label": "re World Cup hydration breaks ",
+      "description": "Advocating for re World Cup hydration breaks  in this heated debate.",
       "mockVotes": 67965,
       "percentage": 53.4
     },
     "sideB": {
-      "label": "Arteta’s bus makes the banters",
-      "description": "Standing firm with Arteta’s bus makes the banters on this issue.",
+      "label": "do they stop teams' momentum? ",
+      "description": "Standing firm with do they stop teams' momentum?  on this issue.",
       "mockVotes": 59279,
       "percentage": 46.6
     },
