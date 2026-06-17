@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-17T13:03:46Z",
+    "lastUpdated": "2026-06-17T22:17:24Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -33,32 +33,32 @@
   },
   "villain": {
     "name": "Lionel Messi",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 10 posts, fueling massive outrage across US and Canada fan communities.",
+    "role": "player",
+    "reason": "Widely criticized for controversy. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 10,
+    "sourceCount": 8,
     "image": null
   },
   "tragicHero": {
-    "name": "Cape Verde",
-    "team": "Spain",
-    "story": "From Shamrock Rovers to defying Spain: ‘rusty’ Roberto Lopes savours Cape Verde’s finest hour <p>Dublin-born defender’s display against Spain drew comparisons with Paul McGrath’s against Italy in 1994 but he says there is still room to...",
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "story": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice? <p>After living in the Argentina idol’s shadow, the 39-year-old star of Qatar is still capable of a final glorious chapter</p><p>Lionel Messi in Qatar felt like the...",
     "sympathyScore": 95,
-    "quote": "‘Don’t panic’: Mikel Merino tells Spain to stay calm after Cape Verde setback <p>Midfielder says it is important the...",
+    "quote": "Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal <p>The clock was about to hit 83 minutes...",
     "image": null
   },
   "tribunal": {
-    "question": "Are World Cup hydration breaks important? Or do th... The World Cup's mandatory ",
+    "question": "Was the VAR call that ended USA's run the worst in WC history?",
     "sideA": {
-      "label": "re World Cup hydration breaks ",
-      "description": "Advocating for re World Cup hydration breaks  in this heated debate.",
+      "label": "Absolute Robbery",
+      "description": "Advocating for Absolute Robbery in this heated debate.",
       "mockVotes": 22542,
       "percentage": 42.3
     },
     "sideB": {
-      "label": "do th... The World Cup's manda",
-      "description": "Standing firm with do th... The World Cup's manda on this issue.",
+      "label": "Rules Are Rules",
+      "description": "Standing firm with Rules Are Rules on this issue.",
       "mockVotes": 30749,
       "percentage": 57.7
     },
