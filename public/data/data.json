@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-16T23:14:34Z",
+    "lastUpdated": "2026-06-17T13:03:46Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -32,8 +32,8 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Cape Verde",
-    "role": "player",
+    "name": "Lionel Messi",
+    "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 10 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
@@ -45,23 +45,23 @@
     "team": "Spain",
     "story": "From Shamrock Rovers to defying Spain: ‘rusty’ Roberto Lopes savours Cape Verde’s finest hour <p>Dublin-born defender’s display against Spain drew comparisons with Paul McGrath’s against Italy in 1994 but he says there is still room to...",
     "sympathyScore": 95,
-    "quote": "Football Daily | ‘Pico’ Lopes and Cape Verde give Spain’s boys one hell of a neutralising <p><a...",
+    "quote": "‘Don’t panic’: Mikel Merino tells Spain to stay calm after Cape Verde setback <p>Midfielder says it is important the...",
     "image": null
   },
   "tribunal": {
-    "question": "Are World Cup hydration breaks important? Or do they stop teams' momentum? The W",
+    "question": "Are World Cup hydration breaks important? Or do th... The World Cup's mandatory ",
     "sideA": {
       "label": "re World Cup hydration breaks ",
       "description": "Advocating for re World Cup hydration breaks  in this heated debate.",
-      "mockVotes": 67965,
-      "percentage": 53.4
+      "mockVotes": 22542,
+      "percentage": 42.3
     },
     "sideB": {
-      "label": "do they stop teams' momentum? ",
-      "description": "Standing firm with do they stop teams' momentum?  on this issue.",
-      "mockVotes": 59279,
-      "percentage": 46.6
+      "label": "do th... The World Cup's manda",
+      "description": "Standing firm with do th... The World Cup's manda on this issue.",
+      "mockVotes": 30749,
+      "percentage": 57.7
     },
-    "totalMockVotes": 127244
+    "totalMockVotes": 53291
   }
 }
