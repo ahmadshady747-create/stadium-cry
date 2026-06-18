@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-18T12:33:56Z",
+    "lastUpdated": "2026-06-18T22:32:02Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -26,6 +26,7 @@
     ],
     "overallWhineScore": 5,
     "trending": [
+      "terrible",
       "scandal",
       "worst"
     ],
@@ -41,11 +42,11 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Lionel Messi",
-    "team": "Argentina",
-    "story": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice? <p>After living in the Argentina idol’s shadow, the 39-year-old star of Qatar is still capable of a final glorious chapter</p><p>Lionel Messi in Qatar felt like the...",
+    "name": "Cape Verde",
+    "team": "Spain",
+    "story": "From Shamrock Rovers to defying Spain: ‘rusty’ Roberto Lopes savours Cape Verde’s finest hour <p>Dublin-born defender’s display against Spain drew comparisons with Paul McGrath’s against Italy in 1994 but he says there is still room to...",
     "sympathyScore": 95,
-    "quote": "All-time greatest: who is the highest goalscorer in World Cup history? <p>Lionel Messi and Kylian Mbappé are vying to...",
+    "quote": "From Shamrock Rovers to defying Spain: ‘rusty’ Roberto Lopes savours Cape Verde’s finest hour <p>Dublin-born defender’s.",
     "image": null
   },
   "tribunal": {
