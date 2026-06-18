@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-17T22:17:24Z",
+    "lastUpdated": "2026-06-18T12:33:56Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -24,7 +24,7 @@
         "flag": "🇲🇽"
       }
     ],
-    "overallWhineScore": 4,
+    "overallWhineScore": 5,
     "trending": [
       "scandal",
       "worst"
@@ -34,10 +34,10 @@
   "villain": {
     "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 8,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
@@ -45,23 +45,23 @@
     "team": "Argentina",
     "story": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice? <p>After living in the Argentina idol’s shadow, the 39-year-old star of Qatar is still capable of a final glorious chapter</p><p>Lionel Messi in Qatar felt like the...",
     "sympathyScore": 95,
-    "quote": "Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal <p>The clock was about to hit 83 minutes...",
+    "quote": "All-time greatest: who is the highest goalscorer in World Cup history? <p>Lionel Messi and Kylian Mbappé are vying to...",
     "image": null
   },
   "tribunal": {
-    "question": "Was the VAR call that ended USA's run the worst in WC history?",
+    "question": "Mo Touré’s parents on the struggles that paved way for a Socceroos career: ‘It w",
     "sideA": {
-      "label": "Absolute Robbery",
-      "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 22542,
-      "percentage": 42.3
+      "label": "way for a Socceroos career: ‘I",
+      "description": "Advocating for way for a Socceroos career: ‘I in this heated debate.",
+      "mockVotes": 72287,
+      "percentage": 58.7
     },
     "sideB": {
-      "label": "Rules Are Rules",
-      "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 30749,
-      "percentage": 57.7
+      "label": "death’ <p>Now that he’s older,",
+      "description": "Standing firm with death’ <p>Now that he’s older, on this issue.",
+      "mockVotes": 50826,
+      "percentage": 41.3
     },
-    "totalMockVotes": 53291
+    "totalMockVotes": 123113
   }
 }
