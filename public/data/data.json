@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-18T22:32:02Z",
+    "lastUpdated": "2026-06-19T13:01:24Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,44 +9,52 @@
     ]
   },
   "cryMeter": {
-    "headline": "Canada Fans Are the Loudest Crybabies at WC2026",
+    "headline": "The Refereeing Drama Is Sending Everyone Into Meltdown Mode",
     "topCryers": [
       {
-        "name": "Canada",
-        "complaint": "scandal",
-        "score": 95,
-        "flag": "🇨🇦"
+        "name": "USA",
+        "complaint": "VAR is rigged",
+        "score": 85,
+        "flag": "🇺🇸"
       },
       {
         "name": "Mexico",
-        "complaint": "scandal",
-        "score": 95,
+        "complaint": "offside by a pixel",
+        "score": 72,
         "flag": "🇲🇽"
+      },
+      {
+        "name": "Argentina",
+        "complaint": "stadium tickets scalped",
+        "score": 68,
+        "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 5,
+    "overallWhineScore": 67,
     "trending": [
-      "terrible",
-      "scandal",
-      "worst"
+      "VAR is rigged",
+      "offside by a pixel",
+      "stadium tickets scalped",
+      "traffic nightmare in host cities",
+      "refs hate us"
     ],
-    "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
+    "source": "Fallback aggregated drama signals"
   },
   "villain": {
     "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
-    "name": "Cape Verde",
-    "team": "Spain",
-    "story": "From Shamrock Rovers to defying Spain: ‘rusty’ Roberto Lopes savours Cape Verde’s finest hour <p>Dublin-born defender’s display against Spain drew comparisons with Paul McGrath’s against Italy in 1994 but he says there is still room to...",
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "story": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice? <p>After living in the Argentina idol’s shadow, the 39-year-old star of Qatar is still capable of a final glorious chapter</p><p>Lionel Messi in Qatar felt like the...",
     "sympathyScore": 95,
-    "quote": "From Shamrock Rovers to defying Spain: ‘rusty’ Roberto Lopes savours Cape Verde’s finest hour <p>Dublin-born defender’s.",
+    "quote": "Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal <p>The clock was about to hit 83 minutes...",
     "image": null
   },
   "tribunal": {
@@ -54,15 +62,15 @@
     "sideA": {
       "label": "way for a Socceroos career: ‘I",
       "description": "Advocating for way for a Socceroos career: ‘I in this heated debate.",
-      "mockVotes": 72287,
-      "percentage": 58.7
+      "mockVotes": 53155,
+      "percentage": 45.4
     },
     "sideB": {
       "label": "death’ <p>Now that he’s older,",
       "description": "Standing firm with death’ <p>Now that he’s older, on this issue.",
-      "mockVotes": 50826,
-      "percentage": 41.3
+      "mockVotes": 63879,
+      "percentage": 54.6
     },
-    "totalMockVotes": 123113
+    "totalMockVotes": 117034
   }
 }
