@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-19T20:26:45Z",
+    "lastUpdated": "2026-06-20T08:33:59Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -50,27 +50,27 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Declan Rice",
-    "team": "England",
-    "story": "‘I thought – gosh, he’s going to be some player’: the making of England’s Declan Rice <p>Rejected by Chelsea, honed by West Ham and a league winner at Arsenal, the midfielder has plenty from his footballing journey wishing him well at the World...",
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "story": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice? <p>After living in the Argentina idol’s shadow, the 39-year-old star of Qatar is still capable of a final glorious chapter</p><p>Lionel Messi in Qatar felt like the...",
     "sympathyScore": 95,
-    "quote": "Elliot Anderson is England’s spirit animal – and is now indispensable <p>With Declan Rice nursing a knock, his midfield.",
+    "quote": "Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal <p>The clock was about to hit 83 minutes...",
     "image": null
   },
   "tribunal": {
-    "question": "Jesse Marsch: windmilling human meme or shrewd protector of suddenly dangerous C",
+    "question": "Mo Touré’s parents on the struggles that paved way for a Socceroos career: ‘It w",
     "sideA": {
-      "label": "Jesse Marsch: windmilling huma",
-      "description": "Advocating for Jesse Marsch: windmilling huma in this heated debate.",
-      "mockVotes": 53155,
-      "percentage": 45.4
+      "label": "way for a Socceroos career: ‘I",
+      "description": "Advocating for way for a Socceroos career: ‘I in this heated debate.",
+      "mockVotes": 64102,
+      "percentage": 52.4
     },
     "sideB": {
-      "label": "shrewd protector of suddenly d",
-      "description": "Standing firm with shrewd protector of suddenly d on this issue.",
-      "mockVotes": 63879,
-      "percentage": 54.6
+      "label": "death’ <p>Now that he’s older,",
+      "description": "Standing firm with death’ <p>Now that he’s older, on this issue.",
+      "mockVotes": 58162,
+      "percentage": 47.6
     },
-    "totalMockVotes": 117034
+    "totalMockVotes": 122264
   }
 }
