@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-20T08:33:59Z",
+    "lastUpdated": "2026-06-20T15:25:10Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -43,18 +43,18 @@
   "villain": {
     "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 6,
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Lionel Messi",
-    "team": "Argentina",
-    "story": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice? <p>After living in the Argentina idol’s shadow, the 39-year-old star of Qatar is still capable of a final glorious chapter</p><p>Lionel Messi in Qatar felt like the...",
+    "name": "Real Madrid",
+    "team": "Spain",
+    "story": "PSG now stand alongside some of Europe’s best-ever, but with caveats | Jonathan Wilson <p>The origin of PSG’s largesse and the effect it’s had on their domestic game can’t be ignored, even as we appreciate the team’s stunning...",
     "sympathyScore": 95,
-    "quote": "Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal <p>The clock was about to hit 83 minutes...",
+    "quote": "‘When Real come for you it’s very difficult to say no’: Cucurella explains Chelsea exit <ul><li><p>Full-back moving...",
     "image": null
   },
   "tribunal": {
