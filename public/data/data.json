@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-21T11:34:08Z",
+    "lastUpdated": "2026-06-21T17:12:34Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -41,33 +41,33 @@
     "source": "Fallback aggregated drama signals"
   },
   "villain": {
-    "name": "Jonathan Wilson",
+    "name": "Cape Verde",
     "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Joy for Jiménez and Mexico as co-hosts make ideal start: World Cup Daily – podcast <p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max...",
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
     "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Barry Glendenning",
-    "team": "Germany",
-    "story": "Joy for Jiménez and Mexico as co-hosts make ideal start: World Cup Daily – podcast <p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry...",
+    "name": "Manchester United",
+    "team": "Unknown",
+    "story": "Amorim agrees to become Milan head coach in boost to Manchester United finances <ul><li><p>Portuguese will replace Massimiliano Allegri at San Siro</p></li><li><p>United will not need to pay full £16.7m compensation</p></li></ul><p>Ruben Amorim is...",
     "sympathyScore": 95,
-    "quote": "Brian Brobbey bags a brace and Deniz Undav, supersub: World Cup Daily – podcast <p><a...",
+    "quote": "Grimsby Town devastated by death of Alex Hughes, 38, son of Mark Hughes <ul><li><p>Hughes family heartbroken at...",
     "image": null
   },
   "tribunal": {
-    "question": "Was the VAR call that ended USA's run the worst in WC history?",
+    "question": "Madrid: No contact with Bayern, France's Olise Real Madrid have denied making an",
     "sideA": {
-      "label": "Absolute Robbery",
-      "description": "Advocating for Absolute Robbery in this heated debate.",
+      "label": "al Madrid have denied making a",
+      "description": "Advocating for al Madrid have denied making a in this heated debate.",
       "mockVotes": 52373,
       "percentage": 48.9
     },
     "sideB": {
-      "label": "Rules Are Rules",
-      "description": "Standing firm with Rules Are Rules on this issue.",
+      "label": "indirect\" contract with Michae",
+      "description": "Standing firm with indirect\" contract with Michae on this issue.",
       "mockVotes": 54820,
       "percentage": 51.1
     },
