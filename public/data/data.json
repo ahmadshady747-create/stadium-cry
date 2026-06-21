@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-20T21:57:08Z",
+    "lastUpdated": "2026-06-21T11:34:08Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -50,27 +50,27 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Real Madrid",
-    "team": "Spain",
-    "story": "PSG now stand alongside some of Europe’s best-ever, but with caveats | Jonathan Wilson <p>The origin of PSG’s largesse and the effect it’s had on their domestic game can’t be ignored, even as we appreciate the team’s stunning...",
+    "name": "Barry Glendenning",
+    "team": "Germany",
+    "story": "Joy for Jiménez and Mexico as co-hosts make ideal start: World Cup Daily – podcast <p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry...",
     "sympathyScore": 95,
-    "quote": "‘When Real come for you it’s very difficult to say no’: Cucurella explains Chelsea exit <ul><li><p>Full-back moving...",
+    "quote": "Brian Brobbey bags a brace and Deniz Undav, supersub: World Cup Daily – podcast <p><a...",
     "image": null
   },
   "tribunal": {
-    "question": "Mo Touré’s parents on the struggles that paved way for a Socceroos career: ‘It w",
+    "question": "Was the VAR call that ended USA's run the worst in WC history?",
     "sideA": {
-      "label": "way for a Socceroos career: ‘I",
-      "description": "Advocating for way for a Socceroos career: ‘I in this heated debate.",
-      "mockVotes": 64102,
-      "percentage": 52.4
+      "label": "Absolute Robbery",
+      "description": "Advocating for Absolute Robbery in this heated debate.",
+      "mockVotes": 52373,
+      "percentage": 48.9
     },
     "sideB": {
-      "label": "death’ <p>Now that he’s older,",
-      "description": "Standing firm with death’ <p>Now that he’s older, on this issue.",
-      "mockVotes": 58162,
-      "percentage": 47.6
+      "label": "Rules Are Rules",
+      "description": "Standing firm with Rules Are Rules on this issue.",
+      "mockVotes": 54820,
+      "percentage": 51.1
     },
-    "totalMockVotes": 122264
+    "totalMockVotes": 107193
   }
 }
