@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-21T22:39:42Z",
+    "lastUpdated": "2026-06-22T17:58:36Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,52 +9,45 @@
     ]
   },
   "cryMeter": {
-    "headline": "The Refereeing Drama Is Sending Everyone Into Meltdown Mode",
+    "headline": "Argentina Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
-        "name": "USA",
-        "complaint": "VAR is rigged",
-        "score": 85,
-        "flag": "🇺🇸"
-      },
-      {
-        "name": "Mexico",
-        "complaint": "offside by a pixel",
-        "score": 72,
-        "flag": "🇲🇽"
-      },
-      {
         "name": "Argentina",
-        "complaint": "stadium tickets scalped",
-        "score": 68,
+        "complaint": "bias",
+        "score": 95,
         "flag": "🇦🇷"
+      },
+      {
+        "name": "USA",
+        "complaint": "worst",
+        "score": 95,
+        "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 67,
+    "overallWhineScore": 4,
     "trending": [
-      "VAR is rigged",
-      "offside by a pixel",
-      "stadium tickets scalped",
-      "traffic nightmare in host cities",
-      "refs hate us"
+      "worst",
+      "unfair",
+      "bias",
+      "queue"
     ],
-    "source": "Fallback aggregated drama signals"
+    "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Cape Verde",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "sourceCount": 8,
     "image": null
   },
   "tragicHero": {
     "name": "Cape Verde",
-    "team": "Spain",
-    "story": "Lamine Yamal and Oyarzabal fire Spain to emphatic win against Saudi Arabia <p>Luis de la Fuente said he wanted a new jumper for his birthday but this was even better. On the day the Spain coach turned 65, his players gifted him the perfect afternoon.",
+    "team": "Argentina",
+    "story": "Football Daily | Uruguay misfire and leave Bielsa-ball in danger of kicking the bucket <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "Lamine Yamal and Oyarzabal fire Spain to emphatic win against Saudi Arabia <p>Luis de la Fuente said he wanted a new...",
+    "quote": "Football Daily | Uruguay misfire and leave Bielsa-ball in danger of kicking the bucket <p><a...",
     "image": null
   },
   "tribunal": {
@@ -62,15 +55,15 @@
     "sideA": {
       "label": "Absolute Robbery",
       "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 52373,
-      "percentage": 48.9
+      "mockVotes": 25388,
+      "percentage": 25.6
     },
     "sideB": {
       "label": "Rules Are Rules",
       "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 54820,
-      "percentage": 51.1
+      "mockVotes": 73649,
+      "percentage": 74.4
     },
-    "totalMockVotes": 107193
+    "totalMockVotes": 99037
   }
 }
