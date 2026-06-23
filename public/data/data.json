@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-22T23:07:13Z",
+    "lastUpdated": "2026-06-23T11:44:10Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,44 +9,50 @@
     ]
   },
   "cryMeter": {
-    "headline": "Argentina Fans Are the Loudest Crybabies at WC2026",
+    "headline": "England Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
-        "name": "Argentina",
-        "complaint": "worst",
+        "name": "England",
+        "complaint": "unfair",
         "score": 95,
-        "flag": "🇦🇷"
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
-        "name": "France",
-        "complaint": "delayed",
-        "score": 47,
-        "flag": "🇫🇷"
+        "name": "Portugal",
+        "complaint": "unfair",
+        "score": 95,
+        "flag": "🇵🇹"
       },
       {
         "name": "USA",
         "complaint": "worst",
-        "score": 47,
+        "score": 95,
         "flag": "🇺🇸"
+      },
+      {
+        "name": "Argentina",
+        "complaint": "bias",
+        "score": 95,
+        "flag": "🇦🇷"
       }
     ],
     "overallWhineScore": 11,
     "trending": [
       "worst",
+      "unfair",
       "delayed",
-      "robbed",
       "queue",
       "bias"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Cape Verde",
+    "name": "Lionel Messi",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 6,
+    "topSlander": "Who are ya? Behind the scenes of the official World Cup portrait photographs <p>Poses and backstage snaps showcase the players’ personalities and the.",
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
@@ -62,15 +68,15 @@
     "sideA": {
       "label": "Absolute Robbery",
       "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 25388,
-      "percentage": 25.6
+      "mockVotes": 36635,
+      "percentage": 37.3
     },
     "sideB": {
       "label": "Rules Are Rules",
       "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 73649,
-      "percentage": 74.4
+      "mockVotes": 61632,
+      "percentage": 62.7
     },
-    "totalMockVotes": 99037
+    "totalMockVotes": 98267
   }
 }
