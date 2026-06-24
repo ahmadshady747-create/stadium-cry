@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-23T19:28:00Z",
+    "lastUpdated": "2026-06-24T00:15:07Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,24 +9,25 @@
     ]
   },
   "cryMeter": {
-    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Argentina Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "Argentina",
+        "complaint": "worst",
+        "score": 95,
+        "flag": "🇦🇷"
+      },
       {
         "name": "USA",
         "complaint": "worst",
-        "score": 95,
+        "score": 47,
         "flag": "🇺🇸"
-      },
-      {
-        "name": "Argentina",
-        "complaint": "bias",
-        "score": 95,
-        "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 5,
+    "overallWhineScore": 6,
     "trending": [
       "worst",
+      "robbed",
       "delayed",
       "queue",
       "bias"
@@ -36,34 +37,34 @@
   "villain": {
     "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Who are ya? Behind the scenes of the official World Cup portrait photographs <p>Poses and backstage snaps showcase the players’ personalities and the.",
-    "sourceCount": 6,
+    "topSlander": "Irrepressible Messi breaks World Cup scoring record as Argentina beat Austria <p></p><p>It had to be Lionel Messi, it had to be on this day and...",
+    "sourceCount": 7,
     "image": null
   },
   "tragicHero": {
-    "name": "Lionel Messi",
-    "team": "USA",
-    "story": "Two-hour storm break fails to stop France as Mbappé and Dembélé prove too good for Iraq <p></p><p>Could France do it on a hot, humid, waterlogged and lightning-threatened night in Pennsylvania? The answer was pretty straightforward. Despite an...",
+    "name": "World Cups",
+    "team": "Portugal",
+    "story": "The French aristocrat and the all-American idiot: Henry v Lalas is the World Cup’s most compelling battle <p>Fox’s broadcast at the tournament has become a story of two contrasting styles. And there is one clear winner</p><p>We all know someone like.",
     "sympathyScore": 95,
-    "quote": "Cristiano Ronaldo ends his goal drought as rampant Portugal outclass Uzbekistan <p>Golden oldies fighting for the...",
+    "quote": "‘I’m back’: Ronaldo’s relief after double kickstarts Portugal World Cup push <ul><li><p>41-year-old heavily criticised..",
     "image": null
   },
   "tribunal": {
-    "question": "Was the VAR call that ended USA's run the worst in WC history?",
+    "question": "From U.S. to Spain, why every round-of-32 team wil... Then there were 32. Or we'",
     "sideA": {
-      "label": "Absolute Robbery",
-      "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 36635,
-      "percentage": 37.3
+      "label": "nd-of-32 team wil... Then ther",
+      "description": "Advocating for nd-of-32 team wil... Then ther in this heated debate.",
+      "mockVotes": 52921,
+      "percentage": 55.2
     },
     "sideB": {
-      "label": "Rules Are Rules",
-      "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 61632,
-      "percentage": 62.7
+      "label": "we're getting there, anyway. S",
+      "description": "Standing firm with we're getting there, anyway. S on this issue.",
+      "mockVotes": 42902,
+      "percentage": 44.8
     },
-    "totalMockVotes": 98267
+    "totalMockVotes": 95823
   }
 }
