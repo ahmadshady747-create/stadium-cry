@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-24T12:11:10Z",
+    "lastUpdated": "2026-06-24T21:11:31Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,40 +9,22 @@
     ]
   },
   "cryMeter": {
-    "headline": "Argentina Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "Argentina",
-        "complaint": "worst",
-        "score": 95,
-        "flag": "🇦🇷"
-      },
-      {
-        "name": "Brazil",
-        "complaint": "worst",
-        "score": 47,
-        "flag": "🇧🇷"
-      },
-      {
-        "name": "France",
-        "complaint": "worst",
-        "score": 47,
-        "flag": "🇫🇷"
-      },
-      {
-        "name": "Spain",
-        "complaint": "worst",
-        "score": 47,
-        "flag": "🇪🇸"
-      },
       {
         "name": "USA",
         "complaint": "worst",
-        "score": 47,
+        "score": 95,
         "flag": "🇺🇸"
+      },
+      {
+        "name": "England",
+        "complaint": "overpriced",
+        "score": 95,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       }
     ],
-    "overallWhineScore": 12,
+    "overallWhineScore": 5,
     "trending": [
       "worst",
       "awful",
@@ -53,33 +35,33 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Lionel Messi",
+    "name": "Paris Saint",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "‘Not much faith’: the view from Brazil as they prepare to face Scotland <p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and...",
-    "sourceCount": 6,
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Barney Ronay",
-    "team": "England",
-    "story": "History for Cape Verde as Spain start with a stutter: World Cup Daily – podcast <p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry...",
+    "name": "Paris Saint",
+    "team": "Germany",
+    "story": "Exciting transfer window will only exacerbate women’s football’s wealth gap <p>Alexia Putellas leads a host of stars expected to arrive in the WSL but smaller clubs will still struggle to keep pace</p><p>The whistle has blown on the 2025-26 season...",
     "sympathyScore": 95,
-    "quote": "England’s gristly Ghana draw exposes limitations of Madueke and Gordon | Barney Ronay <p>Inverted wingers were unable...",
+    "quote": "Germany’s Kai Havertz: ‘I make runs that look pointless but I’m creating space’ <p>Forward on the misunderstanding of...",
     "image": null
   },
   "tribunal": {
-    "question": "World Cup history or World Cup limbo? Scotland fac... The good news is history i",
+    "question": "Was the VAR call that ended USA's run the worst in WC history?",
     "sideA": {
-      "label": "World Cup history",
-      "description": "Advocating for World Cup history in this heated debate.",
+      "label": "Absolute Robbery",
+      "description": "Advocating for Absolute Robbery in this heated debate.",
       "mockVotes": 52921,
       "percentage": 55.2
     },
     "sideB": {
-      "label": "World Cup limbo? Scotland fac.",
-      "description": "Standing firm with World Cup limbo? Scotland fac. on this issue.",
+      "label": "Rules Are Rules",
+      "description": "Standing firm with Rules Are Rules on this issue.",
       "mockVotes": 42902,
       "percentage": 44.8
     },
