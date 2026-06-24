@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-24T00:15:07Z",
+    "lastUpdated": "2026-06-24T12:11:10Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -18,50 +18,68 @@
         "flag": "🇦🇷"
       },
       {
+        "name": "Brazil",
+        "complaint": "worst",
+        "score": 47,
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "France",
+        "complaint": "worst",
+        "score": 47,
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Spain",
+        "complaint": "worst",
+        "score": 47,
+        "flag": "🇪🇸"
+      },
+      {
         "name": "USA",
         "complaint": "worst",
         "score": 47,
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 6,
+    "overallWhineScore": 12,
     "trending": [
       "worst",
-      "robbed",
+      "awful",
+      "traffic",
       "delayed",
-      "queue",
-      "bias"
+      "queue"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Irrepressible Messi breaks World Cup scoring record as Argentina beat Austria <p></p><p>It had to be Lionel Messi, it had to be on this day and...",
-    "sourceCount": 7,
+    "topSlander": "‘Not much faith’: the view from Brazil as they prepare to face Scotland <p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and...",
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
-    "name": "World Cups",
-    "team": "Portugal",
-    "story": "The French aristocrat and the all-American idiot: Henry v Lalas is the World Cup’s most compelling battle <p>Fox’s broadcast at the tournament has become a story of two contrasting styles. And there is one clear winner</p><p>We all know someone like.",
+    "name": "Barney Ronay",
+    "team": "England",
+    "story": "History for Cape Verde as Spain start with a stutter: World Cup Daily – podcast <p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry...",
     "sympathyScore": 95,
-    "quote": "‘I’m back’: Ronaldo’s relief after double kickstarts Portugal World Cup push <ul><li><p>41-year-old heavily criticised..",
+    "quote": "England’s gristly Ghana draw exposes limitations of Madueke and Gordon | Barney Ronay <p>Inverted wingers were unable...",
     "image": null
   },
   "tribunal": {
-    "question": "From U.S. to Spain, why every round-of-32 team wil... Then there were 32. Or we'",
+    "question": "World Cup history or World Cup limbo? Scotland fac... The good news is history i",
     "sideA": {
-      "label": "nd-of-32 team wil... Then ther",
-      "description": "Advocating for nd-of-32 team wil... Then ther in this heated debate.",
+      "label": "World Cup history",
+      "description": "Advocating for World Cup history in this heated debate.",
       "mockVotes": 52921,
       "percentage": 55.2
     },
     "sideB": {
-      "label": "we're getting there, anyway. S",
-      "description": "Standing firm with we're getting there, anyway. S on this issue.",
+      "label": "World Cup limbo? Scotland fac.",
+      "description": "Standing firm with World Cup limbo? Scotland fac. on this issue.",
       "mockVotes": 42902,
       "percentage": 44.8
     },
