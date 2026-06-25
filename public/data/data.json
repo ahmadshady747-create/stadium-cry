@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-25T10:30:00Z",
+    "lastUpdated": "2026-06-25T19:23:17Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,13 +9,13 @@
     ]
   },
   "cryMeter": {
-    "headline": "England Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
-        "name": "England",
-        "complaint": "unfair",
+        "name": "USA",
+        "complaint": "worst",
         "score": 95,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+        "flag": "🇺🇸"
       },
       {
         "name": "France",
@@ -30,13 +30,19 @@
         "flag": "🇵🇹"
       },
       {
-        "name": "USA",
+        "name": "Canada",
         "complaint": "worst",
         "score": 47,
-        "flag": "🇺🇸"
+        "flag": "🇨🇦"
+      },
+      {
+        "name": "Mexico",
+        "complaint": "worst",
+        "score": 47,
+        "flag": "🇲🇽"
       }
     ],
-    "overallWhineScore": 10,
+    "overallWhineScore": 14,
     "trending": [
       "worst",
       "traffic",
@@ -47,33 +53,33 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Mauricio Pochettino",
+    "name": "South Korea",
     "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Pochettino won't 'risk' USMNT players on yellows United States manager Mauricio Pochettino said his four players on yellow cards won't start...",
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
     "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Mauricio Pochettino",
+    "name": "World Cup Daily",
     "team": "USMNT",
-    "story": "How a ‘naive’ Mauricio Pochettino’s lowest moments turned the USMNT into World Cup darlings <p>The former Tottenham coach experienced three body blows early in his tenure with the US, each contributing to the solid World Cup to come</p><p>Tears...",
+    "story": "Scotland on the brink after Brazil beating, Mexico march on | World Cup Daily <p>Max Rushden is joined by Barry Glendenning, Mark Langdon, Nicky Bandini and Ewan Murray as Scotland are beaten convincingly by Brazil to leave their chances of progress.",
     "sympathyScore": 95,
-    "quote": "Pochettino won't 'risk' USMNT players on yellows United States manager Mauricio Pochettino said his four players on...",
+    "quote": "World Cup Daily: Emotional Neymar inspired by Lewi... We continue the final round of group stage matches at the 2026...",
     "image": null
   },
   "tribunal": {
-    "question": "Was the VAR call that ended USA's run the worst in WC history?",
+    "question": "Hot or not: Barney Ronay's World Cup review so far – video <p>“It’s been really ",
     "sideA": {
-      "label": "Absolute Robbery",
-      "description": "Advocating for Absolute Robbery in this heated debate.",
+      "label": "Hot",
+      "description": "Advocating for Hot in this heated debate.",
       "mockVotes": 67767,
       "percentage": 52.1
     },
     "sideB": {
-      "label": "Rules Are Rules",
-      "description": "Standing firm with Rules Are Rules on this issue.",
+      "label": "not: Barney Ronay's World Cup ",
+      "description": "Standing firm with not: Barney Ronay's World Cup  on this issue.",
       "mockVotes": 62420,
       "percentage": 47.9
     },
