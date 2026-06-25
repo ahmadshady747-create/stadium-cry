@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-24T21:11:31Z",
+    "lastUpdated": "2026-06-25T10:30:00Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,46 +9,58 @@
     ]
   },
   "cryMeter": {
-    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
+    "headline": "England Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "England",
+        "complaint": "unfair",
+        "score": 95,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "France",
+        "complaint": "traffic",
+        "score": 47,
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Portugal",
+        "complaint": "traffic",
+        "score": 47,
+        "flag": "🇵🇹"
+      },
       {
         "name": "USA",
         "complaint": "worst",
-        "score": 95,
+        "score": 47,
         "flag": "🇺🇸"
-      },
-      {
-        "name": "England",
-        "complaint": "overpriced",
-        "score": 95,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       }
     ],
-    "overallWhineScore": 5,
+    "overallWhineScore": 10,
     "trending": [
       "worst",
-      "awful",
       "traffic",
-      "delayed",
+      "awful",
+      "unfair",
       "queue"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Paris Saint",
-    "role": "player",
+    "name": "Mauricio Pochettino",
+    "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "topSlander": "Pochettino won't 'risk' USMNT players on yellows United States manager Mauricio Pochettino said his four players on yellow cards won't start...",
     "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Paris Saint",
-    "team": "Germany",
-    "story": "Exciting transfer window will only exacerbate women’s football’s wealth gap <p>Alexia Putellas leads a host of stars expected to arrive in the WSL but smaller clubs will still struggle to keep pace</p><p>The whistle has blown on the 2025-26 season...",
+    "name": "Mauricio Pochettino",
+    "team": "USMNT",
+    "story": "How a ‘naive’ Mauricio Pochettino’s lowest moments turned the USMNT into World Cup darlings <p>The former Tottenham coach experienced three body blows early in his tenure with the US, each contributing to the solid World Cup to come</p><p>Tears...",
     "sympathyScore": 95,
-    "quote": "Germany’s Kai Havertz: ‘I make runs that look pointless but I’m creating space’ <p>Forward on the misunderstanding of...",
+    "quote": "Pochettino won't 'risk' USMNT players on yellows United States manager Mauricio Pochettino said his four players on...",
     "image": null
   },
   "tribunal": {
@@ -56,15 +68,15 @@
     "sideA": {
       "label": "Absolute Robbery",
       "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 52921,
-      "percentage": 55.2
+      "mockVotes": 67767,
+      "percentage": 52.1
     },
     "sideB": {
       "label": "Rules Are Rules",
       "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 42902,
-      "percentage": 44.8
+      "mockVotes": 62420,
+      "percentage": 47.9
     },
-    "totalMockVotes": 95823
+    "totalMockVotes": 130187
   }
 }
