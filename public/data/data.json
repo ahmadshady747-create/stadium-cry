@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-26T16:33:26Z",
+    "lastUpdated": "2026-06-26T21:58:12Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,19 +9,19 @@
     ]
   },
   "cryMeter": {
-    "headline": "England Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "England",
-        "complaint": "expensive",
-        "score": 95,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
       {
         "name": "USA",
         "complaint": "worst",
         "score": 95,
         "flag": "🇺🇸"
+      },
+      {
+        "name": "England",
+        "complaint": "expensive",
+        "score": 47,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
         "name": "Brazil",
@@ -42,11 +42,11 @@
         "flag": "🇨🇦"
       }
     ],
-    "overallWhineScore": 22,
+    "overallWhineScore": 26,
     "trending": [
       "worst",
-      "disgrace",
       "expensive",
+      "disgrace",
       "awful",
       "traffic"
     ],
@@ -62,24 +62,24 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Football Daily",
+    "name": "The World",
     "team": "Brazil",
     "story": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "Football Daily | Animal instinct and maths boost Netherlands’ hopes of World Cup glory <p><a...",
+    "quote": "Algeria eye revenge in first match against Austria since ‘shame of Gijón’ <p>Group J game recalls the 1982 World Cup,...",
     "image": null
   },
   "tribunal": {
-    "question": "Backs against the wall, Ecuador conjure World Cup ... The equation for Ecuador w",
+    "question": "Hot or not: Barney Ronay's World Cup review so far – video <p>“It’s been really ",
     "sideA": {
-      "label": "The equation for Ecuador was s",
-      "description": "Advocating for The equation for Ecuador was s in this heated debate.",
+      "label": "Hot",
+      "description": "Advocating for Hot in this heated debate.",
       "mockVotes": 74293,
       "percentage": 57.1
     },
     "sideB": {
-      "label": "go home. And just in time, the",
-      "description": "Standing firm with go home. And just in time, the on this issue.",
+      "label": "not: Barney Ronay's World Cup ",
+      "description": "Standing firm with not: Barney Ronay's World Cup  on this issue.",
       "mockVotes": 55766,
       "percentage": 42.9
     },
