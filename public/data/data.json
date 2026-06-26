@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-25T19:23:17Z",
+    "lastUpdated": "2026-06-26T08:40:36Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,80 +9,80 @@
     ]
   },
   "cryMeter": {
-    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Brazil Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
-        "name": "USA",
-        "complaint": "worst",
+        "name": "Brazil",
+        "complaint": "disgrace",
         "score": 95,
-        "flag": "🇺🇸"
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "Germany",
+        "complaint": "disgrace",
+        "score": 95,
+        "flag": "🇩🇪"
       },
       {
         "name": "France",
         "complaint": "traffic",
-        "score": 47,
+        "score": 95,
         "flag": "🇫🇷"
       },
       {
         "name": "Portugal",
         "complaint": "traffic",
-        "score": 47,
+        "score": 95,
         "flag": "🇵🇹"
       },
       {
-        "name": "Canada",
-        "complaint": "worst",
-        "score": 47,
-        "flag": "🇨🇦"
-      },
-      {
-        "name": "Mexico",
-        "complaint": "worst",
-        "score": 47,
-        "flag": "🇲🇽"
+        "name": "England",
+        "complaint": "unfair",
+        "score": 95,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       }
     ],
-    "overallWhineScore": 14,
+    "overallWhineScore": 13,
     "trending": [
+      "disgrace",
       "worst",
-      "traffic",
       "awful",
-      "unfair",
-      "queue"
+      "traffic",
+      "unfair"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "South Korea",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Manchester City",
+    "role": "player",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 4,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "World Cup Daily",
-    "team": "USMNT",
-    "story": "Scotland on the brink after Brazil beating, Mexico march on | World Cup Daily <p>Max Rushden is joined by Barry Glendenning, Mark Langdon, Nicky Bandini and Ewan Murray as Scotland are beaten convincingly by Brazil to leave their chances of progress.",
+    "name": "Erling Haaland",
+    "team": "USA",
+    "story": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "World Cup Daily: Emotional Neymar inspired by Lewi... We continue the final round of group stage matches at the 2026...",
+    "quote": "World Cup 2026: Haaland and Mbappé face off; Ecuador’s national holiday; Scotland still in limbo – live <p>⚽ Latest...",
     "image": null
   },
   "tribunal": {
-    "question": "Hot or not: Barney Ronay's World Cup review so far – video <p>“It’s been really ",
+    "question": "Backs against the wall, Ecuador conjure World Cup ... The equation for Ecuador w",
     "sideA": {
-      "label": "Hot",
-      "description": "Advocating for Hot in this heated debate.",
-      "mockVotes": 67767,
-      "percentage": 52.1
+      "label": "The equation for Ecuador was s",
+      "description": "Advocating for The equation for Ecuador was s in this heated debate.",
+      "mockVotes": 74293,
+      "percentage": 57.1
     },
     "sideB": {
-      "label": "not: Barney Ronay's World Cup ",
-      "description": "Standing firm with not: Barney Ronay's World Cup  on this issue.",
-      "mockVotes": 62420,
-      "percentage": 47.9
+      "label": "go home. And just in time, the",
+      "description": "Standing firm with go home. And just in time, the on this issue.",
+      "mockVotes": 55766,
+      "percentage": 42.9
     },
-    "totalMockVotes": 130187
+    "totalMockVotes": 130059
   }
 }
