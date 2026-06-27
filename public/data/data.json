@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-26T21:58:12Z",
+    "lastUpdated": "2026-06-27T09:33:22Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,20 @@
     ]
   },
   "cryMeter": {
-    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Canada Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "Canada",
+        "complaint": "traffic",
+        "score": 95,
+        "flag": "🇨🇦"
+      },
+      {
+        "name": "Mexico",
+        "complaint": "traffic",
+        "score": 95,
+        "flag": "🇲🇽"
+      },
       {
         "name": "USA",
         "complaint": "worst",
@@ -20,53 +32,41 @@
       {
         "name": "England",
         "complaint": "expensive",
-        "score": 47,
+        "score": 95,
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
-        "name": "Brazil",
-        "complaint": "disgrace",
+        "name": "France",
+        "complaint": "traffic",
         "score": 47,
-        "flag": "🇧🇷"
-      },
-      {
-        "name": "Germany",
-        "complaint": "disgrace",
-        "score": 47,
-        "flag": "🇩🇪"
-      },
-      {
-        "name": "Canada",
-        "complaint": "worst",
-        "score": 47,
-        "flag": "🇨🇦"
+        "flag": "🇫🇷"
       }
     ],
-    "overallWhineScore": 26,
+    "overallWhineScore": 29,
     "trending": [
       "worst",
+      "unfair",
+      "traffic",
       "expensive",
-      "disgrace",
-      "awful",
-      "traffic"
+      "awful"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Football Daily",
-    "role": "player",
-    "reason": "Widely criticized for liar. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Golden Boot",
+    "role": "coach",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a...",
-    "sourceCount": 4,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "The World",
-    "team": "Brazil",
+    "name": "The World Cup",
+    "team": "USMNT",
     "story": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "Algeria eye revenge in first match against Austria since ‘shame of Gijón’ <p>Group J game recalls the 1982 World Cup,...",
+    "quote": "The World Cup is undressing the myth of Trump’s American homogeneity <p>The 2026 World Cup has become a rebuke to...",
     "image": null
   },
   "tribunal": {
@@ -74,15 +74,15 @@
     "sideA": {
       "label": "Hot",
       "description": "Advocating for Hot in this heated debate.",
-      "mockVotes": 74293,
-      "percentage": 57.1
+      "mockVotes": 56798,
+      "percentage": 52.9
     },
     "sideB": {
       "label": "not: Barney Ronay's World Cup ",
       "description": "Standing firm with not: Barney Ronay's World Cup  on this issue.",
-      "mockVotes": 55766,
-      "percentage": 42.9
+      "mockVotes": 50502,
+      "percentage": 47.1
     },
-    "totalMockVotes": 130059
+    "totalMockVotes": 107300
   }
 }
