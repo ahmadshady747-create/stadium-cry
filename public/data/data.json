@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-27T15:55:55Z",
+    "lastUpdated": "2026-06-27T21:43:53Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -54,7 +54,7 @@
   },
   "villain": {
     "name": "Golden Boot",
-    "role": "coach",
+    "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a...",
