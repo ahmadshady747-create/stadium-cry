@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-27T09:33:22Z",
+    "lastUpdated": "2026-06-27T15:55:55Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -62,7 +62,7 @@
     "image": null
   },
   "tragicHero": {
-    "name": "The World Cup",
+    "name": "The World",
     "team": "USMNT",
     "story": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
