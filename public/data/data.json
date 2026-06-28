@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-28T16:41:37Z",
+    "lastUpdated": "2026-06-28T21:46:01Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -57,16 +57,16 @@
     "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "topSlander": "‘We don’t want penalties’: Pickford backs England’s attacking approach <p>Jordan Pickford has enjoyed shootout success but believes his England side..",
     "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "Declan Rice",
-    "team": "England",
-    "story": "England’s creaky defence is a World Cup worry and they need Rice back firing | Jacob Steinberg <p>Win over Panama failed to disguise deficiencies at the back and Tuchel’s men will not survive against a top side by going gung-ho </p><p>Does anyone...",
+    "name": "Manchester City",
+    "team": "Brazil",
+    "story": "Elliot Anderson’s journey from Bristol Rovers loanee to most expensive British player <p>England midfielder’s remarkable rise started off in League Two and his £116m move to Manchester City is confirmation of his relentless progress</p><p>At Bristol.",
     "sympathyScore": 95,
-    "quote": "England’s creaky defence is a World Cup worry and they need Rice back firing | Jacob Steinberg <p>Win over Panama...",
+    "quote": "Father figure Carlo Ancelotti will have a plan for Brazil. He always has a plan | Rodrygo <p>For anyone outside the...",
     "image": null
   },
   "tribunal": {
