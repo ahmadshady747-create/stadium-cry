@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-27T21:43:53Z",
+    "lastUpdated": "2026-06-28T10:14:54Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,20 +9,8 @@
     ]
   },
   "cryMeter": {
-    "headline": "Canada Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "Canada",
-        "complaint": "traffic",
-        "score": 95,
-        "flag": "🇨🇦"
-      },
-      {
-        "name": "Mexico",
-        "complaint": "traffic",
-        "score": 95,
-        "flag": "🇲🇽"
-      },
       {
         "name": "USA",
         "complaint": "worst",
@@ -36,37 +24,49 @@
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
-        "name": "France",
-        "complaint": "traffic",
+        "name": "Germany",
+        "complaint": "disgrace",
         "score": 47,
-        "flag": "🇫🇷"
+        "flag": "🇩🇪"
+      },
+      {
+        "name": "Canada",
+        "complaint": "worst",
+        "score": 47,
+        "flag": "🇨🇦"
+      },
+      {
+        "name": "Mexico",
+        "complaint": "worst",
+        "score": 47,
+        "flag": "🇲🇽"
       }
     ],
-    "overallWhineScore": 29,
+    "overallWhineScore": 27,
     "trending": [
       "worst",
-      "unfair",
-      "traffic",
       "expensive",
-      "awful"
+      "disgrace",
+      "awful",
+      "traffic"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Golden Boot",
-    "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Declan Rice",
+    "role": "coach",
+    "reason": "Widely criticized for worst. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a...",
-    "sourceCount": 5,
+    "topSlander": "Premier League 2025-26 review: our writers’ best and worst of the season <p>The Premier League season is over, but what did Guardian football writers.",
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "The World",
-    "team": "USMNT",
-    "story": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "name": "New Jersey",
+    "team": "England",
+    "story": "England’s creaky defence is a World Cup worry and they need Rice back firing | Jacob Steinberg <p>Win over Panama failed to disguise deficiencies at the back and Tuchel’s men will not survive against a top side by going gung-ho </p><p>Does anyone...",
     "sympathyScore": 95,
-    "quote": "The World Cup is undressing the myth of Trump’s American homogeneity <p>The 2026 World Cup has become a rebuke to...",
+    "quote": "World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live <p>⚽ All the latest news from as..",
     "image": null
   },
   "tribunal": {
@@ -74,15 +74,15 @@
     "sideA": {
       "label": "Hot",
       "description": "Advocating for Hot in this heated debate.",
-      "mockVotes": 56798,
-      "percentage": 52.9
+      "mockVotes": 46935,
+      "percentage": 69.9
     },
     "sideB": {
       "label": "not: Barney Ronay's World Cup ",
       "description": "Standing firm with not: Barney Ronay's World Cup  on this issue.",
-      "mockVotes": 50502,
-      "percentage": 47.1
+      "mockVotes": 20203,
+      "percentage": 30.1
     },
-    "totalMockVotes": 107300
+    "totalMockVotes": 67138
   }
 }
