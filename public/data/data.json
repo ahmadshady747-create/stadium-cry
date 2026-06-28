@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-28T10:14:54Z",
+    "lastUpdated": "2026-06-28T16:41:37Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -24,12 +24,6 @@
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
-        "name": "Germany",
-        "complaint": "disgrace",
-        "score": 47,
-        "flag": "🇩🇪"
-      },
-      {
         "name": "Canada",
         "complaint": "worst",
         "score": 47,
@@ -40,33 +34,39 @@
         "complaint": "worst",
         "score": 47,
         "flag": "🇲🇽"
+      },
+      {
+        "name": "France",
+        "complaint": "traffic",
+        "score": 47,
+        "flag": "🇫🇷"
       }
     ],
-    "overallWhineScore": 27,
+    "overallWhineScore": 23,
     "trending": [
       "worst",
       "expensive",
-      "disgrace",
       "awful",
-      "traffic"
+      "traffic",
+      "unfair"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Declan Rice",
+    "name": "Thomas Tuchel",
     "role": "coach",
-    "reason": "Widely criticized for worst. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Premier League 2025-26 review: our writers’ best and worst of the season <p>The Premier League season is over, but what did Guardian football writers.",
-    "sourceCount": 4,
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "New Jersey",
+    "name": "Declan Rice",
     "team": "England",
     "story": "England’s creaky defence is a World Cup worry and they need Rice back firing | Jacob Steinberg <p>Win over Panama failed to disguise deficiencies at the back and Tuchel’s men will not survive against a top side by going gung-ho </p><p>Does anyone...",
     "sympathyScore": 95,
-    "quote": "World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live <p>⚽ All the latest news from as..",
+    "quote": "England’s creaky defence is a World Cup worry and they need Rice back firing | Jacob Steinberg <p>Win over Panama...",
     "image": null
   },
   "tribunal": {
