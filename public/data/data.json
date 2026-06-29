@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-29T17:43:36Z",
+    "lastUpdated": "2026-06-29T20:07:09Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -36,16 +36,16 @@
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
-        "name": "Brazil",
-        "complaint": "traffic",
+        "name": "Germany",
+        "complaint": "worst",
         "score": 47,
-        "flag": "🇧🇷"
+        "flag": "🇩🇪"
       }
     ],
     "overallWhineScore": 35,
     "trending": [
-      "traffic",
       "worst",
+      "traffic",
       "expensive",
       "scandal",
       "corrupt"
@@ -53,11 +53,11 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Football Daily",
-    "role": "player",
-    "reason": "Widely criticized for liar. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Thomas Tuchel",
+    "role": "coach",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a...",
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
     "sourceCount": 5,
     "image": null
   },
