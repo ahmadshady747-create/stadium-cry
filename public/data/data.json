@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-28T21:46:01Z",
+    "lastUpdated": "2026-06-29T14:51:23Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -18,22 +18,22 @@
         "flag": "🇺🇸"
       },
       {
-        "name": "England",
-        "complaint": "expensive",
-        "score": 95,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      {
         "name": "Canada",
         "complaint": "worst",
-        "score": 47,
+        "score": 95,
         "flag": "🇨🇦"
       },
       {
         "name": "Mexico",
         "complaint": "worst",
-        "score": 47,
+        "score": 95,
         "flag": "🇲🇽"
+      },
+      {
+        "name": "England",
+        "complaint": "expensive",
+        "score": 95,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
         "name": "France",
@@ -42,23 +42,23 @@
         "flag": "🇫🇷"
       }
     ],
-    "overallWhineScore": 23,
+    "overallWhineScore": 29,
     "trending": [
       "worst",
+      "traffic",
       "expensive",
       "awful",
-      "traffic",
       "unfair"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Thomas Tuchel",
+    "name": "South Africa",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "‘We don’t want penalties’: Pickford backs England’s attacking approach <p>Jordan Pickford has enjoyed shootout success but believes his England side..",
-    "sourceCount": 5,
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
@@ -74,15 +74,15 @@
     "sideA": {
       "label": "Hot",
       "description": "Advocating for Hot in this heated debate.",
-      "mockVotes": 46935,
-      "percentage": 69.9
+      "mockVotes": 37508,
+      "percentage": 53.3
     },
     "sideB": {
       "label": "not: Barney Ronay's World Cup ",
       "description": "Standing firm with not: Barney Ronay's World Cup  on this issue.",
-      "mockVotes": 20203,
-      "percentage": 30.1
+      "mockVotes": 32913,
+      "percentage": 46.7
     },
-    "totalMockVotes": 67138
+    "totalMockVotes": 70421
   }
 }
