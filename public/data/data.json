@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-30T09:51:19Z",
+    "lastUpdated": "2026-06-30T14:30:46Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -18,16 +18,10 @@
         "flag": "🇺🇸"
       },
       {
-        "name": "Canada",
+        "name": "Argentina",
         "complaint": "worst",
-        "score": 95,
-        "flag": "🇨🇦"
-      },
-      {
-        "name": "Mexico",
-        "complaint": "worst",
-        "score": 95,
-        "flag": "🇲🇽"
+        "score": 47,
+        "flag": "🇦🇷"
       },
       {
         "name": "USMNT",
@@ -36,13 +30,19 @@
         "flag": "🇺🇸"
       },
       {
-        "name": "France",
+        "name": "Canada",
         "complaint": "traffic",
         "score": 47,
-        "flag": "🇫🇷"
+        "flag": "🇨🇦"
+      },
+      {
+        "name": "Mexico",
+        "complaint": "traffic",
+        "score": 47,
+        "flag": "🇲🇽"
       }
     ],
-    "overallWhineScore": 29,
+    "overallWhineScore": 18,
     "trending": [
       "worst",
       "traffic",
@@ -62,24 +62,24 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Golden Boot",
-    "team": "Brazil",
+    "name": "The World Cup",
+    "team": "USMNT",
     "story": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live <ul><li><p><a...",
+    "quote": "The World Cup’s two competing realities: brilliant action and off-field injustices | Jonathan Wilson <p>All of the...",
     "image": null
   },
   "tribunal": {
-    "question": "Hot or not: Barney Ronay's World Cup review so far – video <p>“It’s been really ",
+    "question": "Was the VAR call that ended USA's run the worst in WC history?",
     "sideA": {
-      "label": "Hot",
-      "description": "Advocating for Hot in this heated debate.",
+      "label": "Absolute Robbery",
+      "description": "Advocating for Absolute Robbery in this heated debate.",
       "mockVotes": 42060,
       "percentage": 46.8
     },
     "sideB": {
-      "label": "not: Barney Ronay's World Cup ",
-      "description": "Standing firm with not: Barney Ronay's World Cup  on this issue.",
+      "label": "Rules Are Rules",
+      "description": "Standing firm with Rules Are Rules on this issue.",
       "mockVotes": 47839,
       "percentage": 53.2
     },
