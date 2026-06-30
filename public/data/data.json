@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-30T04:08:00Z",
+    "lastUpdated": "2026-06-30T09:51:19Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -30,43 +30,43 @@
         "flag": "🇲🇽"
       },
       {
-        "name": "England",
-        "complaint": "expensive",
-        "score": 95,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      {
         "name": "USMNT",
         "complaint": "scandal",
         "score": 47,
         "flag": "🇺🇸"
+      },
+      {
+        "name": "France",
+        "complaint": "traffic",
+        "score": 47,
+        "flag": "🇫🇷"
       }
     ],
-    "overallWhineScore": 23,
+    "overallWhineScore": 29,
     "trending": [
       "worst",
       "traffic",
-      "expensive",
       "scandal",
-      "corrupt"
+      "corrupt",
+      "expensive"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "South Africa",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Football Daily",
+    "role": "player",
+    "reason": "Widely criticized for liar. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "topSlander": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a...",
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "South Africa",
-    "team": "Canada",
-    "story": "Football Daily | Canada see off South Africa but fail to quench our endless World Cup thirst <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "name": "Golden Boot",
+    "team": "Brazil",
+    "story": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "Canada first into last 16 as Stephen Eustáquio scores in stoppage time against South Africa <p></p><p>As Canada’s...",
+    "quote": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live <ul><li><p><a...",
     "image": null
   },
   "tribunal": {
