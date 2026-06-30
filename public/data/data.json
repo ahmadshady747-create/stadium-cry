@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-30T20:06:21Z",
+    "lastUpdated": "2026-06-30T22:18:34Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,14 @@
     ]
   },
   "cryMeter": {
-    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "Mexico",
+        "complaint": "unfair",
+        "score": 95,
+        "flag": "🇲🇽"
+      },
       {
         "name": "USA",
         "complaint": "worst",
@@ -34,21 +40,15 @@
         "complaint": "traffic",
         "score": 47,
         "flag": "🇨🇦"
-      },
-      {
-        "name": "Mexico",
-        "complaint": "traffic",
-        "score": 47,
-        "flag": "🇲🇽"
       }
     ],
-    "overallWhineScore": 18,
+    "overallWhineScore": 28,
     "trending": [
       "worst",
+      "unfair",
       "traffic",
       "scandal",
-      "corrupt",
-      "expensive"
+      "corrupt"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
