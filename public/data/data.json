@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-30T17:09:07Z",
+    "lastUpdated": "2026-06-30T20:06:21Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -55,14 +55,14 @@
   "villain": {
     "name": "Football Daily",
     "role": "player",
-    "reason": "Widely criticized for liar. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for liar. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a...",
-    "sourceCount": 4,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "The World",
+    "name": "The World Cup",
     "team": "USMNT",
     "story": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
