@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-29T22:13:38Z",
+    "lastUpdated": "2026-06-30T04:08:00Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -42,7 +42,7 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 32,
+    "overallWhineScore": 23,
     "trending": [
       "worst",
       "traffic",
@@ -53,7 +53,7 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Thomas Tuchel",
+    "name": "South Africa",
     "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
@@ -62,11 +62,11 @@
     "image": null
   },
   "tragicHero": {
-    "name": "The World",
-    "team": "USMNT",
-    "story": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "name": "South Africa",
+    "team": "Canada",
+    "story": "Football Daily | Canada see off South Africa but fail to quench our endless World Cup thirst <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "The World Cup’s two competing realities: brilliant action and off-field injustices | Jonathan Wilson <p>All of the...",
+    "quote": "Canada first into last 16 as Stephen Eustáquio scores in stoppage time against South Africa <p></p><p>As Canada’s...",
     "image": null
   },
   "tribunal": {
@@ -74,15 +74,15 @@
     "sideA": {
       "label": "Hot",
       "description": "Advocating for Hot in this heated debate.",
-      "mockVotes": 37508,
-      "percentage": 53.3
+      "mockVotes": 42060,
+      "percentage": 46.8
     },
     "sideB": {
       "label": "not: Barney Ronay's World Cup ",
       "description": "Standing firm with not: Barney Ronay's World Cup  on this issue.",
-      "mockVotes": 32913,
-      "percentage": 46.7
+      "mockVotes": 47839,
+      "percentage": 53.2
     },
-    "totalMockVotes": 70421
+    "totalMockVotes": 89899
   }
 }
