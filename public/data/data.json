@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-01T20:03:37Z",
+    "lastUpdated": "2026-07-01T22:22:22Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -24,12 +24,6 @@
         "flag": "🇩🇪"
       },
       {
-        "name": "France",
-        "complaint": "awful",
-        "score": 47,
-        "flag": "🇫🇷"
-      },
-      {
         "name": "Argentina",
         "complaint": "worst",
         "score": 47,
@@ -40,25 +34,31 @@
         "complaint": "traffic",
         "score": 47,
         "flag": "🇨🇦"
+      },
+      {
+        "name": "Mexico",
+        "complaint": "traffic",
+        "score": 47,
+        "flag": "🇲🇽"
       }
     ],
-    "overallWhineScore": 23,
+    "overallWhineScore": 14,
     "trending": [
       "corrupt",
-      "awful",
       "worst",
       "traffic",
-      "expensive"
+      "expensive",
+      "awful"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Guardian Australia",
-    "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Harry Kane",
+    "role": "coach",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 4,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
