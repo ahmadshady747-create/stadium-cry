@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-01T17:20:48Z",
+    "lastUpdated": "2026-07-01T20:03:37Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -18,16 +18,16 @@
         "flag": "🇺🇸"
       },
       {
-        "name": "France",
-        "complaint": "awful",
-        "score": 95,
-        "flag": "🇫🇷"
-      },
-      {
         "name": "Germany",
         "complaint": "corrupt",
         "score": 47,
         "flag": "🇩🇪"
+      },
+      {
+        "name": "France",
+        "complaint": "awful",
+        "score": 47,
+        "flag": "🇫🇷"
       },
       {
         "name": "Argentina",
@@ -36,37 +36,37 @@
         "flag": "🇦🇷"
       },
       {
-        "name": "USMNT",
-        "complaint": "scandal",
+        "name": "Canada",
+        "complaint": "traffic",
         "score": 47,
-        "flag": "🇺🇸"
+        "flag": "🇨🇦"
       }
     ],
-    "overallWhineScore": 26,
+    "overallWhineScore": 23,
     "trending": [
       "corrupt",
       "awful",
       "worst",
-      "scandal",
+      "traffic",
       "expensive"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Declan Rice",
-    "role": "coach",
-    "reason": "Widely criticized for worst. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Guardian Australia",
+    "role": "player",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "England v DR Congo: World Cup 2026 last 32 – live <p>⚽️ Kick-off time: 12pm local/5pm BST/1am AEST<br />⚽️ <a...",
-    "sourceCount": 5,
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Guardian Australia",
-    "team": "Unknown",
-    "story": "Sign up for the Recap newsletter: our free sport highlights email <p>The best of our sports journalism from the past seven days and a heads-up on the weekend’s action</p><p>Subscribe to get our editors’ pick of the Guardian’s award-winning sport...",
+    "name": "European Championship",
+    "team": "USA",
+    "story": "German police raid national football HQ over Euro 2024 corruption allegations <ul><li><p>Operation concerns ‘unauthorised favours’ in host cities</p></li><li><p>Bribery involving tickets is suspected, Bild reports</p></li></ul><p>Police in Germany...",
     "sympathyScore": 95,
-    "quote": "Sign up for the Recap newsletter: our free sport highlights email <p>The best of our sports journalism from the past...",
+    "quote": "German police raid national football HQ over Euro 2024 corruption allegations <ul><li><p>Operation concerns...",
     "image": null
   },
   "tribunal": {
