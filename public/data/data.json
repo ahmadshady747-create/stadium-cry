@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-30T22:18:34Z",
+    "lastUpdated": "2026-07-01T04:23:52Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,14 +9,8 @@
     ]
   },
   "cryMeter": {
-    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "Mexico",
-        "complaint": "unfair",
-        "score": 95,
-        "flag": "🇲🇽"
-      },
       {
         "name": "USA",
         "complaint": "worst",
@@ -40,33 +34,39 @@
         "complaint": "traffic",
         "score": 47,
         "flag": "🇨🇦"
+      },
+      {
+        "name": "Mexico",
+        "complaint": "traffic",
+        "score": 47,
+        "flag": "🇲🇽"
       }
     ],
-    "overallWhineScore": 28,
+    "overallWhineScore": 26,
     "trending": [
       "worst",
-      "unfair",
       "traffic",
       "scandal",
-      "corrupt"
+      "corrupt",
+      "expensive"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Football Daily",
-    "role": "player",
-    "reason": "Widely criticized for liar. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Democratic Republic",
+    "role": "coach",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a...",
-    "sourceCount": 5,
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
-    "name": "The World Cup",
-    "team": "USMNT",
-    "story": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "name": "Democratic Republic",
+    "team": "Mexico",
+    "story": "Football Daily | Canada see off South Africa but fail to quench our endless World Cup thirst <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "The World Cup’s two competing realities: brilliant action and off-field injustices | Jonathan Wilson <p>All of the...",
+    "quote": "Mexico end World Cup knockout drought with last-32 win over Ecuador in Azteca cauldron <p></p><p>They were held up by...",
     "image": null
   },
   "tribunal": {
@@ -74,15 +74,15 @@
     "sideA": {
       "label": "Absolute Robbery",
       "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 42060,
-      "percentage": 46.8
+      "mockVotes": 35074,
+      "percentage": 37.6
     },
     "sideB": {
       "label": "Rules Are Rules",
       "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 47839,
-      "percentage": 53.2
+      "mockVotes": 58161,
+      "percentage": 62.4
     },
-    "totalMockVotes": 89899
+    "totalMockVotes": 93235
   }
 }
