@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-01T14:48:39Z",
+    "lastUpdated": "2026-07-01T17:20:48Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,14 @@
     ]
   },
   "cryMeter": {
-    "headline": "France Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "USA",
+        "complaint": "corrupt",
+        "score": 95,
+        "flag": "🇺🇸"
+      },
       {
         "name": "France",
         "complaint": "awful",
@@ -18,10 +24,10 @@
         "flag": "🇫🇷"
       },
       {
-        "name": "USA",
-        "complaint": "worst",
-        "score": 95,
-        "flag": "🇺🇸"
+        "name": "Germany",
+        "complaint": "corrupt",
+        "score": 47,
+        "flag": "🇩🇪"
       },
       {
         "name": "Argentina",
@@ -34,39 +40,33 @@
         "complaint": "scandal",
         "score": 47,
         "flag": "🇺🇸"
-      },
-      {
-        "name": "Portugal",
-        "complaint": "traffic",
-        "score": 47,
-        "flag": "🇵🇹"
       }
     ],
-    "overallWhineScore": 16,
+    "overallWhineScore": 26,
     "trending": [
-      "worst",
-      "awful",
-      "scandal",
       "corrupt",
+      "awful",
+      "worst",
+      "scandal",
       "expensive"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Thomas Tuchel",
+    "name": "Declan Rice",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for worst. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "topSlander": "England v DR Congo: World Cup 2026 last 32 – live <p>⚽️ Kick-off time: 12pm local/5pm BST/1am AEST<br />⚽️ <a...",
     "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "Golden Boot",
-    "team": "England",
-    "story": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "name": "Guardian Australia",
+    "team": "Unknown",
+    "story": "Sign up for the Recap newsletter: our free sport highlights email <p>The best of our sports journalism from the past seven days and a heads-up on the weekend’s action</p><p>Subscribe to get our editors’ pick of the Guardian’s award-winning sport...",
     "sympathyScore": 95,
-    "quote": "England v DR Congo: World Cup 2026 last 32 – live <p>⚽️ Kick-off time: 12pm local/1pm EDT/5pm BST/1am AEST<br />⚽️ <a...",
+    "quote": "Sign up for the Recap newsletter: our free sport highlights email <p>The best of our sports journalism from the past...",
     "image": null
   },
   "tribunal": {
