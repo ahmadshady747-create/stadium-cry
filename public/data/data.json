@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-01T04:23:52Z",
+    "lastUpdated": "2026-07-01T10:00:25Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,14 @@
     ]
   },
   "cryMeter": {
-    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
+    "headline": "France Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "France",
+        "complaint": "awful",
+        "score": 95,
+        "flag": "🇫🇷"
+      },
       {
         "name": "USA",
         "complaint": "worst",
@@ -34,21 +40,15 @@
         "complaint": "traffic",
         "score": 47,
         "flag": "🇨🇦"
-      },
-      {
-        "name": "Mexico",
-        "complaint": "traffic",
-        "score": 47,
-        "flag": "🇲🇽"
       }
     ],
-    "overallWhineScore": 26,
+    "overallWhineScore": 28,
     "trending": [
       "worst",
+      "awful",
       "traffic",
       "scandal",
-      "corrupt",
-      "expensive"
+      "corrupt"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
