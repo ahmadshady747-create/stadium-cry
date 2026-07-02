@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-02T04:03:07Z",
+    "lastUpdated": "2026-07-02T09:23:05Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -24,49 +24,37 @@
         "flag": "🇲🇽"
       },
       {
-        "name": "USA",
-        "complaint": "worst",
-        "score": 95,
-        "flag": "🇺🇸"
-      },
-      {
-        "name": "Argentina",
-        "complaint": "worst",
-        "score": 95,
-        "flag": "🇦🇷"
-      },
-      {
         "name": "USMNT",
         "complaint": "scandal",
         "score": 95,
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 14,
+    "overallWhineScore": 6,
     "trending": [
-      "worst",
       "traffic",
       "awful",
       "scandal",
-      "corrupt"
+      "corrupt",
+      "worst"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Thomas Tuchel",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Harry Kane",
+    "role": "referee",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 4,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "Atlanta Stadium",
-    "team": "England",
+    "name": "Harry Kane",
+    "team": "USA",
     "story": "England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg <p>It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in the cauldron of Azteca</p><p>It was looking bleak...",
     "sympathyScore": 95,
-    "quote": "Harry Kane the one who saves Tuchel as England avoid another traumatic exit | Barney Ronay <p>Captain played in deep...",
+    "quote": "World Cup 2026: England, USA and Belgium through; Spain and Portugal face last-32 tests – live <p>⚽ All the latest news.",
     "image": null
   },
   "tribunal": {
