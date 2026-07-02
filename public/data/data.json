@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-01T22:22:22Z",
+    "lastUpdated": "2026-07-02T04:03:07Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,64 +9,64 @@
     ]
   },
   "cryMeter": {
-    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Canada Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "USA",
-        "complaint": "corrupt",
-        "score": 95,
-        "flag": "🇺🇸"
-      },
-      {
-        "name": "Germany",
-        "complaint": "corrupt",
-        "score": 47,
-        "flag": "🇩🇪"
-      },
-      {
-        "name": "Argentina",
-        "complaint": "worst",
-        "score": 47,
-        "flag": "🇦🇷"
-      },
       {
         "name": "Canada",
         "complaint": "traffic",
-        "score": 47,
+        "score": 95,
         "flag": "🇨🇦"
       },
       {
         "name": "Mexico",
         "complaint": "traffic",
-        "score": 47,
+        "score": 95,
         "flag": "🇲🇽"
+      },
+      {
+        "name": "USA",
+        "complaint": "worst",
+        "score": 95,
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Argentina",
+        "complaint": "worst",
+        "score": 95,
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "USMNT",
+        "complaint": "scandal",
+        "score": 95,
+        "flag": "🇺🇸"
       }
     ],
     "overallWhineScore": 14,
     "trending": [
-      "corrupt",
       "worst",
       "traffic",
-      "expensive",
-      "awful"
+      "awful",
+      "scandal",
+      "corrupt"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Harry Kane",
+    "name": "Thomas Tuchel",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "European Championship",
-    "team": "USA",
-    "story": "German police raid national football HQ over Euro 2024 corruption allegations <ul><li><p>Operation concerns ‘unauthorised favours’ in host cities</p></li><li><p>Bribery involving tickets is suspected, Bild reports</p></li></ul><p>Police in Germany...",
+    "name": "Atlanta Stadium",
+    "team": "England",
+    "story": "England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg <p>It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in the cauldron of Azteca</p><p>It was looking bleak...",
     "sympathyScore": 95,
-    "quote": "German police raid national football HQ over Euro 2024 corruption allegations <ul><li><p>Operation concerns...",
+    "quote": "Harry Kane the one who saves Tuchel as England avoid another traumatic exit | Barney Ronay <p>Captain played in deep...",
     "image": null
   },
   "tribunal": {
@@ -74,15 +74,15 @@
     "sideA": {
       "label": "Absolute Robbery",
       "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 35074,
-      "percentage": 37.6
+      "mockVotes": 65017,
+      "percentage": 71.2
     },
     "sideB": {
       "label": "Rules Are Rules",
       "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 58161,
-      "percentage": 62.4
+      "mockVotes": 26244,
+      "percentage": 28.8
     },
-    "totalMockVotes": 93235
+    "totalMockVotes": 91261
   }
 }
