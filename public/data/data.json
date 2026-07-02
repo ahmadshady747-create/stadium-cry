@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-02T14:15:52Z",
+    "lastUpdated": "2026-07-02T16:54:59Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -18,7 +18,7 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 2,
+    "overallWhineScore": 3,
     "trending": [
       "awful",
       "scandal",
@@ -29,19 +29,19 @@
   },
   "villain": {
     "name": "Harry Kane",
-    "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
+    "role": "referee",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Football Daily | England survive a Lionel M masterclass and roll on to the Azteca … just <p><a...",
-    "sourceCount": 7,
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
     "name": "Harry Kane",
-    "team": "USA",
+    "team": "England",
     "story": "England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg <p>It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in the cauldron of Azteca</p><p>It was <a...",
     "sympathyScore": 95,
-    "quote": "World Cup 2026: England, USA and Belgium through; Spain and Portugal face last-32 tests – live <p>⚽ All the latest news.",
+    "quote": "World Cup 2026: Klopp linked with Germany job; Spain and Portugal face last-32 tests – live <p>⚽ All the latest news...",
     "image": null
   },
   "tribunal": {
