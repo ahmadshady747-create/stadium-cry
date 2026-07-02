@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-02T19:41:11Z",
+    "lastUpdated": "2026-07-02T22:12:17Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -26,35 +26,35 @@
       {
         "name": "USMNT",
         "complaint": "scandal",
-        "score": 95,
+        "score": 47,
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 8,
+    "overallWhineScore": 10,
     "trending": [
       "terrible",
+      "delayed",
       "awful",
       "scandal",
-      "corrupt",
-      "worst"
+      "corrupt"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Thomas Tuchel",
-    "role": "referee",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Folarin Balogun",
+    "role": "coach",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Football Daily | England survive a Lionel M masterclass and roll on to the Azteca … just <p><a...",
-    "sourceCount": 5,
+    "topSlander": "Sources: USMNT cannot appeal Balogun red card The USMNT has no route to appeal Folarin Balogun's red card against Bosnia and Herzegovina, sources...",
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Barney Ronay",
-    "team": "England",
-    "story": "Fifa unites the world – in anger at hydration breaks (AKA ad breaks) | Barney Ronay <p>Fans, players and coaches have voiced their indignation at the way the game is massively altered by the four-quarter structure</p><p>With 22 minutes gone on...",
+    "name": "Folarin Balogun",
+    "team": "USMNT",
+    "story": "A goal, a red and a LeBron James shout: Folarin Balogun gets the spotlight in US’s wild World Cup win <p>The versatile striker was dangerous in his time on the field on Wednesday, but that time was prematurely ended with a surprising...",
     "sympathyScore": 95,
-    "quote": "Trump is avoiding the World Cup because it’s packed with good things he doesn’t like | Barney Ronay <p>For all its...",
+    "quote": "Sources: USMNT cannot appeal Balogun red card The USMNT has no route to appeal Folarin Balogun's red card against...",
     "image": null
   },
   "tribunal": {
