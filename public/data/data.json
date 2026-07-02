@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-02T16:54:59Z",
+    "lastUpdated": "2026-07-02T19:41:11Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,20 @@
     ]
   },
   "cryMeter": {
-    "headline": "USMNT Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "Mexico",
+        "complaint": "terrible",
+        "score": 95,
+        "flag": "🇲🇽"
+      },
+      {
+        "name": "England",
+        "complaint": "terrible",
+        "score": 95,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
       {
         "name": "USMNT",
         "complaint": "scandal",
@@ -18,8 +30,9 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 3,
+    "overallWhineScore": 8,
     "trending": [
+      "terrible",
       "awful",
       "scandal",
       "corrupt",
@@ -28,20 +41,20 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Harry Kane",
+    "name": "Thomas Tuchel",
     "role": "referee",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Football Daily | England survive a Lionel M masterclass and roll on to the Azteca … just <p><a...",
-    "sourceCount": 4,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "Harry Kane",
+    "name": "Barney Ronay",
     "team": "England",
-    "story": "England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg <p>It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in the cauldron of Azteca</p><p>It was <a...",
+    "story": "Fifa unites the world – in anger at hydration breaks (AKA ad breaks) | Barney Ronay <p>Fans, players and coaches have voiced their indignation at the way the game is massively altered by the four-quarter structure</p><p>With 22 minutes gone on...",
     "sympathyScore": 95,
-    "quote": "World Cup 2026: Klopp linked with Germany job; Spain and Portugal face last-32 tests – live <p>⚽ All the latest news...",
+    "quote": "Trump is avoiding the World Cup because it’s packed with good things he doesn’t like | Barney Ronay <p>For all its...",
     "image": null
   },
   "tribunal": {
