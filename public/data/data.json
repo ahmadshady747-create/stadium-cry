@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-02T22:12:17Z",
+    "lastUpdated": "2026-07-03T03:49:11Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -30,7 +30,7 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 10,
+    "overallWhineScore": 14,
     "trending": [
       "terrible",
       "delayed",
@@ -41,20 +41,20 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Folarin Balogun",
-    "role": "coach",
+    "name": "Thomas Tuchel",
+    "role": "referee",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Sources: USMNT cannot appeal Balogun red card The USMNT has no route to appeal Folarin Balogun's red card against Bosnia and Herzegovina, sources...",
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
     "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Folarin Balogun",
-    "team": "USMNT",
-    "story": "A goal, a red and a LeBron James shout: Folarin Balogun gets the spotlight in US’s wild World Cup win <p>The versatile striker was dangerous in his time on the field on Wednesday, but that time was prematurely ended with a surprising...",
+    "name": "National Suicide",
+    "team": "USA",
+    "story": "Maddy Cusack was fearful of reporting her concerns, mother tells inquest <ul><li><p>Sheffield Utd player ‘felt she couldn’t speak’ to hierarchy </p></li><li><p>Coroner told of serious loss of club’s medical data</p></li></ul><p>The mother of Maddy...",
     "sympathyScore": 95,
-    "quote": "Sources: USMNT cannot appeal Balogun red card The USMNT has no route to appeal Folarin Balogun's red card against...",
+    "quote": "Maddy Cusack was fearful of reporting her concerns, mother tells inquest <ul><li><p>Sheffield Utd player ‘felt she...",
     "image": null
   },
   "tribunal": {
@@ -62,15 +62,15 @@
     "sideA": {
       "label": "Absolute Robbery",
       "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 65017,
-      "percentage": 71.2
+      "mockVotes": 52244,
+      "percentage": 41.8
     },
     "sideB": {
       "label": "Rules Are Rules",
       "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 26244,
-      "percentage": 28.8
+      "mockVotes": 72730,
+      "percentage": 58.2
     },
-    "totalMockVotes": 91261
+    "totalMockVotes": 124974
   }
 }
