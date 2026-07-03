@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-03T19:38:17Z",
+    "lastUpdated": "2026-07-03T22:09:15Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,20 +9,8 @@
     ]
   },
   "cryMeter": {
-    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Argentina Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "Mexico",
-        "complaint": "corrupt",
-        "score": 95,
-        "flag": "🇲🇽"
-      },
-      {
-        "name": "England",
-        "complaint": "corrupt",
-        "score": 95,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
       {
         "name": "Argentina",
         "complaint": "corrupt",
@@ -30,19 +18,37 @@
         "flag": "🇦🇷"
       },
       {
+        "name": "Mexico",
+        "complaint": "corrupt",
+        "score": 47,
+        "flag": "🇲🇽"
+      },
+      {
+        "name": "England",
+        "complaint": "corrupt",
+        "score": 47,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "USA",
+        "complaint": "worst",
+        "score": 47,
+        "flag": "🇺🇸"
+      },
+      {
         "name": "USMNT",
         "complaint": "scandal",
-        "score": 95,
+        "score": 47,
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 11,
+    "overallWhineScore": 17,
     "trending": [
       "corrupt",
+      "worst",
       "traffic",
       "awful",
-      "scandal",
-      "worst"
+      "scandal"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
