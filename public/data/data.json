@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-03T16:39:24Z",
+    "lastUpdated": "2026-07-03T19:38:17Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,11 +9,23 @@
     ]
   },
   "cryMeter": {
-    "headline": "Argentina Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
+        "name": "Mexico",
+        "complaint": "corrupt",
+        "score": 95,
+        "flag": "🇲🇽"
+      },
+      {
+        "name": "England",
+        "complaint": "corrupt",
+        "score": 95,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
         "name": "Argentina",
-        "complaint": "traffic",
+        "complaint": "corrupt",
         "score": 95,
         "flag": "🇦🇷"
       },
@@ -24,31 +36,31 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 4,
+    "overallWhineScore": 11,
     "trending": [
+      "corrupt",
       "traffic",
       "awful",
       "scandal",
-      "corrupt",
       "worst"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Folarin Balogun",
-    "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Thomas Tuchel",
+    "role": "referee",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Sources: USMNT cannot appeal Balogun red card The USMNT has no route to appeal Folarin Balogun's red card against Bosnia and Herzegovina, sources...",
-    "sourceCount": 4,
+    "topSlander": "Facing Mexico at the Azteca? Suddenly our expectations of England are unusually realistic | Max Rushden <p>Thomas Tuchel’s side have problems aside...",
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "Folarin Balogun",
-    "team": "USMNT",
-    "story": "A goal, a red and a LeBron James shout: Folarin Balogun gets the spotlight in US’s wild World Cup win <p>The versatile striker was dangerous in his time on the field on Wednesday, but that time was prematurely ended with a surprising...",
+    "name": "Thomas Tuchel",
+    "team": "Mexico",
+    "story": "Facing Mexico at the Azteca? Suddenly our expectations of England are unusually realistic | Max Rushden <p>Thomas Tuchel’s side have problems aside from the altitude: defeat in a Mexican haze would be no embarrassment</p><p>It’s a warm June...",
     "sympathyScore": 95,
-    "quote": "Sources: USMNT cannot appeal Balogun red card The USMNT has no route to appeal Folarin Balogun's red card against...",
+    "quote": "Facing Mexico at the Azteca? Suddenly our expectations of England are unusually realistic | Max Rushden <p>Thomas...",
     "image": null
   },
   "tribunal": {
