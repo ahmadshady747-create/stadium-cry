@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-04T03:40:58Z",
+    "lastUpdated": "2026-07-04T08:45:13Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -16,6 +16,12 @@
         "complaint": "corrupt",
         "score": 95,
         "flag": "🇦🇷"
+      },
+      {
+        "name": "Brazil",
+        "complaint": "worst",
+        "score": 47,
+        "flag": "🇧🇷"
       },
       {
         "name": "Mexico",
@@ -34,18 +40,12 @@
         "complaint": "worst",
         "score": 47,
         "flag": "🇺🇸"
-      },
-      {
-        "name": "USMNT",
-        "complaint": "scandal",
-        "score": 47,
-        "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 17,
+    "overallWhineScore": 20,
     "trending": [
-      "corrupt",
       "worst",
+      "corrupt",
       "traffic",
       "awful",
       "scandal"
@@ -53,33 +53,33 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Thomas Tuchel",
+    "name": "Mexico City",
     "role": "referee",
     "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Facing Mexico at the Azteca? Suddenly our expectations of England are unusually realistic | Max Rushden <p>Thomas Tuchel’s side have problems aside...",
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
     "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "Thomas Tuchel",
+    "name": "Mexico City",
     "team": "Mexico",
-    "story": "Facing Mexico at the Azteca? Suddenly our expectations of England are unusually realistic | Max Rushden <p>Thomas Tuchel’s side have problems aside from the altitude: defeat in a Mexican haze would be no embarrassment</p><p>It’s a warm June...",
+    "story": "England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg <p>It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in the cauldron of Azteca</p><p>It was <a...",
     "sympathyScore": 95,
-    "quote": "Facing Mexico at the Azteca? Suddenly our expectations of England are unusually realistic | Max Rushden <p>Thomas...",
+    "quote": "England’s game against Mexico to stay at 1am UK kick-off after day of chaos <ul><li><p>Fifa held discussions about game.",
     "image": null
   },
   "tribunal": {
-    "question": "Was the VAR call that ended USA's run the worst in WC history?",
+    "question": "Survival is key for England in epic test or it will be a Mexican wave goodbye <p",
     "sideA": {
-      "label": "Absolute Robbery",
-      "description": "Advocating for Absolute Robbery in this heated debate.",
+      "label": "Survival is key for England in",
+      "description": "Advocating for Survival is key for England in in this heated debate.",
       "mockVotes": 74177,
       "percentage": 57.0
     },
     "sideB": {
-      "label": "Rules Are Rules",
-      "description": "Standing firm with Rules Are Rules on this issue.",
+      "label": "it will be a Mexican wave good",
+      "description": "Standing firm with it will be a Mexican wave good on this issue.",
       "mockVotes": 56010,
       "percentage": 43.0
     },
