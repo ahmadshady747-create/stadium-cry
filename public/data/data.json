@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-04T19:22:55Z",
+    "lastUpdated": "2026-07-04T22:02:58Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,26 @@
     ]
   },
   "cryMeter": {
-    "headline": "Argentina Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Brazil Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "Brazil",
+        "complaint": "worst",
+        "score": 95,
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "Mexico",
+        "complaint": "corrupt",
+        "score": 95,
+        "flag": "🇲🇽"
+      },
+      {
+        "name": "England",
+        "complaint": "corrupt",
+        "score": 95,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
       {
         "name": "Argentina",
         "complaint": "corrupt",
@@ -18,31 +36,13 @@
         "flag": "🇦🇷"
       },
       {
-        "name": "Brazil",
-        "complaint": "worst",
-        "score": 47,
-        "flag": "🇧🇷"
-      },
-      {
-        "name": "Mexico",
-        "complaint": "corrupt",
-        "score": 47,
-        "flag": "🇲🇽"
-      },
-      {
-        "name": "England",
-        "complaint": "corrupt",
-        "score": 47,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      {
-        "name": "USA",
-        "complaint": "worst",
-        "score": 47,
+        "name": "USMNT",
+        "complaint": "scandal",
+        "score": 95,
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 20,
+    "overallWhineScore": 14,
     "trending": [
       "worst",
       "corrupt",
@@ -55,18 +55,18 @@
   "villain": {
     "name": "Cape Verde",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 6,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
     "name": "Cape Verde",
-    "team": "Canada",
+    "team": "USA",
     "story": "Football Daily | Argentina advance. But for Cape Verde, they’ll always have for ever <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "World Cup 2026: Canada crash out as Ounahi double sends Morocco into last eight – live reaction <p>⚽️ Kick-off time:...",
+    "quote": "Football Daily | Argentina advance. But for Cape Verde, they’ll always have for ever <p><a...",
     "image": null
   },
   "tribunal": {
