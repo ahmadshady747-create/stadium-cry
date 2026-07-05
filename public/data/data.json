@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-05T03:59:43Z",
+    "lastUpdated": "2026-07-05T09:14:03Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -53,33 +53,33 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Mexico City",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Golden Boot",
+    "role": "player",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Mexico City",
+    "name": "Barney Ronay",
     "team": "Mexico",
-    "story": "England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg <p>It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in the cauldron of Azteca</p><p>It was <a...",
+    "story": "Fifa unites the world – in anger at hydration breaks (AKA ad breaks) | Barney Ronay <p>Fans, players and coaches have voiced their indignation at the way the game is massively altered by the four-quarter structure</p><p>With 22 minutes gone on...",
     "sympathyScore": 95,
-    "quote": "‘Here to write our own chapters’: England not daunted by unique occasion of Mexico game, says Tuchel...",
+    "quote": "France find a way past Paraguay and what awaits England in Mexico? | World Cup Daily – video <p><a...",
     "image": null
   },
   "tribunal": {
-    "question": "Survival is key for England in epic test or it will be a Mexican wave goodbye <p",
+    "question": "For all Cape Verde’s heroics, Africa’s World Cup could and perhaps should have b",
     "sideA": {
-      "label": "Survival is key for England in",
-      "description": "Advocating for Survival is key for England in in this heated debate.",
+      "label": "cial media. Is it a gold and w",
+      "description": "Advocating for cial media. Is it a gold and w in this heated debate.",
       "mockVotes": 56443,
       "percentage": 58.6
     },
     "sideB": {
-      "label": "it will be a Mexican wave good",
-      "description": "Standing firm with it will be a Mexican wave good on this issue.",
+      "label": "a black and blue dress? Is it ",
+      "description": "Standing firm with a black and blue dress? Is it  on this issue.",
       "mockVotes": 39821,
       "percentage": 41.4
     },
