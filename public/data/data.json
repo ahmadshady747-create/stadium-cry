@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-04T22:02:58Z",
+    "lastUpdated": "2026-07-05T03:59:43Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,14 @@
     ]
   },
   "cryMeter": {
-    "headline": "Brazil Fans Are the Loudest Crybabies at WC2026",
+    "headline": "France Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "France",
+        "complaint": "disgrace",
+        "score": 95,
+        "flag": "🇫🇷"
+      },
       {
         "name": "Brazil",
         "complaint": "worst",
@@ -34,27 +40,21 @@
         "complaint": "corrupt",
         "score": 95,
         "flag": "🇦🇷"
-      },
-      {
-        "name": "USMNT",
-        "complaint": "scandal",
-        "score": 95,
-        "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 14,
+    "overallWhineScore": 17,
     "trending": [
       "worst",
       "corrupt",
+      "disgrace",
       "traffic",
-      "awful",
-      "scandal"
+      "awful"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Cape Verde",
-    "role": "player",
+    "name": "Mexico City",
+    "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
@@ -62,11 +62,11 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Cape Verde",
-    "team": "USA",
-    "story": "Football Daily | Argentina advance. But for Cape Verde, they’ll always have for ever <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "name": "Mexico City",
+    "team": "Mexico",
+    "story": "England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg <p>It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in the cauldron of Azteca</p><p>It was <a...",
     "sympathyScore": 95,
-    "quote": "Football Daily | Argentina advance. But for Cape Verde, they’ll always have for ever <p><a...",
+    "quote": "‘Here to write our own chapters’: England not daunted by unique occasion of Mexico game, says Tuchel...",
     "image": null
   },
   "tribunal": {
@@ -74,15 +74,15 @@
     "sideA": {
       "label": "Survival is key for England in",
       "description": "Advocating for Survival is key for England in in this heated debate.",
-      "mockVotes": 74177,
-      "percentage": 57.0
+      "mockVotes": 56443,
+      "percentage": 58.6
     },
     "sideB": {
       "label": "it will be a Mexican wave good",
       "description": "Standing firm with it will be a Mexican wave good on this issue.",
-      "mockVotes": 56010,
-      "percentage": 43.0
+      "mockVotes": 39821,
+      "percentage": 41.4
     },
-    "totalMockVotes": 130187
+    "totalMockVotes": 96264
   }
 }
