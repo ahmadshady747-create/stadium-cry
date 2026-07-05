@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-05T09:14:03Z",
+    "lastUpdated": "2026-07-05T13:52:22Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -42,7 +42,7 @@
         "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 17,
+    "overallWhineScore": 12,
     "trending": [
       "worst",
       "corrupt",
@@ -53,12 +53,12 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Golden Boot",
-    "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Carlo Ancelotti",
+    "role": "coach",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 4,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
