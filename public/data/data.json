@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-05T13:52:22Z",
+    "lastUpdated": "2026-07-05T16:14:29Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -16,6 +16,12 @@
         "complaint": "disgrace",
         "score": 95,
         "flag": "🇫🇷"
+      },
+      {
+        "name": "Italy",
+        "complaint": "disgrace",
+        "score": 95,
+        "flag": "🇮🇹"
       },
       {
         "name": "Brazil",
@@ -34,15 +40,9 @@
         "complaint": "corrupt",
         "score": 95,
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      {
-        "name": "Argentina",
-        "complaint": "corrupt",
-        "score": 95,
-        "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 12,
+    "overallWhineScore": 20,
     "trending": [
       "worst",
       "corrupt",
@@ -53,11 +53,11 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Carlo Ancelotti",
-    "role": "coach",
+    "name": "Football Daily",
+    "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "topSlander": "France deliver knockout punch to Paraguay in the Battle of Philadelphia <p><a...",
     "sourceCount": 5,
     "image": null
   },
