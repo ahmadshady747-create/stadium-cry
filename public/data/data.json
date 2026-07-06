@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-06T15:45:58Z",
+    "lastUpdated": "2026-07-06T20:06:20Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -24,6 +24,12 @@
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
+        "name": "USA",
+        "complaint": "unfair",
+        "score": 47,
+        "flag": "🇺🇸"
+      },
+      {
         "name": "Brazil",
         "complaint": "worst",
         "score": 47,
@@ -34,39 +40,33 @@
         "complaint": "corrupt",
         "score": 47,
         "flag": "🇦🇷"
-      },
-      {
-        "name": "USMNT",
-        "complaint": "scandal",
-        "score": 47,
-        "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 20,
+    "overallWhineScore": 23,
     "trending": [
       "worst",
       "corrupt",
+      "unfair",
       "delayed",
-      "traffic",
-      "awful"
+      "traffic"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "World Cups",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Gianni Infantino",
+    "role": "player",
+    "reason": "Widely criticized for red card. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The Joy of Six: forgotten World Cup goals <p>From Ogris’s Florentine charge to Quagliarella’s Ellis Park chip, half a dozen World Cup classics that...",
+    "topSlander": "Trump confirms he asked Infantino for review of Folarin Balogun red card <ul><li><p>Trump says he asked Fifa to review red...",
     "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Barney Ronay",
+    "name": "Mexico City",
     "team": "Mexico",
-    "story": "Fifa unites the world – in anger at hydration breaks (AKA ad breaks) | Barney Ronay <p>Fans, players and coaches have voiced their indignation at the way the game is massively altered by the four-quarter structure</p><p>With 22 minutes gone on...",
+    "story": "My Mexico 1986 memories of Maradona, the Azteca and a commentary faux pas | David Pleat <p>Working at the 1986 World Cup match was unforgettable thanks to the most controversial goal in history and then the best I have seen live</p><p>When I took my.",
     "sympathyScore": 95,
-    "quote": "England rise to Azteca occasion and see off ghosts, time and Mexico | Barney Ronay <p>This was the most extraordinary...",
+    "quote": "‘I got three hours’ sleep’: fans on watching England beat Mexico at the World Cup <p>Football fans around the globe...",
     "image": null
   },
   "tribunal": {
