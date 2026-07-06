@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-06T20:06:20Z",
+    "lastUpdated": "2026-07-06T22:19:06Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -24,12 +24,6 @@
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
-        "name": "USA",
-        "complaint": "unfair",
-        "score": 47,
-        "flag": "🇺🇸"
-      },
-      {
         "name": "Brazil",
         "complaint": "worst",
         "score": 47,
@@ -40,33 +34,39 @@
         "complaint": "corrupt",
         "score": 47,
         "flag": "🇦🇷"
+      },
+      {
+        "name": "USMNT",
+        "complaint": "scandal",
+        "score": 47,
+        "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 23,
+    "overallWhineScore": 20,
     "trending": [
       "worst",
       "corrupt",
-      "unfair",
       "delayed",
-      "traffic"
+      "traffic",
+      "scandal"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Gianni Infantino",
+    "name": "Golden Boot",
     "role": "player",
-    "reason": "Widely criticized for red card. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Trump confirms he asked Infantino for review of Folarin Balogun red card <ul><li><p>Trump says he asked Fifa to review red...",
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
     "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
     "name": "Mexico City",
     "team": "Mexico",
-    "story": "My Mexico 1986 memories of Maradona, the Azteca and a commentary faux pas | David Pleat <p>Working at the 1986 World Cup match was unforgettable thanks to the most controversial goal in history and then the best I have seen live</p><p>When I took my.",
+    "story": "‘Best host in the world’: Mexico keep spirits up after England heartbreak <p>Despite ‘a setback that will hurt for eternity’, the co-hosts exit with heads held high after bringing pride, passion and soul</p><p>On Monday music pulsated from some of...",
     "sympathyScore": 95,
-    "quote": "‘I got three hours’ sleep’: fans on watching England beat Mexico at the World Cup <p>Football fans around the globe...",
+    "quote": "‘Best host in the world’: Mexico keep spirits up after England heartbreak <p>Despite ‘a setback that will hurt for...",
     "image": null
   },
   "tribunal": {
