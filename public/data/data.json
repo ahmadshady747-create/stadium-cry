@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-05T22:07:22Z",
+    "lastUpdated": "2026-07-06T04:05:58Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -74,15 +74,15 @@
     "sideA": {
       "label": "the German: psyop, mirror to U",
       "description": "Advocating for the German: psyop, mirror to U in this heated debate.",
-      "mockVotes": 56443,
-      "percentage": 58.6
+      "mockVotes": 19500,
+      "percentage": 30.0
     },
     "sideB": {
       "label": "Tocqueville in a CR7 shirt? <p",
       "description": "Standing firm with Tocqueville in a CR7 shirt? <p on this issue.",
-      "mockVotes": 39821,
-      "percentage": 41.4
+      "mockVotes": 45552,
+      "percentage": 70.0
     },
-    "totalMockVotes": 96264
+    "totalMockVotes": 65052
   }
 }
