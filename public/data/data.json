@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-07T17:22:35Z",
+    "lastUpdated": "2026-07-07T20:04:36Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -13,39 +13,32 @@
     "topCryers": [
       {
         "name": "Mexico",
-        "complaint": "bias",
+        "complaint": "delayed",
         "score": 95,
         "flag": "🇲🇽"
       },
       {
-        "name": "Brazil",
-        "complaint": "bias",
-        "score": 63,
-        "flag": "🇧🇷"
-      },
-      {
         "name": "England",
         "complaint": "delayed",
-        "score": 63,
+        "score": 95,
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
-        "name": "USA",
-        "complaint": "bias",
-        "score": 31,
-        "flag": "🇺🇸"
+        "name": "Brazil",
+        "complaint": "worst",
+        "score": 47,
+        "flag": "🇧🇷"
       },
       {
-        "name": "Canada",
-        "complaint": "bias",
-        "score": 31,
-        "flag": "🇨🇦"
+        "name": "Argentina",
+        "complaint": "corrupt",
+        "score": 47,
+        "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 28,
+    "overallWhineScore": 17,
     "trending": [
       "worst",
-      "bias",
       "delayed",
       "corrupt",
       "traffic"
