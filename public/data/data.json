@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-07T20:04:36Z",
+    "lastUpdated": "2026-07-07T22:15:27Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -24,24 +24,31 @@
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
+        "name": "USA",
+        "complaint": "cheat",
+        "score": 47,
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "USMNT",
+        "complaint": "cheat",
+        "score": 47,
+        "flag": "🇺🇸"
+      },
+      {
         "name": "Brazil",
         "complaint": "worst",
         "score": 47,
         "flag": "🇧🇷"
-      },
-      {
-        "name": "Argentina",
-        "complaint": "corrupt",
-        "score": 47,
-        "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 17,
+    "overallWhineScore": 23,
     "trending": [
       "worst",
+      "cheat",
+      "scandal",
       "delayed",
-      "corrupt",
-      "traffic"
+      "corrupt"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
