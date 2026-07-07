@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-07T03:56:50Z",
+    "lastUpdated": "2026-07-07T09:52:31Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,64 +9,64 @@
     ]
   },
   "cryMeter": {
-    "headline": "USMNT Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
-        "name": "USMNT",
-        "complaint": "terrible",
-        "score": 95,
-        "flag": "🇺🇸"
-      },
-      {
         "name": "Mexico",
-        "complaint": "delayed",
+        "complaint": "bias",
         "score": 95,
         "flag": "🇲🇽"
       },
       {
+        "name": "Brazil",
+        "complaint": "bias",
+        "score": 63,
+        "flag": "🇧🇷"
+      },
+      {
         "name": "England",
         "complaint": "delayed",
-        "score": 95,
+        "score": 63,
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
         "name": "USA",
-        "complaint": "worst",
-        "score": 47,
+        "complaint": "bias",
+        "score": 31,
         "flag": "🇺🇸"
       },
       {
-        "name": "Brazil",
-        "complaint": "worst",
-        "score": 47,
-        "flag": "🇧🇷"
+        "name": "Canada",
+        "complaint": "bias",
+        "score": 31,
+        "flag": "🇨🇦"
       }
     ],
-    "overallWhineScore": 19,
+    "overallWhineScore": 31,
     "trending": [
       "worst",
       "corrupt",
-      "terrible",
+      "bias",
       "delayed",
       "traffic"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Folarin Balogun",
+    "name": "Mexico City",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Ragged USA crash out of World Cup with last-16 defeat to Belgium <p>The United States’ quest to get <a...",
-    "sourceCount": 4,
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
     "name": "Cristiano Ronaldo",
     "team": "Spain",
-    "story": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes <p>Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worth</p><p>I would be shocked if the...",
+    "story": "‘I go with a clear conscience’: Cristiano Ronaldo confirms he has played his last World Cup game <ul><li><p>Portugal lose last-16 game 1-0 against Spain</p></li><li><p>Martínez: ‘When you need a goal, you cannot take him...",
     "sympathyScore": 95,
-    "quote": "Ronaldo exits in tears as Spain end final World Cu... An emotional Cristiano Ronaldo said he had a \"clear conscience\"...",
+    "quote": "‘I go with a clear conscience’: Cristiano Ronaldo confirms he has played his last World Cup game <ul><li><p>Portugal...",
     "image": null
   },
   "tribunal": {
