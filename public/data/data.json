@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-07T09:52:31Z",
+    "lastUpdated": "2026-07-07T14:50:08Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -42,23 +42,23 @@
         "flag": "🇨🇦"
       }
     ],
-    "overallWhineScore": 31,
+    "overallWhineScore": 21,
     "trending": [
       "worst",
-      "corrupt",
       "bias",
       "delayed",
+      "corrupt",
       "traffic"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Mexico City",
-    "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Cristiano Ronaldo",
+    "role": "coach",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
@@ -66,7 +66,7 @@
     "team": "Spain",
     "story": "‘I go with a clear conscience’: Cristiano Ronaldo confirms he has played his last World Cup game <ul><li><p>Portugal lose last-16 game 1-0 against Spain</p></li><li><p>Martínez: ‘When you need a goal, you cannot take him...",
     "sympathyScore": 95,
-    "quote": "‘I go with a clear conscience’: Cristiano Ronaldo confirms he has played his last World Cup game <ul><li><p>Portugal...",
+    "quote": "Ronaldo exits in tears as Spain end final World Cu... An emotional Cristiano Ronaldo said he had a \"clear conscience\"...",
     "image": null
   },
   "tribunal": {
