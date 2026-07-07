@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-06T22:19:06Z",
+    "lastUpdated": "2026-07-07T03:56:50Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,14 @@
     ]
   },
   "cryMeter": {
-    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USMNT Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "USMNT",
+        "complaint": "terrible",
+        "score": 95,
+        "flag": "🇺🇸"
+      },
       {
         "name": "Mexico",
         "complaint": "delayed",
@@ -24,49 +30,43 @@
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
+        "name": "USA",
+        "complaint": "worst",
+        "score": 47,
+        "flag": "🇺🇸"
+      },
+      {
         "name": "Brazil",
         "complaint": "worst",
         "score": 47,
         "flag": "🇧🇷"
-      },
-      {
-        "name": "Argentina",
-        "complaint": "corrupt",
-        "score": 47,
-        "flag": "🇦🇷"
-      },
-      {
-        "name": "USMNT",
-        "complaint": "scandal",
-        "score": 47,
-        "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 20,
+    "overallWhineScore": 19,
     "trending": [
       "worst",
       "corrupt",
+      "terrible",
       "delayed",
-      "traffic",
-      "scandal"
+      "traffic"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Golden Boot",
+    "name": "Folarin Balogun",
     "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "topSlander": "Ragged USA crash out of World Cup with last-16 defeat to Belgium <p>The United States’ quest to get <a...",
     "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Mexico City",
-    "team": "Mexico",
-    "story": "‘Best host in the world’: Mexico keep spirits up after England heartbreak <p>Despite ‘a setback that will hurt for eternity’, the co-hosts exit with heads held high after bringing pride, passion and soul</p><p>On Monday music pulsated from some of...",
+    "name": "Cristiano Ronaldo",
+    "team": "Spain",
+    "story": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes <p>Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worth</p><p>I would be shocked if the...",
     "sympathyScore": 95,
-    "quote": "‘Best host in the world’: Mexico keep spirits up after England heartbreak <p>Despite ‘a setback that will hurt for...",
+    "quote": "Ronaldo exits in tears as Spain end final World Cu... An emotional Cristiano Ronaldo said he had a \"clear conscience\"...",
     "image": null
   },
   "tribunal": {
@@ -74,15 +74,15 @@
     "sideA": {
       "label": "cial media. Is it a gold and w",
       "description": "Advocating for cial media. Is it a gold and w in this heated debate.",
-      "mockVotes": 19500,
-      "percentage": 30.0
+      "mockVotes": 45165,
+      "percentage": 50.4
     },
     "sideB": {
       "label": "a black and blue dress? Is it ",
       "description": "Standing firm with a black and blue dress? Is it  on this issue.",
-      "mockVotes": 45552,
-      "percentage": 70.0
+      "mockVotes": 44450,
+      "percentage": 49.6
     },
-    "totalMockVotes": 65052
+    "totalMockVotes": 89615
   }
 }
