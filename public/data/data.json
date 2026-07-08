@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-08T14:27:46Z",
+    "lastUpdated": "2026-07-08T16:44:01Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -24,37 +24,30 @@
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
-        "name": "USA",
-        "complaint": "cheat",
-        "score": 47,
-        "flag": "🇺🇸"
-      },
-      {
-        "name": "USMNT",
-        "complaint": "cheat",
-        "score": 47,
-        "flag": "🇺🇸"
-      },
-      {
         "name": "Brazil",
         "complaint": "worst",
         "score": 47,
         "flag": "🇧🇷"
+      },
+      {
+        "name": "Argentina",
+        "complaint": "corrupt",
+        "score": 47,
+        "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 23,
+    "overallWhineScore": 17,
     "trending": [
       "worst",
-      "cheat",
-      "scandal",
       "delayed",
-      "corrupt"
+      "corrupt",
+      "traffic"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Golden Boot",
-    "role": "coach",
+    "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
@@ -62,9 +55,9 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Cape Verde",
+    "name": "Lionel Messi",
     "team": "Spain",
-    "story": "Football Daily | Argentina advance. But for Cape Verde, they’ll always have for ever <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "story": "Football Daily | Argentina, VAR machinations and the greatest goal that never was <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
     "quote": "A World Cup free agent XI: summer bargains and top targets among clubless players <p>A goalkeeper with 27.5m Instagram..",
     "image": null
