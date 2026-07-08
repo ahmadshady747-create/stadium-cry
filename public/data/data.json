@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-08T03:23:20Z",
+    "lastUpdated": "2026-07-08T08:37:27Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,14 @@
     ]
   },
   "cryMeter": {
-    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USMNT Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "USMNT",
+        "complaint": "expensive",
+        "score": 95,
+        "flag": "🇺🇸"
+      },
       {
         "name": "Mexico",
         "complaint": "delayed",
@@ -30,41 +36,35 @@
         "flag": "🇺🇸"
       },
       {
-        "name": "USMNT",
-        "complaint": "cheat",
-        "score": 47,
-        "flag": "🇺🇸"
-      },
-      {
         "name": "Brazil",
         "complaint": "worst",
         "score": 47,
         "flag": "🇧🇷"
       }
     ],
-    "overallWhineScore": 17,
+    "overallWhineScore": 19,
     "trending": [
       "worst",
       "unfair",
+      "expensive",
       "cheat",
-      "scandal",
-      "delayed"
+      "scandal"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 6,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
     "name": "Lionel Messi",
     "team": "Argentina",
-    "story": "Tearful Messi inspires Argentina’s great escape in World Cup thriller with Egypt <p></p><p>The golden rule of football? Never write off Lionel Messi. Just when it looked like his dream of leading Argentina to the <em>bicampeonato</em> was in...",
+    "story": "Switzerland knock out Colombia on penalties to reach World Cup quarter-finals <p>Davinson Sánchez looked to the heavens. Cucho Hernández trudged back to his teammates. By the end, the pair’s penalty misses sent the Colombian team to the grass in...",
     "sympathyScore": 95,
     "quote": "Messi has no equals, and if not for him, Argentina... Argentina's remarkable comeback win against Egypt was all down to.",
     "image": null
