@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-07T22:15:27Z",
+    "lastUpdated": "2026-07-08T03:23:20Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -42,31 +42,31 @@
         "flag": "🇧🇷"
       }
     ],
-    "overallWhineScore": 23,
+    "overallWhineScore": 17,
     "trending": [
       "worst",
+      "unfair",
       "cheat",
       "scandal",
-      "delayed",
-      "corrupt"
+      "delayed"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Golden Boot",
+    "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 4,
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
-    "name": "Cristiano Ronaldo",
-    "team": "Spain",
-    "story": "‘I go with a clear conscience’: Cristiano Ronaldo confirms he has played his last World Cup game <ul><li><p>Portugal lose last-16 game 1-0 against Spain</p></li><li><p>Martínez: ‘When you need a goal, you cannot take him...",
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "story": "Tearful Messi inspires Argentina’s great escape in World Cup thriller with Egypt <p></p><p>The golden rule of football? Never write off Lionel Messi. Just when it looked like his dream of leading Argentina to the <em>bicampeonato</em> was in...",
     "sympathyScore": 95,
-    "quote": "‘I go with a clear conscience’: Cristiano Ronaldo confirms he has played his last World Cup game <ul><li><p>Portugal...",
+    "quote": "Messi has no equals, and if not for him, Argentina... Argentina's remarkable comeback win against Egypt was all down to.",
     "image": null
   },
   "tribunal": {
@@ -74,15 +74,15 @@
     "sideA": {
       "label": "cial media. Is it a gold and w",
       "description": "Advocating for cial media. Is it a gold and w in this heated debate.",
-      "mockVotes": 45165,
-      "percentage": 50.4
+      "mockVotes": 20454,
+      "percentage": 22.6
     },
     "sideB": {
       "label": "a black and blue dress? Is it ",
       "description": "Standing firm with a black and blue dress? Is it  on this issue.",
-      "mockVotes": 44450,
-      "percentage": 49.6
+      "mockVotes": 70226,
+      "percentage": 77.4
     },
-    "totalMockVotes": 89615
+    "totalMockVotes": 90680
   }
 }
