@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-08T08:37:27Z",
+    "lastUpdated": "2026-07-08T11:09:31Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,14 +9,8 @@
     ]
   },
   "cryMeter": {
-    "headline": "USMNT Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "USMNT",
-        "complaint": "expensive",
-        "score": 95,
-        "flag": "🇺🇸"
-      },
       {
         "name": "Mexico",
         "complaint": "delayed",
@@ -36,37 +30,43 @@
         "flag": "🇺🇸"
       },
       {
+        "name": "USMNT",
+        "complaint": "cheat",
+        "score": 47,
+        "flag": "🇺🇸"
+      },
+      {
         "name": "Brazil",
         "complaint": "worst",
         "score": 47,
         "flag": "🇧🇷"
       }
     ],
-    "overallWhineScore": 19,
+    "overallWhineScore": 23,
     "trending": [
       "worst",
-      "unfair",
-      "expensive",
       "cheat",
-      "scandal"
+      "scandal",
+      "delayed",
+      "corrupt"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Lionel Messi",
+    "name": "Golden Boot",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Lionel Messi",
-    "team": "Argentina",
-    "story": "Switzerland knock out Colombia on penalties to reach World Cup quarter-finals <p>Davinson Sánchez looked to the heavens. Cucho Hernández trudged back to his teammates. By the end, the pair’s penalty misses sent the Colombian team to the grass in...",
+    "name": "Cape Verde",
+    "team": "France",
+    "story": "Football Daily | Argentina advance. But for Cape Verde, they’ll always have for ever <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "Messi has no equals, and if not for him, Argentina... Argentina's remarkable comeback win against Egypt was all down to.",
+    "quote": "For all Cape Verde’s heroics, Africa’s World Cup could and perhaps should have been better | Jonathan Wilson <p>Egypt...",
     "image": null
   },
   "tribunal": {
