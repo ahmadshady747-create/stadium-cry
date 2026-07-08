@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-08T16:44:01Z",
+    "lastUpdated": "2026-07-08T19:42:12Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,44 +9,50 @@
     ]
   },
   "cryMeter": {
-    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USMNT Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
+        "name": "USMNT",
+        "complaint": "expensive",
+        "score": 95,
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Brazil",
+        "complaint": "worst",
+        "score": 95,
+        "flag": "🇧🇷"
+      },
+      {
         "name": "Mexico",
-        "complaint": "delayed",
+        "complaint": "corrupt",
         "score": 95,
         "flag": "🇲🇽"
       },
       {
         "name": "England",
-        "complaint": "delayed",
+        "complaint": "corrupt",
         "score": 95,
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
-        "name": "Brazil",
-        "complaint": "worst",
-        "score": 47,
-        "flag": "🇧🇷"
-      },
-      {
         "name": "Argentina",
         "complaint": "corrupt",
-        "score": 47,
+        "score": 95,
         "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 17,
+    "overallWhineScore": 10,
     "trending": [
       "worst",
-      "delayed",
+      "expensive",
       "corrupt",
       "traffic"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Golden Boot",
+    "name": "Alexia Putellas",
     "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
@@ -55,11 +61,11 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Lionel Messi",
+    "name": "Cristiano Ronaldo",
     "team": "Spain",
-    "story": "Football Daily | Argentina, VAR machinations and the greatest goal that never was <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "story": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes <p>Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worth</p><p>I would be shocked if the...",
     "sympathyScore": 95,
-    "quote": "A World Cup free agent XI: summer bargains and top targets among clubless players <p>A goalkeeper with 27.5m Instagram..",
+    "quote": "Copy of Copy of So, Ronaldo's World Cup era is over. Where did eac... Cristiano Ronaldo said this would be his last...",
     "image": null
   },
   "tribunal": {
