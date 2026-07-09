@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-09T09:50:01Z",
+    "lastUpdated": "2026-07-09T15:22:43Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,52 +9,44 @@
     ]
   },
   "cryMeter": {
-    "headline": "USMNT Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
-        "name": "USMNT",
-        "complaint": "expensive",
+        "name": "USA",
+        "complaint": "delayed",
         "score": 95,
         "flag": "🇺🇸"
       },
       {
         "name": "Brazil",
         "complaint": "worst",
-        "score": 47,
+        "score": 95,
         "flag": "🇧🇷"
-      },
-      {
-        "name": "USA",
-        "complaint": "cheat",
-        "score": 47,
-        "flag": "🇺🇸"
       },
       {
         "name": "Mexico",
         "complaint": "delayed",
-        "score": 47,
+        "score": 95,
         "flag": "🇲🇽"
       },
       {
         "name": "England",
         "complaint": "delayed",
-        "score": 47,
+        "score": 95,
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       }
     ],
-    "overallWhineScore": 12,
+    "overallWhineScore": 11,
     "trending": [
-      "expensive",
+      "delayed",
       "worst",
-      "cheat",
-      "scandal",
-      "delayed"
+      "expensive"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Lionel Messi",
-    "role": "player",
+    "role": "referee",
     "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
@@ -62,11 +54,11 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Cristiano Ronaldo",
-    "team": "Spain",
-    "story": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes <p>Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worth</p><p>I would be shocked if the...",
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "story": "Egypt’s World Cup adventure gave the country its first collective joy in 15 years | Karim Zidan <p>In a nation where more than 70% of people rely on food subsidies the team’s history-making campaign brought welcome celebration</p><p>For nearly 15...",
     "sympathyScore": 95,
-    "quote": "Copy of Copy of So, Ronaldo's World Cup era is over. Where did eac... Cristiano Ronaldo said this would be his last...",
+    "quote": "Egypt’s World Cup adventure gave the country its first collective joy in 15 years | Karim Zidan <p>In a nation where...",
     "image": null
   },
   "tribunal": {
