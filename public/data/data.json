@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-09T03:50:39Z",
+    "lastUpdated": "2026-07-09T09:50:01Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -18,18 +18,6 @@
         "flag": "🇺🇸"
       },
       {
-        "name": "Mexico",
-        "complaint": "delayed",
-        "score": 95,
-        "flag": "🇲🇽"
-      },
-      {
-        "name": "England",
-        "complaint": "delayed",
-        "score": 95,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      {
         "name": "Brazil",
         "complaint": "worst",
         "score": 47,
@@ -40,12 +28,24 @@
         "complaint": "cheat",
         "score": 47,
         "flag": "🇺🇸"
+      },
+      {
+        "name": "Mexico",
+        "complaint": "delayed",
+        "score": 47,
+        "flag": "🇲🇽"
+      },
+      {
+        "name": "England",
+        "complaint": "delayed",
+        "score": 47,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       }
     ],
-    "overallWhineScore": 19,
+    "overallWhineScore": 12,
     "trending": [
-      "worst",
       "expensive",
+      "worst",
       "cheat",
       "scandal",
       "delayed"
@@ -53,12 +53,12 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "London City",
+    "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 4,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
