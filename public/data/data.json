@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-09T19:54:47Z",
+    "lastUpdated": "2026-07-09T22:27:18Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -30,7 +30,7 @@
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       }
     ],
-    "overallWhineScore": 8,
+    "overallWhineScore": 6,
     "trending": [
       "worst",
       "expensive",
@@ -41,19 +41,19 @@
   },
   "villain": {
     "name": "Golden Boot",
-    "role": "referee",
+    "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "France v Morocco: World Cup 2026 quarter-final – live <p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br />⚽️ <a...",
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
     "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Thomas Tuchel",
-    "team": "Mexico",
-    "story": "Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup <p>The Frenchman is a footballer, flautist and a thespian. There’s no question he is the most thrilling and compelling figure at this year’s...",
+    "name": "Cristiano Ronaldo",
+    "team": "Spain",
+    "story": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes <p>Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worth</p><p>I would be shocked if the...",
     "sympathyScore": 95,
-    "quote": "Jarell Quansah handed two-match ban by Fifa for sending off against Mexico <ul><li><p>England defender’s challenge...",
+    "quote": "Copy of Copy of So, Ronaldo's World Cup era is over. Where did eac... Cristiano Ronaldo said this would be his last...",
     "image": null
   },
   "tribunal": {
