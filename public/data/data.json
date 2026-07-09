@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-08T22:12:36Z",
+    "lastUpdated": "2026-07-09T03:50:39Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,14 @@
     ]
   },
   "cryMeter": {
-    "headline": "Mexico Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USMNT Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "USMNT",
+        "complaint": "expensive",
+        "score": 95,
+        "flag": "🇺🇸"
+      },
       {
         "name": "Mexico",
         "complaint": "delayed",
@@ -34,39 +40,33 @@
         "complaint": "cheat",
         "score": 47,
         "flag": "🇺🇸"
-      },
-      {
-        "name": "USMNT",
-        "complaint": "cheat",
-        "score": 47,
-        "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 23,
+    "overallWhineScore": 19,
     "trending": [
       "worst",
+      "expensive",
       "cheat",
       "scandal",
-      "delayed",
-      "corrupt"
+      "delayed"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Barney Ronay",
+    "name": "London City",
     "role": "player",
-    "reason": "Widely criticized for red card. Mentioned in 3 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "All the presidents’ meddling: the Balogun scandal shows how Fifa can break football | Barney Ronay <p>The suspension of the USA striker’s red card...",
-    "sourceCount": 3,
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Estadio Azteca",
-    "team": "Mexico",
-    "story": "Why Jude Bellingham’s world is bigger than most of us can understand <p>The prodigy who has it all has ambitions to play James Bond but for the time being he is more reminiscent of Novak Djokovic</p><p>There has never been an English footballer...",
+    "name": "Cristiano Ronaldo",
+    "team": "Spain",
+    "story": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes <p>Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worth</p><p>I would be shocked if the...",
     "sympathyScore": 95,
-    "quote": "Reece James remains injury doubt as England’s World Cup right-back woes go on <ul><li><p>Defender unable to train with..",
+    "quote": "Copy of Copy of So, Ronaldo's World Cup era is over. Where did eac... Cristiano Ronaldo said this would be his last...",
     "image": null
   },
   "tribunal": {
@@ -74,15 +74,15 @@
     "sideA": {
       "label": "Absolute Robbery",
       "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 20454,
-      "percentage": 22.6
+      "mockVotes": 74379,
+      "percentage": 59.9
     },
     "sideB": {
       "label": "Rules Are Rules",
       "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 70226,
-      "percentage": 77.4
+      "mockVotes": 49744,
+      "percentage": 40.1
     },
-    "totalMockVotes": 90680
+    "totalMockVotes": 124123
   }
 }
