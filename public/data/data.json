@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-10T09:45:40Z",
+    "lastUpdated": "2026-07-10T14:40:30Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -30,11 +30,11 @@
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       }
     ],
-    "overallWhineScore": 6,
+    "overallWhineScore": 8,
     "trending": [
-      "expensive",
       "worst",
       "traffic",
+      "expensive",
       "delayed"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
@@ -42,31 +42,31 @@
   "villain": {
     "name": "Golden Boot",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Cristiano Ronaldo",
-    "team": "Spain",
-    "story": "Haaland and Bellingham: Dortmund friends taking centre stage in Norway v England battle <p>The attacking players spent two years together at BVB, forming a friendship on their way to the very top</p><p>This World Cup has been about the biggest names.",
+    "name": "Estadio Azteca",
+    "team": "England",
+    "story": "Like Nosferatu on a golf weekend – but England players trust Tuchel and his aura | Barney Ronay <p>Imposing head coach is a details man who has got the balance of squad spirit right at the World Cup, and is even proving a hit on Mumsnet</p><p>Let’s..",
     "sympathyScore": 95,
-    "quote": "Copy of Copy of So, Ronaldo's World Cup era is over. Where did eac... Cristiano Ronaldo said this would be his last...",
+    "quote": "Like Nosferatu on a golf weekend – but England players trust Tuchel and his aura | Barney Ronay <p>Imposing head coach..",
     "image": null
   },
   "tribunal": {
-    "question": "Going first in a penalty shootout gives teams an advantage … or does it? <p>Thir",
+    "question": "Wing wizards or worries? England and Norway have choices to make out wide <p>Tho",
     "sideA": {
-      "label": "alty shootout gives teams an a",
-      "description": "Advocating for alty shootout gives teams an a in this heated debate.",
+      "label": "Wing wizards",
+      "description": "Advocating for Wing wizards in this heated debate.",
       "mockVotes": 73418,
       "percentage": 55.0
     },
     "sideB": {
-      "label": "does it? <p>Thirteen of the pa",
-      "description": "Standing firm with does it? <p>Thirteen of the pa on this issue.",
+      "label": "worries? England and Norway ha",
+      "description": "Standing firm with worries? England and Norway ha on this issue.",
       "mockVotes": 60181,
       "percentage": 45.0
     },
