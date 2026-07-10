@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-09T22:27:18Z",
+    "lastUpdated": "2026-07-10T03:51:53Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -33,8 +33,8 @@
     "overallWhineScore": 6,
     "trending": [
       "worst",
-      "expensive",
       "traffic",
+      "expensive",
       "delayed"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
@@ -61,15 +61,15 @@
     "sideA": {
       "label": "alty shootout gives teams an a",
       "description": "Advocating for alty shootout gives teams an a in this heated debate.",
-      "mockVotes": 74379,
-      "percentage": 59.9
+      "mockVotes": 73418,
+      "percentage": 55.0
     },
     "sideB": {
       "label": "does it? <p>Thirteen of the pa",
       "description": "Standing firm with does it? <p>Thirteen of the pa on this issue.",
-      "mockVotes": 49744,
-      "percentage": 40.1
+      "mockVotes": 60181,
+      "percentage": 45.0
     },
-    "totalMockVotes": 124123
+    "totalMockVotes": 133599
   }
 }
