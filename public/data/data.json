@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-10T03:51:53Z",
+    "lastUpdated": "2026-07-10T09:45:40Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -32,9 +32,9 @@
     ],
     "overallWhineScore": 6,
     "trending": [
+      "expensive",
       "worst",
       "traffic",
-      "expensive",
       "delayed"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
@@ -42,16 +42,16 @@
   "villain": {
     "name": "Golden Boot",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 4,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
     "name": "Cristiano Ronaldo",
     "team": "Spain",
-    "story": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes <p>Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worth</p><p>I would be shocked if the...",
+    "story": "Haaland and Bellingham: Dortmund friends taking centre stage in Norway v England battle <p>The attacking players spent two years together at BVB, forming a friendship on their way to the very top</p><p>This World Cup has been about the biggest names.",
     "sympathyScore": 95,
     "quote": "Copy of Copy of So, Ronaldo's World Cup era is over. Where did eac... Cristiano Ronaldo said this would be his last...",
     "image": null
