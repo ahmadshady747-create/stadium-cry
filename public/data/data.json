@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-10T19:40:51Z",
+    "lastUpdated": "2026-07-10T22:11:03Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -30,17 +30,17 @@
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       }
     ],
-    "overallWhineScore": 6,
+    "overallWhineScore": 8,
     "trending": [
-      "expensive",
       "worst",
       "traffic",
+      "expensive",
       "delayed"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Harry Kane",
+    "name": "Thomas Tuchel",
     "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
@@ -49,9 +49,9 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Thomas Tuchel",
+    "name": "Estadio Azteca",
     "team": "England",
-    "story": "Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup <p>The Frenchman is a footballer, flautist and a thespian. There’s no question he is the most thrilling and compelling figure at this year’s...",
+    "story": "Like Nosferatu on a golf weekend – but England players trust Tuchel and his aura | Barney Ronay <p>Imposing head coach is a details man who has got the balance of squad spirit right at the World Cup, and is even proving a hit on Mumsnet</p><p>Let’s..",
     "sympathyScore": 95,
     "quote": "Like Nosferatu on a golf weekend – but England players trust Tuchel and his aura | Barney Ronay <p>Imposing head coach..",
     "image": null
