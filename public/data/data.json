@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-10T22:11:03Z",
+    "lastUpdated": "2026-07-11T03:18:15Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -40,7 +40,7 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Thomas Tuchel",
+    "name": "Lionel Messi",
     "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
@@ -49,27 +49,27 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Estadio Azteca",
-    "team": "England",
-    "story": "Like Nosferatu on a golf weekend – but England players trust Tuchel and his aura | Barney Ronay <p>Imposing head coach is a details man who has got the balance of squad spirit right at the World Cup, and is even proving a hit on Mumsnet</p><p>Let’s..",
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "story": "Argentina continue to show ‘heart’ but flaws are apparent before Switzerland clash <p>Close calls against Cape Verde and Egypt show Scaloni’s side are vulnerable, despite all the brilliance of Lionel Messi</p><p>It is among the defining moments of...",
     "sympathyScore": 95,
-    "quote": "Like Nosferatu on a golf weekend – but England players trust Tuchel and his aura | Barney Ronay <p>Imposing head coach..",
+    "quote": "Argentina continue to show ‘heart’ but flaws are apparent before Switzerland clash <p>Close calls against Cape Verde...",
     "image": null
   },
   "tribunal": {
-    "question": "Wing wizards or worries? England and Norway have choices to make out wide <p>Tho",
+    "question": "Going first in a penalty shootout gives teams an advantage … or does it? <p>Thir",
     "sideA": {
-      "label": "Wing wizards",
-      "description": "Advocating for Wing wizards in this heated debate.",
-      "mockVotes": 73418,
-      "percentage": 55.0
+      "label": "alty shootout gives teams an a",
+      "description": "Advocating for alty shootout gives teams an a in this heated debate.",
+      "mockVotes": 62477,
+      "percentage": 58.3
     },
     "sideB": {
-      "label": "worries? England and Norway ha",
-      "description": "Standing firm with worries? England and Norway ha on this issue.",
-      "mockVotes": 60181,
-      "percentage": 45.0
+      "label": "does it? <p>Thirteen of the pa",
+      "description": "Standing firm with does it? <p>Thirteen of the pa on this issue.",
+      "mockVotes": 44716,
+      "percentage": 41.7
     },
-    "totalMockVotes": 133599
+    "totalMockVotes": 107193
   }
 }
