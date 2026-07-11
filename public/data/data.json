@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-11T19:12:34Z",
+    "lastUpdated": "2026-07-11T21:56:10Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -18,16 +18,16 @@
         "flag": "🇧🇷"
       },
       {
-        "name": "Mexico",
-        "complaint": "delayed",
+        "name": "USA",
+        "complaint": "cheat",
         "score": 95,
-        "flag": "🇲🇽"
+        "flag": "🇺🇸"
       },
       {
-        "name": "England",
-        "complaint": "delayed",
+        "name": "USMNT",
+        "complaint": "cheat",
         "score": 95,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+        "flag": "🇺🇸"
       }
     ],
     "overallWhineScore": 8,
@@ -36,25 +36,25 @@
       "bias",
       "traffic",
       "expensive",
-      "delayed"
+      "cheat"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Golden Boot",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 3 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 4,
+    "sourceCount": 3,
     "image": null
   },
   "tragicHero": {
-    "name": "World Cups",
-    "team": "USA",
-    "story": "The US had the biggest opportunity in the history of American soccer. They wasted it | Alexander Abnos <p>The USA men’s run at a home World Cup had attracted people who usually ignore soccer. Instead of triumph, they saw a humbling by...",
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "story": "‘Give me another medal!’: meet the hair stylist who has taken over the World Cup <p>Jayèma on working with England stars, a new look for Raphinha and forging a friendship with Lamine Yamal’s family </p><p>Jayèma has had a World Cup like no other....",
     "sympathyScore": 95,
-    "quote": "Going first in a penalty shootout gives teams an advantage … or does it? <p>Thirteen of the past 15 shootouts at World..",
+    "quote": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes <p>Argentina’s captain leads the way..",
     "image": null
   },
   "tribunal": {
