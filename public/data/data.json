@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-11T03:18:15Z",
+    "lastUpdated": "2026-07-11T08:04:31Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -30,7 +30,7 @@
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       }
     ],
-    "overallWhineScore": 8,
+    "overallWhineScore": 6,
     "trending": [
       "worst",
       "traffic",
@@ -40,12 +40,12 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Lionel Messi",
+    "name": "Erling Haaland",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 4,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
@@ -57,16 +57,16 @@
     "image": null
   },
   "tribunal": {
-    "question": "Going first in a penalty shootout gives teams an advantage … or does it? <p>Thir",
+    "question": "Sources: Greenwood could opt for Fener or Atleti Former Manchester United player",
     "sideA": {
-      "label": "alty shootout gives teams an a",
-      "description": "Advocating for alty shootout gives teams an a in this heated debate.",
+      "label": "Sources: Greenwood could opt f",
+      "description": "Advocating for Sources: Greenwood could opt f in this heated debate.",
       "mockVotes": 62477,
       "percentage": 58.3
     },
     "sideB": {
-      "label": "does it? <p>Thirteen of the pa",
-      "description": "Standing firm with does it? <p>Thirteen of the pa on this issue.",
+      "label": "Atleti Former Manchester Unite",
+      "description": "Standing firm with Atleti Former Manchester Unite on this issue.",
       "mockVotes": 44716,
       "percentage": 41.7
     },
