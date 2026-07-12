@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-12T08:26:03Z",
+    "lastUpdated": "2026-07-12T10:38:30Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,20 @@
     ]
   },
   "cryMeter": {
-    "headline": "Brazil Fans Are the Loudest Crybabies at WC2026",
+    "headline": "England Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "England",
+        "complaint": "robbed",
+        "score": 95,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Argentina",
+        "complaint": "robbed",
+        "score": 95,
+        "flag": "🇦🇷"
+      },
       {
         "name": "Brazil",
         "complaint": "worst",
@@ -30,13 +42,13 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 8,
+    "overallWhineScore": 14,
     "trending": [
       "worst",
+      "robbed",
       "bias",
       "traffic",
-      "expensive",
-      "cheat"
+      "expensive"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
