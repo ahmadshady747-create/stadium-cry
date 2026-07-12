@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-12T13:39:39Z",
+    "lastUpdated": "2026-07-12T16:03:11Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -53,20 +53,20 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Lionel Messi",
-    "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Jude Bellingham",
+    "role": "coach",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 4,
+    "topSlander": "Jude Bellingham unimpressed after Tuchel criticises ‘lucky’ England’s performance <ul><li><p>Head coach says team were ‘sloppy’ and ‘not fast...",
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
     "name": "Lionel Messi",
-    "team": "Argentina",
-    "story": "‘Give me another medal!’: meet the hair stylist who has taken over the World Cup <p>Jayèma on working with England stars, a new look for Raphinha and forging a friendship with Lamine Yamal’s family </p><p>Jayèma has had a World Cup like no other....",
+    "team": "Mexico",
+    "story": "Big game Bellingham steps up again with show-stopping World Cup run for England | Andrew Beasley <p>Real Madrid forward is thriving on the global stage as the first player to score twice in consecutive knockout matches at the tournament since...",
     "sympathyScore": 95,
-    "quote": "Julián Álvarez’s extra-time stunner sinks 10-man Switzerland to send Argentina into semi-finals <p>Did anyone think...",
+    "quote": "Big game Bellingham steps up again with show-stopping World Cup run for England | Andrew Beasley <p>Real Madrid forward.",
     "image": null
   },
   "tribunal": {
