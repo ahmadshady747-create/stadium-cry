@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-12T03:30:04Z",
+    "lastUpdated": "2026-07-12T08:26:03Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -30,7 +30,7 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 6,
+    "overallWhineScore": 8,
     "trending": [
       "worst",
       "bias",
@@ -41,20 +41,20 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Jude Bellingham",
-    "role": "coach",
-    "reason": "Widely criticized for dirty. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Lionel Messi",
+    "role": "player",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Bellingham backs England stars after Tuchel fury Jude Bellingham praised England's fighting spirit and ability to \"win dirty\" after coach Thomas...",
-    "sourceCount": 6,
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
     "name": "Lionel Messi",
-    "team": "England",
+    "team": "Argentina",
     "story": "‘Give me another medal!’: meet the hair stylist who has taken over the World Cup <p>Jayèma on working with England stars, a new look for Raphinha and forging a friendship with Lamine Yamal’s family </p><p>Jayèma has had a World Cup like no other....",
     "sympathyScore": 95,
-    "quote": "Argentina v Switzerland: World Cup 2026 quarter-final – live <p>⚽️ World Cup kick-off: 8pm local time/2am BST/11am...",
+    "quote": "Julián Álvarez’s extra-time stunner sinks 10-man Switzerland to send Argentina into semi-finals <p>Did anyone think...",
     "image": null
   },
   "tribunal": {
