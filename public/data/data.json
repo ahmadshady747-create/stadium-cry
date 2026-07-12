@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-11T21:56:10Z",
+    "lastUpdated": "2026-07-12T03:30:04Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -30,7 +30,7 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 8,
+    "overallWhineScore": 6,
     "trending": [
       "worst",
       "bias",
@@ -41,20 +41,20 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Golden Boot",
-    "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 3 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Jude Bellingham",
+    "role": "coach",
+    "reason": "Widely criticized for dirty. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 3,
+    "topSlander": "Bellingham backs England stars after Tuchel fury Jude Bellingham praised England's fighting spirit and ability to \"win dirty\" after coach Thomas...",
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
     "name": "Lionel Messi",
-    "team": "Argentina",
+    "team": "England",
     "story": "‘Give me another medal!’: meet the hair stylist who has taken over the World Cup <p>Jayèma on working with England stars, a new look for Raphinha and forging a friendship with Lamine Yamal’s family </p><p>Jayèma has had a World Cup like no other....",
     "sympathyScore": 95,
-    "quote": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes <p>Argentina’s captain leads the way..",
+    "quote": "Argentina v Switzerland: World Cup 2026 quarter-final – live <p>⚽️ World Cup kick-off: 8pm local time/2am BST/11am...",
     "image": null
   },
   "tribunal": {
@@ -62,15 +62,15 @@
     "sideA": {
       "label": "alty shootout gives teams an a",
       "description": "Advocating for alty shootout gives teams an a in this heated debate.",
-      "mockVotes": 62477,
-      "percentage": 58.3
+      "mockVotes": 26595,
+      "percentage": 42.7
     },
     "sideB": {
       "label": "does it? <p>Thirteen of the pa",
       "description": "Standing firm with does it? <p>Thirteen of the pa on this issue.",
-      "mockVotes": 44716,
-      "percentage": 41.7
+      "mockVotes": 35626,
+      "percentage": 57.3
     },
-    "totalMockVotes": 107193
+    "totalMockVotes": 62221
   }
 }
