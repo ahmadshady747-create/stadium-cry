@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-12T16:03:11Z",
+    "lastUpdated": "2026-07-12T19:13:12Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,20 +9,8 @@
     ]
   },
   "cryMeter": {
-    "headline": "England Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Brazil Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "England",
-        "complaint": "robbed",
-        "score": 95,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      {
-        "name": "Argentina",
-        "complaint": "robbed",
-        "score": 95,
-        "flag": "🇦🇷"
-      },
       {
         "name": "Brazil",
         "complaint": "worst",
@@ -42,23 +30,23 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 14,
+    "overallWhineScore": 8,
     "trending": [
       "worst",
-      "robbed",
-      "bias",
       "traffic",
-      "expensive"
+      "expensive",
+      "cheat",
+      "scandal"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Jude Bellingham",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Lionel Messi",
+    "role": "player",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Jude Bellingham unimpressed after Tuchel criticises ‘lucky’ England’s performance <ul><li><p>Head coach says team were ‘sloppy’ and ‘not fast...",
-    "sourceCount": 5,
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
