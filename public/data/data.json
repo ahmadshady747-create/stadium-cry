@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-13T03:32:45Z",
+    "lastUpdated": "2026-07-13T09:38:05Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -26,11 +26,11 @@
     ],
     "overallWhineScore": 5,
     "trending": [
-      "bias",
       "traffic",
       "expensive",
       "cheat",
-      "scandal"
+      "scandal",
+      "worst"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
