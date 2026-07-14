@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-14T08:18:21Z",
+    "lastUpdated": "2026-07-14T10:51:56Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,20 @@
     ]
   },
   "cryMeter": {
-    "headline": "France Fans Are the Loudest Crybabies at WC2026",
+    "headline": "England Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "England",
+        "complaint": "traffic",
+        "score": 95,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Argentina",
+        "complaint": "traffic",
+        "score": 95,
+        "flag": "🇦🇷"
+      },
       {
         "name": "France",
         "complaint": "traffic",
@@ -22,35 +34,23 @@
         "complaint": "traffic",
         "score": 95,
         "flag": "🇪🇸"
-      },
-      {
-        "name": "England",
-        "complaint": "traffic",
-        "score": 47,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      {
-        "name": "Argentina",
-        "complaint": "traffic",
-        "score": 47,
-        "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 17,
+    "overallWhineScore": 11,
     "trending": [
-      "worst",
       "traffic",
       "scandal",
-      "bias"
+      "bias",
+      "worst"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Lamine Yamal",
-    "role": "coach",
+    "name": "Thomas Tuchel",
+    "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Rodri: ‘France are one of the best teams here, in great form, but so are Spain. We can beat them’ <p>The Spain captain on his team’s chances in the...",
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
     "sourceCount": 4,
     "image": null
   },
