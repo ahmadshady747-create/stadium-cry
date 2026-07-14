@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-14T05:36:40Z",
+    "lastUpdated": "2026-07-14T08:18:21Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -13,40 +13,53 @@
     "topCryers": [
       {
         "name": "France",
-        "complaint": "worst",
+        "complaint": "traffic",
         "score": 95,
         "flag": "🇫🇷"
       },
       {
         "name": "Spain",
-        "complaint": "worst",
+        "complaint": "traffic",
         "score": 95,
         "flag": "🇪🇸"
+      },
+      {
+        "name": "England",
+        "complaint": "traffic",
+        "score": 47,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Argentina",
+        "complaint": "traffic",
+        "score": 47,
+        "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 5,
+    "overallWhineScore": 17,
     "trending": [
       "worst",
+      "traffic",
       "scandal",
       "bias"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Thomas Tuchel",
-    "role": "player",
+    "name": "Lamine Yamal",
+    "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "topSlander": "Rodri: ‘France are one of the best teams here, in great form, but so are Spain. We can beat them’ <p>The Spain captain on his team’s chances in the...",
     "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
     "name": "Lionel Messi",
     "team": "England",
-    "story": "World Cup scouting report: the lowdown on England’s semi-final opponents Argentina | Nick Ames <p>Defending champions will pose a threat with Messi’s genius, but their lack of width and energy in the midfield offers encouragement for Thomas...",
+    "story": "The other Lionel: how Scaloni went from accidental manager to World Cup hero <p>After forming an almost paternal relationship with Lionel Messi and providing a rare sense of stability, Argentina’s unheralded saviour is on the verge of World Cup...",
     "sympathyScore": 95,
-    "quote": "World Cup scouting report: the lowdown on England’s semi-final opponents Argentina | Nick Ames <p>Defending champions...",
+    "quote": "The other Lionel: how Scaloni went from accidental manager to World Cup hero <p>After forming an almost paternal...",
     "image": null
   },
   "tribunal": {
