@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-14T16:19:56Z",
+    "lastUpdated": "2026-07-14T19:27:14Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,71 +9,65 @@
     ]
   },
   "cryMeter": {
-    "headline": "England Fans Are the Loudest Crybabies at WC2026",
+    "headline": "The Refereeing Drama Is Sending Everyone Into Meltdown Mode",
     "topCryers": [
       {
-        "name": "England",
-        "complaint": "traffic",
-        "score": 95,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+        "name": "USA",
+        "complaint": "VAR is rigged",
+        "score": 85,
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Mexico",
+        "complaint": "offside by a pixel",
+        "score": 72,
+        "flag": "🇲🇽"
       },
       {
         "name": "Argentina",
-        "complaint": "traffic",
-        "score": 95,
+        "complaint": "stadium tickets scalped",
+        "score": 68,
         "flag": "🇦🇷"
-      },
-      {
-        "name": "France",
-        "complaint": "traffic",
-        "score": 95,
-        "flag": "🇫🇷"
-      },
-      {
-        "name": "Spain",
-        "complaint": "traffic",
-        "score": 95,
-        "flag": "🇪🇸"
       }
     ],
-    "overallWhineScore": 17,
+    "overallWhineScore": 67,
     "trending": [
-      "traffic",
-      "awful",
-      "scandal",
-      "bias",
-      "worst"
+      "VAR is rigged",
+      "offside by a pixel",
+      "stadium tickets scalped",
+      "traffic nightmare in host cities",
+      "refs hate us"
     ],
-    "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
+    "source": "Fallback aggregated drama signals"
   },
   "villain": {
-    "name": "Lionel Messi",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Manchester United",
+    "role": "player",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
     "name": "Lionel Messi",
     "team": "England",
-    "story": "Football Daily | Will France’s showdown with Spain be the World Cup final in spirit? <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "story": "Lionel Messi’s first meeting with England will be a contest of will and aura <p>The Messi arc reaches a decisive point in Atlanta – passage to a third final or an exit to test the limits of Argentina’s love for their unassuming...",
     "sympathyScore": 95,
     "quote": "Lionel Messi’s first meeting with England will be a contest of will and aura <p>The Messi arc reaches a decisive point..",
     "image": null
   },
   "tribunal": {
-    "question": "Going first in a penalty shootout gives teams an advantage … or does it? <p>Thir",
+    "question": "Mac Allister may draw on PL experience vs England Argentina midfielder Alexis Ma",
     "sideA": {
-      "label": "alty shootout gives teams an a",
-      "description": "Advocating for alty shootout gives teams an a in this heated debate.",
+      "label": "Mac Allister may draw on PL ex",
+      "description": "Advocating for Mac Allister may draw on PL ex in this heated debate.",
       "mockVotes": 22578,
       "percentage": 48.9
     },
     "sideB": {
-      "label": "does it? <p>Thirteen of the pa",
-      "description": "Standing firm with does it? <p>Thirteen of the pa on this issue.",
+      "label": "England Argentina midfielder A",
+      "description": "Standing firm with England Argentina midfielder A on this issue.",
       "mockVotes": 23630,
       "percentage": 51.1
     },
