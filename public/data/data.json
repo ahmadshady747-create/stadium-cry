@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-14T10:51:56Z",
+    "lastUpdated": "2026-07-14T13:57:43Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -46,8 +46,8 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Thomas Tuchel",
-    "role": "player",
+    "name": "Lamine Yamal",
+    "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
@@ -59,7 +59,7 @@
     "team": "England",
     "story": "The other Lionel: how Scaloni went from accidental manager to World Cup hero <p>After forming an almost paternal relationship with Lionel Messi and providing a rare sense of stability, Argentina’s unheralded saviour is on the verge of World Cup...",
     "sympathyScore": 95,
-    "quote": "The other Lionel: how Scaloni went from accidental manager to World Cup hero <p>After forming an almost paternal...",
+    "quote": "World Cup and Ballon d’Or in reach as Harry Kane enters defining week of his career <p>The striker is driven by a sense.",
     "image": null
   },
   "tribunal": {
