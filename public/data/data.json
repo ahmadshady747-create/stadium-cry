@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-14T19:27:14Z",
+    "lastUpdated": "2026-07-14T22:03:33Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,44 +9,37 @@
     ]
   },
   "cryMeter": {
-    "headline": "The Refereeing Drama Is Sending Everyone Into Meltdown Mode",
+    "headline": "France Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
-        "name": "USA",
-        "complaint": "VAR is rigged",
-        "score": 85,
-        "flag": "🇺🇸"
+        "name": "France",
+        "complaint": "terrible",
+        "score": 95,
+        "flag": "🇫🇷"
       },
       {
-        "name": "Mexico",
-        "complaint": "offside by a pixel",
-        "score": 72,
-        "flag": "🇲🇽"
-      },
-      {
-        "name": "Argentina",
-        "complaint": "stadium tickets scalped",
-        "score": 68,
-        "flag": "🇦🇷"
+        "name": "Spain",
+        "complaint": "terrible",
+        "score": 95,
+        "flag": "🇪🇸"
       }
     ],
-    "overallWhineScore": 67,
+    "overallWhineScore": 5,
     "trending": [
-      "VAR is rigged",
-      "offside by a pixel",
-      "stadium tickets scalped",
-      "traffic nightmare in host cities",
-      "refs hate us"
+      "terrible",
+      "scandal",
+      "bias",
+      "worst"
     ],
-    "source": "Fallback aggregated drama signals"
+    "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Manchester United",
-    "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Lionel Messi",
+    "role": "coach",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 6,
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
@@ -58,16 +51,16 @@
     "image": null
   },
   "tribunal": {
-    "question": "Mac Allister may draw on PL experience vs England Argentina midfielder Alexis Ma",
+    "question": "Going first in a penalty shootout gives teams an advantage … or does it? <p>Thir",
     "sideA": {
-      "label": "Mac Allister may draw on PL ex",
-      "description": "Advocating for Mac Allister may draw on PL ex in this heated debate.",
+      "label": "alty shootout gives teams an a",
+      "description": "Advocating for alty shootout gives teams an a in this heated debate.",
       "mockVotes": 22578,
       "percentage": 48.9
     },
     "sideB": {
-      "label": "England Argentina midfielder A",
-      "description": "Standing firm with England Argentina midfielder A on this issue.",
+      "label": "does it? <p>Thirteen of the pa",
+      "description": "Standing firm with does it? <p>Thirteen of the pa on this issue.",
       "mockVotes": 23630,
       "percentage": 51.1
     },
