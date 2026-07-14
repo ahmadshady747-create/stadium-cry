@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-14T02:54:15Z",
+    "lastUpdated": "2026-07-14T05:36:40Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -24,7 +24,7 @@
         "flag": "🇪🇸"
       }
     ],
-    "overallWhineScore": 4,
+    "overallWhineScore": 5,
     "trending": [
       "worst",
       "scandal",
@@ -33,20 +33,20 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Lionel Messi",
+    "name": "Thomas Tuchel",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
     "name": "Lionel Messi",
-    "team": "Mexico",
+    "team": "England",
     "story": "World Cup scouting report: the lowdown on England’s semi-final opponents Argentina | Nick Ames <p>Defending champions will pose a threat with Messi’s genius, but their lack of width and energy in the midfield offers encouragement for Thomas...",
     "sympathyScore": 95,
-    "quote": "Copy of England's grit to overcome adversity at this World... England have a belief strengthened by their comeback...",
+    "quote": "World Cup scouting report: the lowdown on England’s semi-final opponents Argentina | Nick Ames <p>Defending champions...",
     "image": null
   },
   "tribunal": {
