@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-15T05:37:52Z",
+    "lastUpdated": "2026-07-15T08:23:37Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -43,18 +43,18 @@
   "villain": {
     "name": "Lionel Messi",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 6,
+    "sourceCount": 7,
     "image": null
   },
   "tragicHero": {
     "name": "Lionel Messi",
     "team": "England",
-    "story": "Lionel Messi’s first meeting with England will be a contest of will and aura <p>The Messi arc reaches a decisive point in Atlanta – passage to a third final or an exit to test the limits of Argentina’s love for their unassuming...",
+    "story": "Have the top four teams ever made up the World Cup semi-finalists before? | The Knowledge <p>Plus: back-to-back heavy wins and defeats, and an unsurprising challenger to a Lionel Messi record</p><ul><li><p><a...",
     "sympathyScore": 95,
-    "quote": "Spain reach World Cup final after Oyarzabal and Porro sink sorry France <p>Let this be a lesson for everyone foolish...",
+    "quote": "Even at 39, Lionel Messi can still hurt England with his sprinting ability <p>The Argentina captain conserves his...",
     "image": null
   },
   "tribunal": {
