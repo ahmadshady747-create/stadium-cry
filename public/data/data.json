@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-15T19:20:09Z",
+    "lastUpdated": "2026-07-15T22:06:53Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -24,41 +24,42 @@
         "flag": "🇪🇸"
       }
     ],
-    "overallWhineScore": 4,
+    "overallWhineScore": 5,
     "trending": [
       "bias",
-      "worst"
+      "worst",
+      "expensive"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "War, culture, empire and football: England and Argentina’s deep, romantic rivalry – video <p>We often call England v Argentina a grudge match – a...",
-    "sourceCount": 7,
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
     "name": "Lionel Messi",
     "team": "England",
-    "story": "Have the top four teams ever made up the World Cup semi-finalists before? | The Knowledge <p>Plus: back-to-back heavy wins and defeats, and an unsurprising challenger to a Lionel Messi record</p><ul><li><p><a...",
+    "story": "England 1-2 Argentina: World Cup 2026 semi-final – live reaction <p>⚽ Dramatic late goals set up World Cup final with Spain<br />⚽ <a...",
     "sympathyScore": 95,
-    "quote": "England v Argentina: World Cup 2026 semi-final – live <p>⚽ Kick-off in Atlanta is 3pm EST/8pm BST/5am AEST<br />⚽ <a...",
+    "quote": "England 1-2 Argentina: World Cup 2026 semi-final – live reaction <p>⚽ Dramatic late goals set up World Cup final with...",
     "image": null
   },
   "tribunal": {
-    "question": "Going first in a penalty shootout gives teams an advantage … or does it? <p>Thir",
+    "question": "Was the VAR call that ended USA's run the worst in WC history?",
     "sideA": {
-      "label": "alty shootout gives teams an a",
-      "description": "Advocating for alty shootout gives teams an a in this heated debate.",
+      "label": "Absolute Robbery",
+      "description": "Advocating for Absolute Robbery in this heated debate.",
       "mockVotes": 25880,
       "percentage": 43.7
     },
     "sideB": {
-      "label": "does it? <p>Thirteen of the pa",
-      "description": "Standing firm with does it? <p>Thirteen of the pa on this issue.",
+      "label": "Rules Are Rules",
+      "description": "Standing firm with Rules Are Rules on this issue.",
       "mockVotes": 33340,
       "percentage": 56.3
     },
