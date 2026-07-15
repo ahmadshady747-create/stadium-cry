@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-15T13:54:11Z",
+    "lastUpdated": "2026-07-15T16:27:28Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -34,10 +34,10 @@
   "villain": {
     "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 6,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
