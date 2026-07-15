@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-15T16:27:28Z",
+    "lastUpdated": "2026-07-15T19:20:09Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -24,7 +24,7 @@
         "flag": "🇪🇸"
       }
     ],
-    "overallWhineScore": 5,
+    "overallWhineScore": 4,
     "trending": [
       "bias",
       "worst"
@@ -34,10 +34,10 @@
   "villain": {
     "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "topSlander": "War, culture, empire and football: England and Argentina’s deep, romantic rivalry – video <p>We often call England v Argentina a grudge match – a...",
+    "sourceCount": 7,
     "image": null
   },
   "tragicHero": {
@@ -45,7 +45,7 @@
     "team": "England",
     "story": "Have the top four teams ever made up the World Cup semi-finalists before? | The Knowledge <p>Plus: back-to-back heavy wins and defeats, and an unsurprising challenger to a Lionel Messi record</p><ul><li><p><a...",
     "sympathyScore": 95,
-    "quote": "Have the top four teams ever made up the World Cup semi-finalists before? | The Knowledge <p>Plus: back-to-back heavy...",
+    "quote": "England v Argentina: World Cup 2026 semi-final – live <p>⚽ Kick-off in Atlanta is 3pm EST/8pm BST/5am AEST<br />⚽ <a...",
     "image": null
   },
   "tribunal": {
