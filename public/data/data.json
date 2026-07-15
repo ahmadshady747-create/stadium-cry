@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-15T10:55:56Z",
+    "lastUpdated": "2026-07-15T13:54:11Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,44 +9,35 @@
     ]
   },
   "cryMeter": {
-    "headline": "The Refereeing Drama Is Sending Everyone Into Meltdown Mode",
+    "headline": "France Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
-        "name": "USA",
-        "complaint": "VAR is rigged",
-        "score": 85,
-        "flag": "🇺🇸"
+        "name": "France",
+        "complaint": "bias",
+        "score": 95,
+        "flag": "🇫🇷"
       },
       {
-        "name": "Mexico",
-        "complaint": "offside by a pixel",
-        "score": 72,
-        "flag": "🇲🇽"
-      },
-      {
-        "name": "Argentina",
-        "complaint": "stadium tickets scalped",
-        "score": 68,
-        "flag": "🇦🇷"
+        "name": "Spain",
+        "complaint": "bias",
+        "score": 95,
+        "flag": "🇪🇸"
       }
     ],
-    "overallWhineScore": 67,
+    "overallWhineScore": 5,
     "trending": [
-      "VAR is rigged",
-      "offside by a pixel",
-      "stadium tickets scalped",
-      "traffic nightmare in host cities",
-      "refs hate us"
+      "bias",
+      "worst"
     ],
-    "source": "Fallback aggregated drama signals"
+    "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 7,
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
@@ -54,7 +45,7 @@
     "team": "England",
     "story": "Have the top four teams ever made up the World Cup semi-finalists before? | The Knowledge <p>Plus: back-to-back heavy wins and defeats, and an unsurprising challenger to a Lionel Messi record</p><ul><li><p><a...",
     "sympathyScore": 95,
-    "quote": "Even at 39, Lionel Messi can still hurt England with his sprinting ability <p>The Argentina captain conserves his...",
+    "quote": "Have the top four teams ever made up the World Cup semi-finalists before? | The Knowledge <p>Plus: back-to-back heavy...",
     "image": null
   },
   "tribunal": {
