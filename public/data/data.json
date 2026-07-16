@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-16T14:06:08Z",
+    "lastUpdated": "2026-07-16T16:21:06Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -47,11 +47,11 @@
   },
   "villain": {
     "name": "Lionel Messi",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 9 posts, fueling massive outrage across US and Canada fan communities.",
+    "role": "player",
+    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "War, culture, empire and football: England and Argentina’s deep, romantic rivalry – video <p>We often call England v Argentina a grudge match – a...",
-    "sourceCount": 9,
+    "sourceCount": 7,
     "image": null
   },
   "tragicHero": {
