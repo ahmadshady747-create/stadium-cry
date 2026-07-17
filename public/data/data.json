@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-17T19:18:39Z",
+    "lastUpdated": "2026-07-17T21:58:30Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -54,19 +54,19 @@
   },
   "villain": {
     "name": "Lionel Messi",
-    "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
+    "role": "coach",
+    "reason": "Widely criticized for controversy. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "War, culture, empire and football: England and Argentina’s deep, romantic rivalry – video <p>We often call England v Argentina a grudge match – a...",
-    "sourceCount": 7,
+    "sourceCount": 8,
     "image": null
   },
   "tragicHero": {
     "name": "Lionel Messi",
-    "team": "England",
+    "team": "Spain",
     "story": "'Gutted' Harry Kane on Messi, Argentina and devastation of World Cup exit – video <p>“I think there's not much to say. For now, everyone has to process what's just happened,” Harry Kane said after the defending champions, Argentina, rallied to beat..",
     "sympathyScore": 95,
-    "quote": "Spain reach World Cup final after Oyarzabal and Porro sink sorry France <p>Let this be a lesson for everyone foolish...",
+    "quote": "God’s will? Destiny? Lionel Messi, Lamine Yamal, that photo and the World Cup final <p>The boy in the baby bath has...",
     "image": null
   },
   "tribunal": {
