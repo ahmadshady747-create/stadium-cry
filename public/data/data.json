@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-18T16:01:38Z",
+    "lastUpdated": "2026-07-18T19:11:57Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -38,6 +38,7 @@
     ],
     "overallWhineScore": 11,
     "trending": [
+      "expensive",
       "scandal",
       "awful",
       "worst"
@@ -47,18 +48,18 @@
   "villain": {
     "name": "Lionel Messi",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 10 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 9 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 10,
+    "sourceCount": 9,
     "image": null
   },
   "tragicHero": {
     "name": "Lionel Messi",
-    "team": "England",
+    "team": "USA",
     "story": "Football Daily | France v England in the third-place playoff: the game nobody wants to play <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "World Cup 2026 latest: Trump criticises Tuchel, buildup to France v England and Spain v Argentina final <p><strong>⚽...",
+    "quote": "Football Daily | France v England in the third-place playoff: the game nobody wants to play <p><a...",
     "image": null
   },
   "tribunal": {
