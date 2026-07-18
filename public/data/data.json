@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-18T10:22:50Z",
+    "lastUpdated": "2026-07-18T13:27:28Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,19 +9,19 @@
     ]
   },
   "cryMeter": {
-    "headline": "USMNT Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
-        "name": "USMNT",
+        "name": "USA",
         "complaint": "scandal",
         "score": 95,
         "flag": "🇺🇸"
       },
       {
-        "name": "Germany",
+        "name": "USMNT",
         "complaint": "scandal",
         "score": 95,
-        "flag": "🇩🇪"
+        "flag": "🇺🇸"
       },
       {
         "name": "England",
@@ -47,16 +47,16 @@
   "villain": {
     "name": "Lionel Messi",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 11 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 10 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "War, culture, empire and football: England and Argentina’s deep, romantic rivalry – video <p>We often call England v Argentina a grudge match – a...",
-    "sourceCount": 11,
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "sourceCount": 10,
     "image": null
   },
   "tragicHero": {
     "name": "Lionel Messi",
     "team": "England",
-    "story": "Have the top four teams ever made up the World Cup semi-finalists before? | The Knowledge <p>Plus: back-to-back heavy wins and defeats, and an unsurprising challenger to a Lionel Messi record</p><ul><li><p><a...",
+    "story": "Football Daily | France v England in the third-place playoff: the game nobody wants to play <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
     "quote": "World Cup 2026 latest: Trump criticises Tuchel, buildup to France v England and Spain v Argentina final <p><strong>⚽...",
     "image": null
