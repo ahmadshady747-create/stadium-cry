@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-19T16:01:42Z",
+    "lastUpdated": "2026-07-19T19:13:36Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,14 @@
     ]
   },
   "cryMeter": {
-    "headline": "England Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Germany Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "Germany",
+        "complaint": "scandal",
+        "score": 95,
+        "flag": "🇩🇪"
+      },
       {
         "name": "England",
         "complaint": "awful",
@@ -24,16 +30,17 @@
         "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 5,
+    "overallWhineScore": 8,
     "trending": [
+      "scandal",
       "expensive",
-      "awful",
-      "worst"
+      "worst",
+      "awful"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Lionel Messi",
+    "name": "Thomas Tuchel",
     "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
@@ -42,11 +49,11 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Lionel Messi",
+    "name": "Thomas Tuchel",
     "team": "England",
-    "story": "Have the top four teams ever made up the World Cup semi-finalists before? | The Knowledge <p>Plus: back-to-back heavy wins and defeats, and an unsurprising challenger to a Lionel Messi record</p><ul><li><p><a...",
+    "story": "Argentina’s late double breaks England hearts in dramatic World Cup semi-final <ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-2026-semi-final-news-reaction\">England hearts broken after turnaround in..",
     "sympathyScore": 95,
-    "quote": "Spain reach World Cup final after Oyarzabal and Porro sink sorry France <p>Let this be a lesson for everyone foolish...",
+    "quote": "Kane says Tuchel will ‘learn a lot’ from England pressures after exit to Argentina <ul><li><p>German created ‘best...",
     "image": null
   },
   "tribunal": {
