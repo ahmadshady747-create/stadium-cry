@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-19T10:38:47Z",
+    "lastUpdated": "2026-07-19T13:36:28Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -35,10 +35,10 @@
   "villain": {
     "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 8,
+    "sourceCount": 7,
     "image": null
   },
   "tragicHero": {
@@ -46,7 +46,7 @@
     "team": "England",
     "story": "Have the top four teams ever made up the World Cup semi-finalists before? | The Knowledge <p>Plus: back-to-back heavy wins and defeats, and an unsurprising challenger to a Lionel Messi record</p><ul><li><p><a...",
     "sympathyScore": 95,
-    "quote": "‘Something very special’: Tuchel reflects on World Cup after England claim third <ul><li><p>France beaten 6-4 on ‘very..",
+    "quote": "Spain reach World Cup final after Oyarzabal and Porro sink sorry France <p>Let this be a lesson for everyone foolish...",
     "image": null
   },
   "tribunal": {
