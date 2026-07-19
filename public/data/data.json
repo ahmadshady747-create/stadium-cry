@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-18T21:56:10Z",
+    "lastUpdated": "2026-07-19T03:26:18Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -55,11 +55,11 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Lionel Messi",
+    "name": "Thomas Tuchel",
     "team": "England",
-    "story": "Have the top four teams ever made up the World Cup semi-finalists before? | The Knowledge <p>Plus: back-to-back heavy wins and defeats, and an unsurprising challenger to a Lionel Messi record</p><ul><li><p><a...",
+    "story": "Argentina’s late double breaks England hearts in dramatic World Cup semi-final <ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-2026-semi-final-news-reaction\">England hearts broken after turnaround in..",
     "sympathyScore": 95,
-    "quote": "Spain reach World Cup final after Oyarzabal and Porro sink sorry France <p>Let this be a lesson for everyone foolish...",
+    "quote": "Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff <p>Where to start with this...",
     "image": null
   },
   "tribunal": {
@@ -67,15 +67,15 @@
     "sideA": {
       "label": "Absolute Robbery",
       "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 39503,
-      "percentage": 64.2
+      "mockVotes": 37516,
+      "percentage": 40.9
     },
     "sideB": {
       "label": "Rules Are Rules",
       "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 22039,
-      "percentage": 35.8
+      "mockVotes": 54210,
+      "percentage": 59.1
     },
-    "totalMockVotes": 61542
+    "totalMockVotes": 91726
   }
 }
