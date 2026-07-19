@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-19T03:26:18Z",
+    "lastUpdated": "2026-07-19T08:27:22Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,20 +9,8 @@
     ]
   },
   "cryMeter": {
-    "headline": "USA Fans Are the Loudest Crybabies at WC2026",
+    "headline": "England Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "USA",
-        "complaint": "scandal",
-        "score": 95,
-        "flag": "🇺🇸"
-      },
-      {
-        "name": "USMNT",
-        "complaint": "scandal",
-        "score": 95,
-        "flag": "🇺🇸"
-      },
       {
         "name": "England",
         "complaint": "awful",
@@ -36,10 +24,9 @@
         "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 11,
+    "overallWhineScore": 5,
     "trending": [
       "expensive",
-      "scandal",
       "awful",
       "worst"
     ],
@@ -47,7 +34,7 @@
   },
   "villain": {
     "name": "Lionel Messi",
-    "role": "coach",
+    "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
@@ -55,11 +42,11 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Thomas Tuchel",
+    "name": "Lionel Messi",
     "team": "England",
-    "story": "Argentina’s late double breaks England hearts in dramatic World Cup semi-final <ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-2026-semi-final-news-reaction\">England hearts broken after turnaround in..",
+    "story": "Have the top four teams ever made up the World Cup semi-finalists before? | The Knowledge <p>Plus: back-to-back heavy wins and defeats, and an unsurprising challenger to a Lionel Messi record</p><ul><li><p><a...",
     "sympathyScore": 95,
-    "quote": "Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff <p>Where to start with this...",
+    "quote": "‘Something very special’: Tuchel reflects on World Cup after England claim third <ul><li><p>France beaten 6-4 on ‘very..",
     "image": null
   },
   "tribunal": {
