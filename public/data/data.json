@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-20T16:28:13Z",
+    "lastUpdated": "2026-07-20T19:49:29Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,64 +9,64 @@
     ]
   },
   "cryMeter": {
-    "headline": "England Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Argentina Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
       {
-        "name": "England",
-        "complaint": "expensive",
-        "score": 95,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      {
         "name": "Argentina",
-        "complaint": "expensive",
+        "complaint": "scandal",
         "score": 95,
         "flag": "🇦🇷"
       },
       {
+        "name": "England",
+        "complaint": "expensive",
+        "score": 76,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
         "name": "Spain",
         "complaint": "worst",
-        "score": 47,
+        "score": 38,
         "flag": "🇪🇸"
       },
       {
-        "name": "France",
-        "complaint": "expensive",
-        "score": 23,
-        "flag": "🇫🇷"
+        "name": "USMNT",
+        "complaint": "scandal",
+        "score": 19,
+        "flag": "🇺🇸"
       },
       {
-        "name": "Germany",
+        "name": "Portugal",
         "complaint": "scandal",
-        "score": 23,
-        "flag": "🇩🇪"
+        "score": 19,
+        "flag": "🇵🇹"
       }
     ],
-    "overallWhineScore": 34,
+    "overallWhineScore": 42,
     "trending": [
+      "scandal",
       "worst",
       "expensive",
       "bias",
-      "disgrace",
-      "scandal"
+      "disgrace"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 10 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 11 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Lionel Messi’s World Cup fairytale ends with pitiful Argentina as final villains | Pablo Iglesias Maurer <p>Game’s greatest player will not see his...",
-    "sourceCount": 10,
+    "sourceCount": 11,
     "image": null
   },
   "tragicHero": {
     "name": "Lionel Messi",
-    "team": "Argentina",
-    "story": "Ugly scenes as Argentina lose World Cup final – video <p>There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat.</p><p><br...",
+    "team": "USMNT",
+    "story": "The 2026 World Cup was full of spectacle, scandal and compromise | Jonathan Wilson <p>This was a good rather than great World Cup on the field. In the background, things were a lot less edifying</p><p>Perhaps it’s too early, with the shreds of gold..",
     "sympathyScore": 95,
-    "quote": "Lionel Messi’s World Cup fairytale ends with pitiful Argentina as final villains | Pablo Iglesias Maurer <p>Game’s...",
+    "quote": "The 2026 World Cup was full of spectacle, scandal and compromise | Jonathan Wilson <p>This was a good rather than great.",
     "image": null
   },
   "tribunal": {
