@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-19T21:58:51Z",
+    "lastUpdated": "2026-07-20T03:40:01Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,51 +9,57 @@
     ]
   },
   "cryMeter": {
-    "headline": "Germany Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Argentina Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "Argentina",
+        "complaint": "worst",
+        "score": 95,
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Spain",
+        "complaint": "worst",
+        "score": 47,
+        "flag": "🇪🇸"
+      },
       {
         "name": "Germany",
         "complaint": "scandal",
-        "score": 95,
+        "score": 47,
         "flag": "🇩🇪"
       },
       {
         "name": "England",
         "complaint": "awful",
-        "score": 95,
+        "score": 47,
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      {
-        "name": "Argentina",
-        "complaint": "awful",
-        "score": 95,
-        "flag": "🇦🇷"
       }
     ],
-    "overallWhineScore": 8,
+    "overallWhineScore": 14,
     "trending": [
-      "scandal",
-      "expensive",
       "worst",
+      "expensive",
+      "scandal",
       "awful"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Thomas Tuchel",
+    "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 6,
+    "topSlander": "Lionel Messi’s World Cup fairytale ends with pitiful Argentina as final villains | Pablo Iglesias Maurer <p>Game’s greatest player will not see his...",
+    "sourceCount": 7,
     "image": null
   },
   "tragicHero": {
-    "name": "Thomas Tuchel",
-    "team": "England",
-    "story": "Argentina’s late double breaks England hearts in dramatic World Cup semi-final <ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-2026-semi-final-news-reaction\">England hearts broken after turnaround in..",
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "story": "Have the top four teams ever made up the World Cup semi-finalists before? | The Knowledge <p>Plus: back-to-back heavy wins and defeats, and an unsurprising challenger to a Lionel Messi record</p><ul><li><p><a...",
     "sympathyScore": 95,
-    "quote": "Kane says Tuchel will ‘learn a lot’ from England pressures after exit to Argentina <ul><li><p>German created ‘best...",
+    "quote": "Lionel Messi’s World Cup fairytale ends with pitiful Argentina as final villains | Pablo Iglesias Maurer <p>Game’s...",
     "image": null
   },
   "tribunal": {
@@ -61,15 +67,15 @@
     "sideA": {
       "label": "Absolute Robbery",
       "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 37516,
-      "percentage": 40.9
+      "mockVotes": 27462,
+      "percentage": 40.1
     },
     "sideB": {
       "label": "Rules Are Rules",
       "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 54210,
-      "percentage": 59.1
+      "mockVotes": 41062,
+      "percentage": 59.9
     },
-    "totalMockVotes": 91726
+    "totalMockVotes": 68524
   }
 }
