@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-20T14:19:33Z",
+    "lastUpdated": "2026-07-20T16:28:13Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -42,10 +42,10 @@
         "flag": "🇩🇪"
       }
     ],
-    "overallWhineScore": 35,
+    "overallWhineScore": 34,
     "trending": [
-      "expensive",
       "worst",
+      "expensive",
       "bias",
       "disgrace",
       "scandal"
@@ -54,11 +54,11 @@
   },
   "villain": {
     "name": "Lionel Messi",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
+    "role": "player",
+    "reason": "Widely criticized for controversy. Mentioned in 10 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Lionel Messi’s World Cup fairytale ends with pitiful Argentina as final villains | Pablo Iglesias Maurer <p>Game’s greatest player will not see his...",
-    "sourceCount": 8,
+    "sourceCount": 10,
     "image": null
   },
   "tragicHero": {
