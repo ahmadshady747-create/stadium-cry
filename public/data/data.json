@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-20T19:49:29Z",
+    "lastUpdated": "2026-07-20T22:05:05Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -13,19 +13,25 @@
     "topCryers": [
       {
         "name": "Argentina",
-        "complaint": "scandal",
+        "complaint": "disgrace",
         "score": 95,
         "flag": "🇦🇷"
       },
       {
         "name": "England",
-        "complaint": "expensive",
-        "score": 76,
+        "complaint": "disgrace",
+        "score": 95,
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
+        "name": "France",
+        "complaint": "disgrace",
+        "score": 38,
+        "flag": "🇫🇷"
+      },
+      {
         "name": "Spain",
-        "complaint": "worst",
+        "complaint": "disgrace",
         "score": 38,
         "flag": "🇪🇸"
       },
@@ -34,39 +40,33 @@
         "complaint": "scandal",
         "score": 19,
         "flag": "🇺🇸"
-      },
-      {
-        "name": "Portugal",
-        "complaint": "scandal",
-        "score": 19,
-        "flag": "🇵🇹"
       }
     ],
-    "overallWhineScore": 42,
+    "overallWhineScore": 48,
     "trending": [
       "scandal",
-      "worst",
+      "disgrace",
       "expensive",
       "bias",
-      "disgrace"
+      "worst"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Lionel Messi",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 11 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 9 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Lionel Messi’s World Cup fairytale ends with pitiful Argentina as final villains | Pablo Iglesias Maurer <p>Game’s greatest player will not see his...",
-    "sourceCount": 11,
+    "topSlander": "Ugly scenes as Argentina lose World Cup final – video <p>There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and..",
+    "sourceCount": 9,
     "image": null
   },
   "tragicHero": {
-    "name": "Lionel Messi",
-    "team": "USMNT",
+    "name": "New Jersey",
+    "team": "Argentina",
     "story": "The 2026 World Cup was full of spectacle, scandal and compromise | Jonathan Wilson <p>This was a good rather than great World Cup on the field. In the background, things were a lot less edifying</p><p>Perhaps it’s too early, with the shreds of gold..",
     "sympathyScore": 95,
-    "quote": "The 2026 World Cup was full of spectacle, scandal and compromise | Jonathan Wilson <p>This was a good rather than great.",
+    "quote": "Nearly two million people join Spain’s World Cup celebrations in Madrid <ul><li><p>Squad arrived home at 2.30pm local...",
     "image": null
   },
   "tribunal": {
