@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-21T03:19:59Z",
+    "lastUpdated": "2026-07-21T08:37:12Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -20,12 +20,12 @@
       {
         "name": "England",
         "complaint": "disgrace",
-        "score": 95,
+        "score": 76,
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
         "name": "France",
-        "complaint": "disgrace",
+        "complaint": "expensive",
         "score": 38,
         "flag": "🇫🇷"
       },
@@ -42,23 +42,23 @@
         "flag": "🇺🇸"
       }
     ],
-    "overallWhineScore": 48,
+    "overallWhineScore": 45,
     "trending": [
       "scandal",
-      "disgrace",
       "expensive",
-      "bias",
-      "worst"
+      "disgrace",
+      "worst",
+      "awful"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Lionel Messi",
+    "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 9 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Ugly scenes as Argentina lose World Cup final – video <p>There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and..",
-    "sourceCount": 9,
+    "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
