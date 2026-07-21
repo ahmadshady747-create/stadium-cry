@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-21T11:12:21Z",
+    "lastUpdated": "2026-07-21T14:05:59Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,14 @@
     ]
   },
   "cryMeter": {
-    "headline": "Argentina Fans Are the Loudest Crybabies at WC2026",
+    "headline": "England Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "England",
+        "complaint": "disgrace",
+        "score": 95,
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
       {
         "name": "Argentina",
         "complaint": "disgrace",
@@ -18,54 +24,48 @@
         "flag": "🇦🇷"
       },
       {
-        "name": "England",
-        "complaint": "disgrace",
-        "score": 71,
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      {
         "name": "Spain",
         "complaint": "disgrace",
-        "score": 47,
+        "score": 63,
         "flag": "🇪🇸"
       },
       {
-        "name": "USMNT",
+        "name": "Germany",
         "complaint": "scandal",
-        "score": 23,
-        "flag": "🇺🇸"
+        "score": 31,
+        "flag": "🇩🇪"
       },
       {
-        "name": "Portugal",
-        "complaint": "scandal",
-        "score": 23,
-        "flag": "🇵🇹"
+        "name": "France",
+        "complaint": "disgrace",
+        "score": 31,
+        "flag": "🇫🇷"
       }
     ],
-    "overallWhineScore": 37,
+    "overallWhineScore": 28,
     "trending": [
-      "scandal",
       "disgrace",
+      "scandal",
       "worst",
       "awful"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Lionel Messi",
-    "role": "coach",
+    "name": "Gianni Infantino",
+    "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Ugly scenes as Argentina lose World Cup final – video <p>There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and..",
+    "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
     "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
-    "name": "New Jersey",
+    "name": "Donald Trump",
     "team": "Argentina",
-    "story": "The 2026 World Cup was full of spectacle, scandal and compromise | Jonathan Wilson <p>This was a good rather than great World Cup on the field. In the background, things were a lot less edifying</p><p>Perhaps it’s too early, with the shreds of gold..",
+    "story": "Football Daily | A desperate grab for attention. This is the way the World Cup ends <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "Nearly two million people join Spain’s World Cup celebrations in Madrid <ul><li><p>Squad arrived home at 2.30pm local...",
+    "quote": "A big red speaker, Louis Vuitton trophy trunks and a tattoo bet – how Spain celebrated World Cup win <p>Luis de la...",
     "image": null
   },
   "tribunal": {
