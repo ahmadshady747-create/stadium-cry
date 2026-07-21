@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-21T08:37:12Z",
+    "lastUpdated": "2026-07-21T11:12:21Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -20,32 +20,31 @@
       {
         "name": "England",
         "complaint": "disgrace",
-        "score": 76,
+        "score": 71,
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      {
-        "name": "France",
-        "complaint": "expensive",
-        "score": 38,
-        "flag": "🇫🇷"
       },
       {
         "name": "Spain",
         "complaint": "disgrace",
-        "score": 38,
+        "score": 47,
         "flag": "🇪🇸"
       },
       {
         "name": "USMNT",
         "complaint": "scandal",
-        "score": 19,
+        "score": 23,
         "flag": "🇺🇸"
+      },
+      {
+        "name": "Portugal",
+        "complaint": "scandal",
+        "score": 23,
+        "flag": "🇵🇹"
       }
     ],
-    "overallWhineScore": 45,
+    "overallWhineScore": 37,
     "trending": [
       "scandal",
-      "expensive",
       "disgrace",
       "worst",
       "awful"
@@ -53,11 +52,11 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Gianni Infantino",
-    "role": "player",
+    "name": "Lionel Messi",
+    "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
+    "topSlander": "Ugly scenes as Argentina lose World Cup final – video <p>There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and..",
     "sourceCount": 6,
     "image": null
   },
