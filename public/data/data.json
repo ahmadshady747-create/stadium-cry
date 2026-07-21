@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-21T16:26:26Z",
+    "lastUpdated": "2026-07-21T19:39:19Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -52,20 +52,20 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Gianni Infantino",
+    "name": "Donald Trump",
     "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
+    "topSlander": "Could the World Cup be back in the US as soon as 2038? Absolutely <p>Explosion in ticketing and hospitality revenue goes along with a Fifa desire to..",
     "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
     "name": "Donald Trump",
-    "team": "Argentina",
+    "team": "USA",
     "story": "Football Daily | A desperate grab for attention. This is the way the World Cup ends <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "A big red speaker, Louis Vuitton trophy trunks and a tattoo bet – how Spain celebrated World Cup win <p>Luis de la...",
+    "quote": "Could the World Cup be back in the US as soon as 2038? Absolutely <p>Explosion in ticketing and hospitality revenue...",
     "image": null
   },
   "tribunal": {
