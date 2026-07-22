@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-22T03:18:22Z",
+    "lastUpdated": "2026-07-22T08:36:46Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -52,11 +52,11 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Gianni Infantino",
+    "name": "Donald Trump",
     "role": "player",
     "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
+    "topSlander": "Could the World Cup be back in the US as soon as 2038? Absolutely <p>Explosion in ticketing and hospitality revenue goes along with a Fifa desire to..",
     "sourceCount": 6,
     "image": null
   },
