@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-22T11:13:03Z",
+    "lastUpdated": "2026-07-22T14:08:43Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -61,11 +61,11 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Donald Trump",
-    "team": "USA",
+    "name": "Gianni Infantino",
+    "team": "Germany",
     "story": "Football Daily | A desperate grab for attention. This is the way the World Cup ends <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "Could the World Cup be back in the US as soon as 2038? Absolutely <p>Explosion in ticketing and hospitality revenue...",
+    "quote": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup <p>The first 48-team World Cup had its...",
     "image": null
   },
   "tribunal": {
