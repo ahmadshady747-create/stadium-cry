@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-22T14:08:43Z",
+    "lastUpdated": "2026-07-22T16:23:58Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -20,29 +20,29 @@
       {
         "name": "Argentina",
         "complaint": "disgrace",
-        "score": 95,
+        "score": 71,
         "flag": "🇦🇷"
       },
       {
         "name": "Spain",
         "complaint": "disgrace",
-        "score": 63,
+        "score": 47,
         "flag": "🇪🇸"
+      },
+      {
+        "name": "Canada",
+        "complaint": "scandal",
+        "score": 23,
+        "flag": "🇨🇦"
       },
       {
         "name": "Germany",
         "complaint": "scandal",
-        "score": 31,
+        "score": 23,
         "flag": "🇩🇪"
-      },
-      {
-        "name": "France",
-        "complaint": "disgrace",
-        "score": 31,
-        "flag": "🇫🇷"
       }
     ],
-    "overallWhineScore": 28,
+    "overallWhineScore": 34,
     "trending": [
       "scandal",
       "disgrace",
