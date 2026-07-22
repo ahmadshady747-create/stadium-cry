@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-22T16:23:58Z",
+    "lastUpdated": "2026-07-22T19:34:53Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -20,7 +20,7 @@
       {
         "name": "Argentina",
         "complaint": "disgrace",
-        "score": 71,
+        "score": 95,
         "flag": "🇦🇷"
       },
       {
@@ -30,19 +30,13 @@
         "flag": "🇪🇸"
       },
       {
-        "name": "Canada",
-        "complaint": "scandal",
-        "score": 23,
-        "flag": "🇨🇦"
-      },
-      {
         "name": "Germany",
         "complaint": "scandal",
-        "score": 23,
+        "score": 47,
         "flag": "🇩🇪"
       }
     ],
-    "overallWhineScore": 34,
+    "overallWhineScore": 17,
     "trending": [
       "scandal",
       "disgrace",
@@ -61,11 +55,11 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Gianni Infantino",
-    "team": "Germany",
-    "story": "Football Daily | A desperate grab for attention. This is the way the World Cup ends <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "name": "Manchester City",
+    "team": "Italy",
+    "story": "Football Daily | Chelsea’s financial shrug and Liverpool leaking players – what you may have missed <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup <p>The first 48-team World Cup had its...",
+    "quote": "‘A unique talent’: Phil Foden signs new four-year Manchester City contract <ul><li><p>26-year-old looking forward to...",
     "image": null
   },
   "tribunal": {
