@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-22T08:36:46Z",
+    "lastUpdated": "2026-07-22T11:13:03Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -44,19 +44,19 @@
     ],
     "overallWhineScore": 28,
     "trending": [
-      "disgrace",
       "scandal",
+      "disgrace",
       "worst",
       "awful"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Donald Trump",
-    "role": "player",
+    "name": "Lionel Messi",
+    "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Could the World Cup be back in the US as soon as 2038? Absolutely <p>Explosion in ticketing and hospitality revenue goes along with a Fifa desire to..",
+    "topSlander": "Ugly scenes as Argentina lose World Cup final – video <p>There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and..",
     "sourceCount": 6,
     "image": null
   },
