@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-23T08:38:44Z",
+    "lastUpdated": "2026-07-23T11:14:55Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -42,7 +42,7 @@
         "flag": "🇪🇸"
       }
     ],
-    "overallWhineScore": 22,
+    "overallWhineScore": 24,
     "trending": [
       "scandal",
       "terrible",
@@ -53,20 +53,20 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Lionel Messi",
+    "name": "Manchester City",
     "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Ugly scenes as Argentina lose World Cup final – video <p>There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and..",
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
     "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "Gianni Infantino",
-    "team": "Germany",
-    "story": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage <p>The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility</p><p>Ever since..",
+    "name": "Manchester City",
+    "team": "Spain",
+    "story": "Football Daily | Chelsea’s financial shrug and Liverpool leaking players – what you may have missed <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup <p>The first 48-team World Cup had its...",
+    "quote": "‘Don’t become the protagonist’: Andoni Iraola on the secret of Spain’s success and his role at Liverpool <p>Liverpool’s.",
     "image": null
   },
   "tribunal": {
