@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-23T14:17:00Z",
+    "lastUpdated": "2026-07-23T16:39:46Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -38,26 +38,26 @@
     ],
     "overallWhineScore": 18,
     "trending": [
+      "awful",
       "scandal",
       "disgrace",
-      "worst",
-      "awful"
+      "worst"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Manchester City",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
-    "name": "Manchester City",
+    "name": "Mikel Arteta",
     "team": "Spain",
-    "story": "Football Daily | Chelsea’s financial shrug and Liverpool leaking players – what you may have missed <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "story": "‘Don’t become the protagonist’: Andoni Iraola on the secret of Spain’s success and his role at Liverpool <p>Liverpool’s new head coach is settling into the pre-season tour in Chicago as he begins to reshape the Reds’ identity</p><p>Over coffee in...",
     "sympathyScore": 95,
     "quote": "‘Don’t become the protagonist’: Andoni Iraola on the secret of Spain’s success and his role at Liverpool <p>Liverpool’s.",
     "image": null
