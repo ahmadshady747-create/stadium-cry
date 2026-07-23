@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-23T16:39:46Z",
+    "lastUpdated": "2026-07-23T19:26:44Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -13,33 +13,34 @@
     "topCryers": [
       {
         "name": "England",
-        "complaint": "disgrace",
+        "complaint": "expensive",
         "score": 95,
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
         "name": "Argentina",
         "complaint": "disgrace",
-        "score": 95,
+        "score": 63,
         "flag": "🇦🇷"
       },
       {
         "name": "Spain",
         "complaint": "disgrace",
-        "score": 47,
+        "score": 31,
         "flag": "🇪🇸"
       },
       {
         "name": "Germany",
         "complaint": "scandal",
-        "score": 47,
+        "score": 31,
         "flag": "🇩🇪"
       }
     ],
-    "overallWhineScore": 18,
+    "overallWhineScore": 21,
     "trending": [
-      "awful",
       "scandal",
+      "awful",
+      "expensive",
       "disgrace",
       "worst"
     ],
@@ -55,9 +56,9 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Mikel Arteta",
+    "name": "Andoni Iraola",
     "team": "Spain",
-    "story": "‘Don’t become the protagonist’: Andoni Iraola on the secret of Spain’s success and his role at Liverpool <p>Liverpool’s new head coach is settling into the pre-season tour in Chicago as he begins to reshape the Reds’ identity</p><p>Over coffee in...",
+    "story": "Football Daily | Back to the playground of the disgustingly rich: it’s club football! <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
     "quote": "‘Don’t become the protagonist’: Andoni Iraola on the secret of Spain’s success and his role at Liverpool <p>Liverpool’s.",
     "image": null
