@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-23T11:14:55Z",
+    "lastUpdated": "2026-07-23T14:17:00Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -24,31 +24,24 @@
         "flag": "🇦🇷"
       },
       {
-        "name": "Canada",
-        "complaint": "terrible",
-        "score": 47,
-        "flag": "🇨🇦"
-      },
-      {
-        "name": "Mexico",
-        "complaint": "terrible",
-        "score": 47,
-        "flag": "🇲🇽"
-      },
-      {
         "name": "Spain",
         "complaint": "disgrace",
         "score": 47,
         "flag": "🇪🇸"
+      },
+      {
+        "name": "Germany",
+        "complaint": "scandal",
+        "score": 47,
+        "flag": "🇩🇪"
       }
     ],
-    "overallWhineScore": 24,
+    "overallWhineScore": 18,
     "trending": [
       "scandal",
-      "terrible",
-      "expensive",
       "disgrace",
-      "worst"
+      "worst",
+      "awful"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
