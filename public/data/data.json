@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-23T03:25:14Z",
+    "lastUpdated": "2026-07-23T08:38:44Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -24,42 +24,49 @@
         "flag": "🇦🇷"
       },
       {
+        "name": "Canada",
+        "complaint": "terrible",
+        "score": 47,
+        "flag": "🇨🇦"
+      },
+      {
+        "name": "Mexico",
+        "complaint": "terrible",
+        "score": 47,
+        "flag": "🇲🇽"
+      },
+      {
         "name": "Spain",
         "complaint": "disgrace",
         "score": 47,
         "flag": "🇪🇸"
-      },
-      {
-        "name": "Germany",
-        "complaint": "scandal",
-        "score": 47,
-        "flag": "🇩🇪"
       }
     ],
-    "overallWhineScore": 17,
+    "overallWhineScore": 22,
     "trending": [
       "scandal",
+      "terrible",
+      "expensive",
       "disgrace",
-      "worst",
-      "awful"
+      "worst"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Lionel Messi",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Ugly scenes as Argentina lose World Cup final – video <p>There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and..",
-    "sourceCount": 6,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "Manchester City",
-    "team": "Italy",
-    "story": "Football Daily | Chelsea’s financial shrug and Liverpool leaking players – what you may have missed <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "name": "Gianni Infantino",
+    "team": "Germany",
+    "story": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage <p>The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility</p><p>Ever since..",
     "sympathyScore": 95,
-    "quote": "‘A unique talent’: Phil Foden signs new four-year Manchester City contract <ul><li><p>26-year-old looking forward to...",
+    "quote": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup <p>The first 48-team World Cup had its...",
     "image": null
   },
   "tribunal": {
