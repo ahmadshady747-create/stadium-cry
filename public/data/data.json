@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-23T19:26:44Z",
+    "lastUpdated": "2026-07-23T22:08:57Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -38,10 +38,10 @@
     ],
     "overallWhineScore": 21,
     "trending": [
-      "scandal",
       "awful",
       "expensive",
       "disgrace",
+      "scandal",
       "worst"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
@@ -49,18 +49,18 @@
   "villain": {
     "name": "Manchester City",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 6,
+    "sourceCount": 7,
     "image": null
   },
   "tragicHero": {
-    "name": "Andoni Iraola",
-    "team": "Spain",
-    "story": "Football Daily | Back to the playground of the disgustingly rich: it’s club football! <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "name": "Manchester City",
+    "team": "Canada",
+    "story": "From Popp to Diani: 10 women’s transfers you may have missed during the men’s World Cup <p>Sam Kerr’s and Alexia Putellas’s moves were hard to miss but these transfers may have escaped your attention</p><p>There were a host of big women’s football...",
     "sympathyScore": 95,
-    "quote": "‘Don’t become the protagonist’: Andoni Iraola on the secret of Spain’s success and his role at Liverpool <p>Liverpool’s.",
+    "quote": "From Popp to Diani: 10 women’s transfers you may have missed during the men’s World Cup <p>Sam Kerr’s and Alexia...",
     "image": null
   },
   "tribunal": {
