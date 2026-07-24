@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-23T22:08:57Z",
+    "lastUpdated": "2026-07-24T03:18:56Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -20,26 +20,26 @@
       {
         "name": "Argentina",
         "complaint": "disgrace",
-        "score": 63,
+        "score": 47,
         "flag": "🇦🇷"
       },
       {
         "name": "Spain",
         "complaint": "disgrace",
-        "score": 31,
+        "score": 47,
         "flag": "🇪🇸"
       },
       {
         "name": "Germany",
         "complaint": "scandal",
-        "score": 31,
+        "score": 47,
         "flag": "🇩🇪"
       }
     ],
-    "overallWhineScore": 21,
+    "overallWhineScore": 15,
     "trending": [
-      "awful",
       "expensive",
+      "awful",
       "disgrace",
       "scandal",
       "worst"
@@ -68,15 +68,15 @@
     "sideA": {
       "label": "Absolute Robbery",
       "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 58720,
-      "percentage": 61.1
+      "mockVotes": 48154,
+      "percentage": 40.0
     },
     "sideB": {
       "label": "Rules Are Rules",
       "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 37328,
-      "percentage": 38.9
+      "mockVotes": 72185,
+      "percentage": 60.0
     },
-    "totalMockVotes": 96048
+    "totalMockVotes": 120339
   }
 }
