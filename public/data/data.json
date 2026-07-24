@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-24T16:46:38Z",
+    "lastUpdated": "2026-07-24T19:37:38Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -56,11 +56,11 @@
     "image": null
   },
   "tragicHero": {
-    "name": "Football Daily",
+    "name": "Manchester United",
     "team": "France",
     "story": "Football Daily | Manchester United and the quest to make mythical midfield a reality <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "Football Daily | Manchester United and the quest to make mythical midfield a reality <p><a...",
+    "quote": "‘You need to evolve’: Enzo Maresca plots life after Pep at Manchester City <p>Italian does not shy away from the task...",
     "image": null
   },
   "tribunal": {
