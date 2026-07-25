@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-25T16:08:00Z",
+    "lastUpdated": "2026-07-25T19:16:24Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -47,7 +47,7 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Manchester City",
+    "name": "Mikel Arteta",
     "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
