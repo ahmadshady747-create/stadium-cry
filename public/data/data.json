@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-27T10:00:53Z",
+    "lastUpdated": "2026-07-27T14:48:23Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -38,8 +38,8 @@
     ],
     "overallWhineScore": 15,
     "trending": [
-      "awful",
       "expensive",
+      "awful",
       "disgrace",
       "scandal",
       "worst"
@@ -47,20 +47,20 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Mikel Arteta",
+    "name": "Real Madrid",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 5,
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
-    "name": "Gianni Infantino",
-    "team": "Canada",
-    "story": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one candidate: Gianni Infantino, who is on course to be re-elected as Fifa president by a landslide in...",
+    "name": "Real Madrid",
+    "team": "France",
+    "story": "Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "Fifa president Gianni Infantino accuses critics of spreading hate at World Cup <ul><li><p>Infantino claims critics of...",
+    "quote": "Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear <p><a...",
     "image": null
   },
   "tribunal": {
