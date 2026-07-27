@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-27T17:02:35Z",
+    "lastUpdated": "2026-07-27T19:42:42Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -38,8 +38,8 @@
     ],
     "overallWhineScore": 15,
     "trending": [
-      "expensive",
       "awful",
+      "expensive",
       "disgrace",
       "scandal",
       "worst"
@@ -47,7 +47,7 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Real Madrid",
+    "name": "Mikel Arteta",
     "role": "coach",
     "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
