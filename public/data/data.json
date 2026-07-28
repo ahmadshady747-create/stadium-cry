@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-28T02:55:36Z",
+    "lastUpdated": "2026-07-28T05:53:16Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -13,33 +13,32 @@
     "topCryers": [
       {
         "name": "England",
-        "complaint": "expensive",
+        "complaint": "disgrace",
         "score": 95,
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
         "name": "Argentina",
         "complaint": "disgrace",
-        "score": 47,
+        "score": 95,
         "flag": "🇦🇷"
       },
       {
         "name": "Spain",
         "complaint": "disgrace",
-        "score": 47,
+        "score": 95,
         "flag": "🇪🇸"
       },
       {
         "name": "Germany",
         "complaint": "scandal",
-        "score": 47,
+        "score": 95,
         "flag": "🇩🇪"
       }
     ],
-    "overallWhineScore": 15,
+    "overallWhineScore": 12,
     "trending": [
       "awful",
-      "expensive",
       "disgrace",
       "scandal",
       "worst"
