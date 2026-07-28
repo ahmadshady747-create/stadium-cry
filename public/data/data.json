@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-28T14:22:24Z",
+    "lastUpdated": "2026-07-28T16:44:48Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -46,20 +46,20 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Donald Trump",
-    "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Manchester City",
+    "role": "coach",
+    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga <ul><li><p>Norwegian federation president: Fifa on a...",
-    "sourceCount": 5,
+    "topSlander": "The worst performance seen in years — fans are calling for accountability.",
+    "sourceCount": 4,
     "image": null
   },
   "tragicHero": {
-    "name": "Andoni Iraola",
-    "team": "USA",
-    "story": "Football Daily | Back to the playground of the disgustingly rich: it’s club football! <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "name": "Danny Welbeck",
+    "team": "England",
+    "story": "Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew <p>England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job</p><p>How we talked. On...",
     "sympathyScore": 95,
-    "quote": "Milos Kerkez: ‘I’m delighted – Andoni Iraola is the perfect fit for Liverpool’ <p>Full-back on being reunited with...",
+    "quote": "Xabi Alonso plays down Welbeck and Henderson moves after Chelsea win <ul><li><p>‘There will be a lot of transfer links,.",
     "image": null
   },
   "tribunal": {
