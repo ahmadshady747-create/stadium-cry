@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-29T08:48:44Z",
+    "lastUpdated": "2026-07-29T11:29:37Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,14 @@
     ]
   },
   "cryMeter": {
-    "headline": "England Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USMNT Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "USMNT",
+        "complaint": "scandal",
+        "score": 95,
+        "flag": "🇺🇸"
+      },
       {
         "name": "England",
         "complaint": "disgrace",
@@ -36,11 +42,11 @@
         "flag": "🇩🇪"
       }
     ],
-    "overallWhineScore": 12,
+    "overallWhineScore": 15,
     "trending": [
+      "scandal",
       "awful",
       "disgrace",
-      "scandal",
       "worst"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
@@ -48,10 +54,10 @@
   "villain": {
     "name": "Manchester City",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 4,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
