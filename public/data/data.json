@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-29T16:25:23Z",
+    "lastUpdated": "2026-07-29T19:25:07Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,14 +9,8 @@
     ]
   },
   "cryMeter": {
-    "headline": "USMNT Fans Are the Loudest Crybabies at WC2026",
+    "headline": "England Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "USMNT",
-        "complaint": "scandal",
-        "score": 95,
-        "flag": "🇺🇸"
-      },
       {
         "name": "England",
         "complaint": "disgrace",
@@ -42,30 +36,30 @@
         "flag": "🇩🇪"
       }
     ],
-    "overallWhineScore": 15,
+    "overallWhineScore": 12,
     "trending": [
-      "scandal",
-      "awful",
       "disgrace",
+      "awful",
+      "scandal",
       "worst"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Real Madrid",
+    "name": "Manchester City",
     "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 4 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 5 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "The worst performance seen in years — fans are calling for accountability.",
-    "sourceCount": 4,
+    "sourceCount": 5,
     "image": null
   },
   "tragicHero": {
-    "name": "Gianni Infantino",
-    "team": "USMNT",
-    "story": "Uefa has to show backbone: concrete action can make Fifa’s World Cup plans untenable | Nick Ames <p>European football has shown an increased willingness to talk tough with Fifa but words can only be wielded so many times</p><p>• <a...",
+    "name": "Manchester City",
+    "team": "England",
+    "story": "Roberto Mancini returns as Italy head coach with Claudio Ranieri named technical director <ul><li><p>Mancini replaces Gattuso for second spell in charge</p></li><li><p>Ranieri takes over from Paolo Maldini in overseeing role</p></li></ul><p>Roberto..",
     "sympathyScore": 95,
-    "quote": "Uefa has to show backbone: concrete action can make Fifa’s World Cup plans untenable | Nick Ames <p>European football...",
+    "quote": "Roberto Mancini returns as Italy head coach with Claudio Ranieri named technical director <ul><li><p>Mancini replaces...",
     "image": null
   },
   "tribunal": {
