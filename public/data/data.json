@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-30T14:16:08Z",
+    "lastUpdated": "2026-07-30T16:39:58Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -48,18 +48,18 @@
   "villain": {
     "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for red card. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web <p>Joshua Kushner is now the kingpin in driving the sale of the...",
+    "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
     "sourceCount": 7,
     "image": null
   },
   "tragicHero": {
-    "name": "Andoni Iraola",
-    "team": "USA",
-    "story": "Football Daily | Back to the playground of the disgustingly rich: it’s club football! <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "name": "Gianni Infantino",
+    "team": "Germany",
+    "story": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one candidate: Gianni Infantino, who is on course to be re-elected as Fifa president by a landslide in...",
     "sympathyScore": 95,
-    "quote": "Experimental Liverpool down Wrexham thanks to Rio Ngumoha’s winner <ul><li><p>Substitute’s deflected strike earns 1-0...",
+    "quote": "Uefa agrees to boycott Fifa competitions if World Cup sell-off plans proceed <ul><li><p>Uefa vote passes 55-0 at...",
     "image": null
   },
   "tribunal": {
