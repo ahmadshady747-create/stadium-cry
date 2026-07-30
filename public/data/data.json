@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-30T16:39:58Z",
+    "lastUpdated": "2026-07-30T19:41:13Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -48,9 +48,9 @@
   "villain": {
     "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for red card. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
+    "topSlander": "Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web <p>Joshua Kushner is now the kingpin in driving the sale of the...",
     "sourceCount": 7,
     "image": null
   },
