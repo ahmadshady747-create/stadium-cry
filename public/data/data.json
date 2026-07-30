@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-30T11:12:30Z",
+    "lastUpdated": "2026-07-30T14:16:08Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -46,12 +46,12 @@
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
-    "name": "Andoni Iraola",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
+    "name": "Gianni Infantino",
+    "role": "player",
+    "reason": "Widely criticized for red card. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Football Daily | Back to the playground of the disgustingly rich: it’s club football! <p><a...",
-    "sourceCount": 6,
+    "topSlander": "Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web <p>Joshua Kushner is now the kingpin in driving the sale of the...",
+    "sourceCount": 7,
     "image": null
   },
   "tragicHero": {
