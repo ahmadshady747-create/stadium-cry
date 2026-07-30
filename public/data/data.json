@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-29T22:04:39Z",
+    "lastUpdated": "2026-07-30T02:47:29Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -67,15 +67,15 @@
     "sideA": {
       "label": "Absolute Robbery",
       "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 73272,
-      "percentage": 61.5
+      "mockVotes": 63873,
+      "percentage": 52.8
     },
     "sideB": {
       "label": "Rules Are Rules",
       "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 45819,
-      "percentage": 38.5
+      "mockVotes": 57184,
+      "percentage": 47.2
     },
-    "totalMockVotes": 119091
+    "totalMockVotes": 121057
   }
 }
