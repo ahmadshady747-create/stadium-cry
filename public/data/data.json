@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-31T14:21:03Z",
+    "lastUpdated": "2026-07-31T16:48:45Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -41,25 +41,26 @@
       "awful",
       "disgrace",
       "scandal",
-      "worst"
+      "worst",
+      "expensive"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for red card. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for red card. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Infantino increasingly embattled after senior adviser resigns over World Cup sell-off plans <ul><li><p>Infantino’s role as president under increasing.",
-    "sourceCount": 7,
+    "sourceCount": 8,
     "image": null
   },
   "tragicHero": {
     "name": "Eddie Howe",
     "team": "Brazil",
-    "story": "Football Daily | Thought leader Eddie Howe runs out of time and ideas at Newcastle <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "story": "Football Daily | Will Gianni Infantino survive as Fifa president? <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>You have to hand..",
     "sympathyScore": 95,
-    "quote": "Arsenal target Bruno Guimarães not on Newcastle’s flight to pre-season camp <ul><li><p>Midfielder may still fly to La...",
+    "quote": "Arsenal target Bruno Guimarães not on Newcastle’s flight to pre-season camp <ul><li><p>Midfielder could still fly to La.",
     "image": null
   },
   "tribunal": {
