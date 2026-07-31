@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-30T22:11:27Z",
+    "lastUpdated": "2026-07-31T03:30:26Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -38,8 +38,8 @@
     ],
     "overallWhineScore": 12,
     "trending": [
-      "disgrace",
       "awful",
+      "disgrace",
       "scandal",
       "worst"
     ],
@@ -48,10 +48,10 @@
   "villain": {
     "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for red card. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for red card. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web <p>Joshua Kushner is now the kingpin in driving the sale of the...",
-    "sourceCount": 7,
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
@@ -59,7 +59,7 @@
     "team": "Germany",
     "story": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one candidate: Gianni Infantino, who is on course to be re-elected as Fifa president by a landslide in...",
     "sympathyScore": 95,
-    "quote": "Uefa agrees to boycott Fifa competitions if World Cup sell-off plans proceed <ul><li><p>Uefa agree stance at emergency..",
+    "quote": "Uefa agrees to boycott Fifa competitions if World Cup sell-off plans proceed <ul><li><p>Uefa agrees stance at emergency.",
     "image": null
   },
   "tribunal": {
@@ -67,15 +67,15 @@
     "sideA": {
       "label": "Absolute Robbery",
       "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 63873,
-      "percentage": 52.8
+      "mockVotes": 19624,
+      "percentage": 35.0
     },
     "sideB": {
       "label": "Rules Are Rules",
       "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 57184,
-      "percentage": 47.2
+      "mockVotes": 36365,
+      "percentage": 65.0
     },
-    "totalMockVotes": 121057
+    "totalMockVotes": 55989
   }
 }
