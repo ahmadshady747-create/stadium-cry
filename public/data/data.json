@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-01T13:39:57Z",
+    "lastUpdated": "2026-08-01T16:04:45Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -64,16 +64,16 @@
     "image": null
   },
   "tribunal": {
-    "question": "Marketing stunt or ‘extraordinary’ transfer? Ravenna fans ride wave of the Ronal",
+    "question": "There can be no letup. Humiliated Infantino must stand down at Fifa or be remove",
     "sideA": {
-      "label": "Marketing stunt",
-      "description": "Advocating for Marketing stunt in this heated debate.",
+      "label": "liated Infantino must stand do",
+      "description": "Advocating for liated Infantino must stand do in this heated debate.",
       "mockVotes": 54346,
       "percentage": 45.9
     },
     "sideB": {
-      "label": "‘extraordinary’ transfer? Rave",
-      "description": "Standing firm with ‘extraordinary’ transfer? Rave on this issue.",
+      "label": "be removed | Nick Ames <p>Uefa",
+      "description": "Standing firm with be removed | Nick Ames <p>Uefa on this issue.",
       "mockVotes": 64166,
       "percentage": 54.1
     },
