@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-31T22:10:08Z",
+    "lastUpdated": "2026-08-01T03:29:59Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -38,7 +38,6 @@
     ],
     "overallWhineScore": 12,
     "trending": [
-      "expensive",
       "awful",
       "disgrace",
       "scandal",
@@ -49,18 +48,18 @@
   "villain": {
     "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for red card. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 6 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web <p>Joshua Kushner is now the kingpin in driving the sale of the...",
-    "sourceCount": 8,
+    "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
+    "sourceCount": 6,
     "image": null
   },
   "tragicHero": {
-    "name": "Eddie Howe",
-    "team": "Brazil",
-    "story": "Football Daily | Will Gianni Infantino survive as Fifa president? <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>You have to hand..",
+    "name": "Gianni Infantino",
+    "team": "Germany",
+    "story": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one candidate: Gianni Infantino, who is on course to be re-elected as Fifa president by a landslide in...",
     "sympathyScore": 95,
-    "quote": "Arsenal target Bruno Guimarães not on Newcastle’s flight to pre-season camp <ul><li><p>Midfielder could still fly to La.",
+    "quote": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup <p>The first 48-team World Cup had its...",
     "image": null
   },
   "tribunal": {
@@ -68,15 +67,15 @@
     "sideA": {
       "label": "Absolute Robbery",
       "description": "Advocating for Absolute Robbery in this heated debate.",
-      "mockVotes": 19624,
-      "percentage": 35.0
+      "mockVotes": 54346,
+      "percentage": 45.9
     },
     "sideB": {
       "label": "Rules Are Rules",
       "description": "Standing firm with Rules Are Rules on this issue.",
-      "mockVotes": 36365,
-      "percentage": 65.0
+      "mockVotes": 64166,
+      "percentage": 54.1
     },
-    "totalMockVotes": 55989
+    "totalMockVotes": 118512
   }
 }
