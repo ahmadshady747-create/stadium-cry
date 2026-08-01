@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-01T03:29:59Z",
+    "lastUpdated": "2026-08-01T08:28:23Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -63,16 +63,16 @@
     "image": null
   },
   "tribunal": {
-    "question": "Was the VAR call that ended USA's run the worst in WC history?",
+    "question": "Marketing stunt or ‘extraordinary’ transfer? Ravenna fans ride wave of the Ronal",
     "sideA": {
-      "label": "Absolute Robbery",
-      "description": "Advocating for Absolute Robbery in this heated debate.",
+      "label": "Marketing stunt",
+      "description": "Advocating for Marketing stunt in this heated debate.",
       "mockVotes": 54346,
       "percentage": 45.9
     },
     "sideB": {
-      "label": "Rules Are Rules",
-      "description": "Standing firm with Rules Are Rules on this issue.",
+      "label": "‘extraordinary’ transfer? Rave",
+      "description": "Standing firm with ‘extraordinary’ transfer? Rave on this issue.",
       "mockVotes": 64166,
       "percentage": 54.1
     },
