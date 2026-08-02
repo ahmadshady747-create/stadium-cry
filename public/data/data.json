@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-02T13:40:05Z",
+    "lastUpdated": "2026-08-02T16:04:05Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -38,11 +38,9 @@
     ],
     "overallWhineScore": 12,
     "trending": [
-      "awful",
       "disgrace",
       "scandal",
-      "expensive",
-      "worst"
+      "expensive"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
