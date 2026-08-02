@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-01T22:00:22Z",
+    "lastUpdated": "2026-08-02T03:29:46Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -68,15 +68,15 @@
     "sideA": {
       "label": "liated Infantino must stand do",
       "description": "Advocating for liated Infantino must stand do in this heated debate.",
-      "mockVotes": 54346,
-      "percentage": 45.9
+      "mockVotes": 69867,
+      "percentage": 68.1
     },
     "sideB": {
       "label": "be removed | Nick Ames <p>Uefa",
       "description": "Standing firm with be removed | Nick Ames <p>Uefa on this issue.",
-      "mockVotes": 64166,
-      "percentage": 54.1
+      "mockVotes": 32767,
+      "percentage": 31.9
     },
-    "totalMockVotes": 118512
+    "totalMockVotes": 102634
   }
 }
