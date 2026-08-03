@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-03T17:12:27Z",
+    "lastUpdated": "2026-08-03T19:44:41Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,14 @@
     ]
   },
   "cryMeter": {
-    "headline": "England Fans Are the Loudest Crybabies at WC2026",
+    "headline": "USMNT Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "USMNT",
+        "complaint": "expensive",
+        "score": 95,
+        "flag": "🇺🇸"
+      },
       {
         "name": "England",
         "complaint": "disgrace",
@@ -36,7 +42,7 @@
         "flag": "🇩🇪"
       }
     ],
-    "overallWhineScore": 12,
+    "overallWhineScore": 16,
     "trending": [
       "expensive",
       "disgrace",
@@ -46,19 +52,19 @@
   },
   "villain": {
     "name": "Gianni Infantino",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
+    "role": "player",
+    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
-    "sourceCount": 8,
+    "sourceCount": 7,
     "image": null
   },
   "tragicHero": {
     "name": "Gianni Infantino",
-    "team": "Brazil",
+    "team": "Germany",
     "story": "Football Daily | Scrapped proposals, statement wars and the ongoing Infantino furore <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
     "sympathyScore": 95,
-    "quote": "English FA to drop support for Gianni Infantino after Wales withdraw backing <ul><li><p>FAW says Fifa president has...",
+    "quote": "More European countries withdraw support for Infantino as pressure intensifies <ul><li><p>FA no longer endorses Fifa...",
     "image": null
   },
   "tribunal": {
