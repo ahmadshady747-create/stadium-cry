@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-02T21:59:54Z",
+    "lastUpdated": "2026-08-03T03:31:23Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -38,9 +38,9 @@
     ],
     "overallWhineScore": 12,
     "trending": [
+      "expensive",
       "disgrace",
-      "scandal",
-      "expensive"
+      "scandal"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
@@ -66,15 +66,15 @@
     "sideA": {
       "label": "liated Infantino must stand do",
       "description": "Advocating for liated Infantino must stand do in this heated debate.",
-      "mockVotes": 69867,
-      "percentage": 68.1
+      "mockVotes": 74805,
+      "percentage": 73.3
     },
     "sideB": {
       "label": "be removed | Nick Ames <p>Uefa",
       "description": "Standing firm with be removed | Nick Ames <p>Uefa on this issue.",
-      "mockVotes": 32767,
-      "percentage": 31.9
+      "mockVotes": 27306,
+      "percentage": 26.7
     },
-    "totalMockVotes": 102634
+    "totalMockVotes": 102111
   }
 }
