@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-04T16:56:57Z",
+    "lastUpdated": "2026-08-04T19:44:10Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -52,11 +52,11 @@
   },
   "villain": {
     "name": "Gianni Infantino",
-    "role": "coach",
-    "reason": "Widely criticized for controversy. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
+    "role": "player",
+    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
-    "sourceCount": 8,
+    "sourceCount": 7,
     "image": null
   },
   "tragicHero": {
