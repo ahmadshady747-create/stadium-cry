@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-04T19:44:10Z",
+    "lastUpdated": "2026-08-04T22:17:51Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -53,10 +53,10 @@
   "villain": {
     "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 9 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
-    "sourceCount": 7,
+    "sourceCount": 9,
     "image": null
   },
   "tragicHero": {
@@ -68,16 +68,16 @@
     "image": null
   },
   "tribunal": {
-    "question": "‘They are terrified’: Como spark row with fans over controversial new stadium po",
+    "question": "The Fifa family: which confederations could support Infantino or turn against hi",
     "sideA": {
-      "label": "from wearing the opposing team",
-      "description": "Advocating for from wearing the opposing team in this heated debate.",
+      "label": "h confederations could support",
+      "description": "Advocating for h confederations could support in this heated debate.",
       "mockVotes": 33867,
       "percentage": 55.2
     },
     "sideB": {
-      "label": "scarves anywhere in the stadiu",
-      "description": "Standing firm with scarves anywhere in the stadiu on this issue.",
+      "label": "turn against him? <p>Gianni In",
+      "description": "Standing firm with turn against him? <p>Gianni In on this issue.",
       "mockVotes": 27437,
       "percentage": 44.8
     },
