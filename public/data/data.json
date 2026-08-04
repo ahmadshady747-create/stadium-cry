@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-04T11:29:32Z",
+    "lastUpdated": "2026-08-04T14:28:29Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -52,19 +52,19 @@
   },
   "villain": {
     "name": "Gianni Infantino",
-    "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 7 posts, fueling massive outrage across US and Canada fan communities.",
+    "role": "coach",
+    "reason": "Widely criticized for controversy. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
-    "sourceCount": 7,
+    "sourceCount": 8,
     "image": null
   },
   "tragicHero": {
-    "name": "Gianni Infantino",
-    "team": "Germany",
-    "story": "Football Daily | Scrapped proposals, statement wars and the ongoing Infantino furore <p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up...",
+    "name": "Jonathan Wilson",
+    "team": "Brazil",
+    "story": "The 2026 World Cup is over, but the onslaught of soccer relentlessly rolls on | Leander Schaerlaeckens <p>The supply of soccer seems to be enormously exceeding demand. It’s made the sport feel utterly overwhelming</p><p>On Friday, the Scottish...",
     "sympathyScore": 95,
-    "quote": "Concacaf countries considering withdrawing support for under-fire Gianni Infantino <ul><li><p>Confederation which...",
+    "quote": "Vinícius Júnior to Arsenal doesn’t make sense. That’s why it may work | Jonathan Wilson <p>Mikel Arteta’s team and the..",
     "image": null
   },
   "tribunal": {
