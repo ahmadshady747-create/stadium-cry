@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-05T11:24:39Z",
+    "lastUpdated": "2026-08-05T14:21:37Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,14 +9,8 @@
     ]
   },
   "cryMeter": {
-    "headline": "USMNT Fans Are the Loudest Crybabies at WC2026",
+    "headline": "England Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "USMNT",
-        "complaint": "expensive",
-        "score": 95,
-        "flag": "🇺🇸"
-      },
       {
         "name": "England",
         "complaint": "disgrace",
@@ -42,7 +36,7 @@
         "flag": "🇩🇪"
       }
     ],
-    "overallWhineScore": 16,
+    "overallWhineScore": 13,
     "trending": [
       "expensive",
       "worst",
