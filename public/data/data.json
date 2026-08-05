@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-05T14:21:37Z",
+    "lastUpdated": "2026-08-05T16:45:02Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -36,7 +36,7 @@
         "flag": "🇩🇪"
       }
     ],
-    "overallWhineScore": 13,
+    "overallWhineScore": 12,
     "trending": [
       "expensive",
       "worst",
@@ -56,10 +56,10 @@
   },
   "tragicHero": {
     "name": "Gianni Infantino",
-    "team": "Germany",
+    "team": "Portugal",
     "story": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one candidate: Gianni Infantino, who is on course to be re-elected as Fifa president by a landslide in...",
     "sympathyScore": 95,
-    "quote": "Concacaf countries considering withdrawing support for under-fire Gianni Infantino <ul><li><p>Confederation which...",
+    "quote": "Luís Figo blasts ‘deceitful’ Infantino and says Fifa president must quit to ‘save football’ <ul><li><p>Portugal legend..",
     "image": null
   },
   "tribunal": {
