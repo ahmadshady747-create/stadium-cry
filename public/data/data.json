@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-05T16:45:02Z",
+    "lastUpdated": "2026-08-05T19:43:23Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,8 +9,14 @@
     ]
   },
   "cryMeter": {
-    "headline": "England Fans Are the Loudest Crybabies at WC2026",
+    "headline": "Brazil Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
+      {
+        "name": "Brazil",
+        "complaint": "expensive",
+        "score": 95,
+        "flag": "🇧🇷"
+      },
       {
         "name": "England",
         "complaint": "disgrace",
@@ -36,12 +42,12 @@
         "flag": "🇩🇪"
       }
     ],
-    "overallWhineScore": 12,
+    "overallWhineScore": 16,
     "trending": [
       "expensive",
-      "worst",
       "disgrace",
-      "scandal"
+      "scandal",
+      "worst"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
@@ -56,10 +62,10 @@
   },
   "tragicHero": {
     "name": "Gianni Infantino",
-    "team": "Portugal",
+    "team": "Germany",
     "story": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one candidate: Gianni Infantino, who is on course to be re-elected as Fifa president by a landslide in...",
     "sympathyScore": 95,
-    "quote": "Luís Figo blasts ‘deceitful’ Infantino and says Fifa president must quit to ‘save football’ <ul><li><p>Portugal legend..",
+    "quote": "Concacaf countries considering withdrawing support for under-fire Gianni Infantino <ul><li><p>Confederation which...",
     "image": null
   },
   "tribunal": {
