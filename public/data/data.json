@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-06T03:12:53Z",
+    "lastUpdated": "2026-08-06T08:45:42Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -54,18 +54,18 @@
   "villain": {
     "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 9 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 10 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
-    "sourceCount": 9,
+    "sourceCount": 10,
     "image": null
   },
   "tragicHero": {
     "name": "Gianni Infantino",
-    "team": "Germany",
+    "team": "USMNT",
     "story": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one candidate: Gianni Infantino, who is on course to be re-elected as Fifa president by a landslide in...",
     "sympathyScore": 95,
-    "quote": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup <p>The first 48-team World Cup had its...",
+    "quote": "How to fix Fifa: what can be done to salvage football’s beleaguered governing body? <p>Gianni Infantino followed World..",
     "image": null
   },
   "tribunal": {
