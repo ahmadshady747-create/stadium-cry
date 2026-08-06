@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-05T22:15:37Z",
+    "lastUpdated": "2026-08-06T03:12:53Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -65,7 +65,7 @@
     "team": "Germany",
     "story": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one candidate: Gianni Infantino, who is on course to be re-elected as Fifa president by a landslide in...",
     "sympathyScore": 95,
-    "quote": "Gianni Infantino scrambling for future in Morocco, with Colombia his next stop <ul><li><p>Fifa president sits at match..",
+    "quote": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup <p>The first 48-team World Cup had its...",
     "image": null
   },
   "tribunal": {
@@ -73,15 +73,15 @@
     "sideA": {
       "label": "h confederations could support",
       "description": "Advocating for h confederations could support in this heated debate.",
-      "mockVotes": 51647,
-      "percentage": 43.9
+      "mockVotes": 41944,
+      "percentage": 53.6
     },
     "sideB": {
       "label": "turn against him? <p>Gianni In",
       "description": "Standing firm with turn against him? <p>Gianni In on this issue.",
-      "mockVotes": 66019,
-      "percentage": 56.1
+      "mockVotes": 36293,
+      "percentage": 46.4
     },
-    "totalMockVotes": 117666
+    "totalMockVotes": 78237
   }
 }
