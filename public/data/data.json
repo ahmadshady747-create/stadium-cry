@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-06T14:25:03Z",
+    "lastUpdated": "2026-08-07T00:07:02Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -9,14 +9,8 @@
     ]
   },
   "cryMeter": {
-    "headline": "Brazil Fans Are the Loudest Crybabies at WC2026",
+    "headline": "England Fans Are the Loudest Crybabies at WC2026",
     "topCryers": [
-      {
-        "name": "Brazil",
-        "complaint": "expensive",
-        "score": 95,
-        "flag": "🇧🇷"
-      },
       {
         "name": "England",
         "complaint": "disgrace",
@@ -40,6 +34,12 @@
         "complaint": "scandal",
         "score": 95,
         "flag": "🇩🇪"
+      },
+      {
+        "name": "USMNT",
+        "complaint": "expensive",
+        "score": 95,
+        "flag": "🇺🇸"
       }
     ],
     "overallWhineScore": 16,
@@ -54,34 +54,34 @@
   "villain": {
     "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 10 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
-    "sourceCount": 10,
+    "sourceCount": 8,
     "image": null
   },
   "tragicHero": {
-    "name": "Gianni Infantino",
-    "team": "USMNT",
-    "story": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one candidate: Gianni Infantino, who is on course to be re-elected as Fifa president by a landslide in...",
+    "name": "Real Madrid",
+    "team": "Brazil",
+    "story": "Coming up: six promoted teams to look out for in Europe this season <p>Former European heavyweights, investment projects and teams from tiny towns will liven up the top tiers</p><p>Absent from La Liga since 2018, Dépor were once part of a Spanish...",
     "sympathyScore": 95,
-    "quote": "Uefa planning to check if Infantino tried to sell stakes in World Cup on cheap <ul><li><p>European body to commission...",
+    "quote": "Arsenal hopes dashed after Vinícius Júnior extends Real Madrid contract to 2032 <ul><li><p>Brazil international has...",
     "image": null
   },
   "tribunal": {
-    "question": "The Fifa family: which confederations could support Infantino or turn against hi",
+    "question": "‘They are terrified’: Como spark row with fans over controversial new stadium po",
     "sideA": {
-      "label": "h confederations could support",
-      "description": "Advocating for h confederations could support in this heated debate.",
-      "mockVotes": 41944,
-      "percentage": 53.6
+      "label": "from wearing the opposing team",
+      "description": "Advocating for from wearing the opposing team in this heated debate.",
+      "mockVotes": 20192,
+      "percentage": 33.7
     },
     "sideB": {
-      "label": "turn against him? <p>Gianni In",
-      "description": "Standing firm with turn against him? <p>Gianni In on this issue.",
-      "mockVotes": 36293,
-      "percentage": 46.4
+      "label": "scarves anywhere in the stadiu",
+      "description": "Standing firm with scarves anywhere in the stadiu on this issue.",
+      "mockVotes": 39751,
+      "percentage": 66.3
     },
-    "totalMockVotes": 78237
+    "totalMockVotes": 59943
   }
 }
