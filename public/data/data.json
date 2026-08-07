@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-07T13:15:48Z",
+    "lastUpdated": "2026-08-07T16:00:26Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -55,18 +55,18 @@
   "villain": {
     "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 9 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 10 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
-    "sourceCount": 9,
+    "sourceCount": 10,
     "image": null
   },
   "tragicHero": {
-    "name": "Champions League",
-    "team": "Unknown",
-    "story": "Which footballer made the biggest leap in competitive levels between games? | The Knowledge <p>Plus: worst penalty shootouts, poachers turned gamekeepers … and footballers donating antiques?!</p><ul><li><p><a...",
+    "name": "Gianni Infantino",
+    "team": "Mexico",
+    "story": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one candidate: Gianni Infantino, who is on course to be re-elected as Fifa president by a landslide in...",
     "sympathyScore": 95,
-    "quote": "One potential breakout star for each Premier League club this season <p>A crop of young players emerges every season in.",
+    "quote": "Lucy Bronze backs Uefa’s stance on boycotting Fifa for ‘good of the game’ <ul><li><p>Chelsea defender speaking in...",
     "image": null
   },
   "tribunal": {
