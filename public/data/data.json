@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-07T19:04:36Z",
+    "lastUpdated": "2026-08-07T21:44:36Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -45,19 +45,19 @@
     "overallWhineScore": 16,
     "trending": [
       "expensive",
+      "corrupt",
       "delayed",
       "disgrace",
-      "scandal",
-      "worst"
+      "scandal"
     ],
     "source": "Aggregated from Reddit, RSS, and Google Trends analysis"
   },
   "villain": {
     "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 11 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for hate. Mentioned in 11 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
-    "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
+    "topSlander": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots <p>It has been a remarkable few days for an...",
     "sourceCount": 11,
     "image": null
   },
@@ -66,7 +66,7 @@
     "team": "Mexico",
     "story": "The Guardian view on Gianni Infantino: in the interests of the game he professes to love, he should go | Editorial <p>The Fifa president’s attempt to brazen out the storm, after attempting to sell a stake in the World Cup to private equity, adds...",
     "sympathyScore": 95,
-    "quote": "Lucy Bronze backs Uefa’s stance on boycotting Fifa for ‘good of the game’ <ul><li><p>Chelsea defender speaking in...",
+    "quote": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots <p>It has been a.",
     "image": null
   },
   "tribunal": {
