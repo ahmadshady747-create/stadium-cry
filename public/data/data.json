@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-07T07:24:14Z",
+    "lastUpdated": "2026-08-07T10:04:46Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -55,18 +55,18 @@
   "villain": {
     "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for controversy. Mentioned in 8 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for controversy. Mentioned in 9 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Scandal-proof: why Infantino's Fifa power can't be touched – video <p>The biggest job in world football is up for election - and there’s just one...",
-    "sourceCount": 8,
+    "sourceCount": 9,
     "image": null
   },
   "tragicHero": {
-    "name": "Real Madrid",
-    "team": "Brazil",
-    "story": "Coming up: six promoted teams to look out for in Europe this season <p>Former European heavyweights, investment projects and teams from tiny towns will liven up the top tiers</p><p>Absent from La Liga since 2018, Dépor were once part of a Spanish...",
+    "name": "Champions League",
+    "team": "Unknown",
+    "story": "Which footballer made the biggest leap in competitive levels between games? | The Knowledge <p>Plus: worst penalty shootouts, poachers turned gamekeepers … and footballers donating antiques?!</p><ul><li><p><a...",
     "sympathyScore": 95,
-    "quote": "Arsenal hopes dashed after Vinícius Júnior extends Real Madrid contract to 2032 <ul><li><p>Brazil international has...",
+    "quote": "One potential breakout star for each Premier League club this season <p>A crop of young players emerges every season in.",
     "image": null
   },
   "tribunal": {
