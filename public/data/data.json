@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-08T15:35:24Z",
+    "lastUpdated": "2026-08-08T18:45:44Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -55,10 +55,10 @@
   "villain": {
     "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for hate. Mentioned in 12 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for hate. Mentioned in 11 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots <p>It has been a remarkable few days for an...",
-    "sourceCount": 12,
+    "sourceCount": 11,
     "image": null
   },
   "tragicHero": {
