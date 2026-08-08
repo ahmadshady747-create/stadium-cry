@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-07T21:44:36Z",
+    "lastUpdated": "2026-08-08T01:59:10Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -74,15 +74,15 @@
     "sideA": {
       "label": "from wearing the opposing team",
       "description": "Advocating for from wearing the opposing team in this heated debate.",
-      "mockVotes": 20192,
-      "percentage": 33.7
+      "mockVotes": 59972,
+      "percentage": 52.9
     },
     "sideB": {
       "label": "scarves anywhere in the stadiu",
       "description": "Standing firm with scarves anywhere in the stadiu on this issue.",
-      "mockVotes": 39751,
-      "percentage": 66.3
+      "mockVotes": 53348,
+      "percentage": 47.1
     },
-    "totalMockVotes": 59943
+    "totalMockVotes": 113320
   }
 }
