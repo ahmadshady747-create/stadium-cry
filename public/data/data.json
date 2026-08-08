@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-08T12:58:54Z",
+    "lastUpdated": "2026-08-08T15:35:24Z",
     "updateCycle": "6h",
     "dataVersion": "1.0",
     "coverage": [
@@ -55,15 +55,15 @@
   "villain": {
     "name": "Gianni Infantino",
     "role": "player",
-    "reason": "Widely criticized for hate. Mentioned in 13 posts, fueling massive outrage across US and Canada fan communities.",
+    "reason": "Widely criticized for hate. Mentioned in 12 posts, fueling massive outrage across US and Canada fan communities.",
     "heatScore": 99,
     "topSlander": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots <p>It has been a remarkable few days for an...",
-    "sourceCount": 13,
+    "sourceCount": 12,
     "image": null
   },
   "tragicHero": {
     "name": "Gianni Infantino",
-    "team": "Mexico",
+    "team": "Unknown",
     "story": "The Guardian view on Gianni Infantino: in the interests of the game he professes to love, he should go | Editorial <p>The Fifa president’s attempt to brazen out the storm, after attempting to sell a stake in the World Cup to private equity, adds...",
     "sympathyScore": 95,
     "quote": "Fifa president Gianni Infantino denies claims Uefa paid off alleged ‘lover’ <ul><li><p>Infantino was Uefa general...",
